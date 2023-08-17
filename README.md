@@ -37,20 +37,20 @@
 `Responsibilities:`
 <p align="left">As an intern on this project, my responsibilities will include (will be implemented more):</p>
 
- - [x] Hybrid Environment: Configuring and managing a hybrid IT environment that combines on-premises and cloud resources.
- - [x] Windows Server: Setting up and managing Windows Server instances, including user management, file sharing, and roles.
- - [x] Active Directory: Working with Active Directory to control access, manage users and groups, and implement security policies.
- - [x] Microsoft Azure: Gaining familiarity with Azure services, resource management, and basic cloud architecture.
- - [x] Azure Active Directory: Exploring cloud-based identity and access management, integrating with on-premises AD, and learning about single sign-on.
- - [x] Azure Virtual Desktop: Configuring and maintaining virtual desktop infrastructure in Azure, enabling remote work capabilities.
- - [x] Security Technologies: Learning about security best practices, implementing firewalls & Defender, encryption, and multi-factor authentication.
- - [x] Networking: Understanding networking fundamentals, including IP addressing, subnets, routing, and troubleshooting.
- - [x] Monitoring: Exploring monitoring tools to keep track of system performance, availability, and security incidents
- - [x] Instant Messaging: Setting up and managing messaging platforms like Microsoft Teams for effective communication and collaboration.
- - [x] Microsoft 365: Understanding cloud-based productivity tools and services, including email, document sharing, and collaboration.
- - [x] Azure App Service: Dive into Azure's platform-as-a-service (PaaS) offering, deploying web applications with ease.
- - [x] Container Services: Introduction to containerization using services like Docker & Kubernetes, exploring its benefits and deployment.
- - [x] Azure Databases: Learn about Azure's database offerings and their configuration.
+ - [x] `Hybrid Environment:` Configuring and managing a hybrid IT environment that combines on-premises and cloud resources.
+ - [x] `Windows Server:` Setting up and managing Windows Server instances, including user management, file sharing, and roles.
+ - [x] `Active Directory:` Working with Active Directory to control access, manage users and groups, and implement security policies.
+ - [x] `Microsoft Azure:` Gaining familiarity with Azure services, resource management, and basic cloud architecture.
+ - [x] `Azure Active Directory:` Exploring cloud-based identity and access management, integrating with on-premises AD, and learning about single sign-on.
+ - [x] `Azure Virtual Desktop:` Configuring and maintaining virtual desktop infrastructure in Azure, enabling remote work capabilities.
+ - [x] `Security Technologies:` Learning about security best practices, implementing firewalls & Defender, encryption, and multi-factor authentication.
+ - [x] `Networking:` Understanding networking fundamentals, including IP addressing, subnets, routing, and troubleshooting.
+ - [x] `Monitoring:` Exploring monitoring tools to keep track of system performance, availability, and security incidents
+ - [x] `Instant Messaging:` Setting up and managing messaging platforms like Microsoft Teams for effective communication and collaboration.
+ - [x] `Microsoft 365:` Understanding cloud-based productivity tools and services, including email, document sharing, and collaboration.
+ - [x] `Azure App Service:` Dive into Azure's platform-as-a-service (PaaS) offering, deploying web applications with ease.
+ - [x] `Container Services:` Introduction to containerization using services like Docker & Kubernetes, exploring its benefits and deployment.
+ - [x] `Azure Databases:` Learn about Azure's database offerings and their configuration.
 
 ---
 <br />
@@ -113,7 +113,7 @@
 
 </div>
 
-<h3 align="left">Note: Feel free to reach out to me for guidance and assistance throughout the project. I will be pleased to have you on board and your contributions to the world of IT system administration!</h3>
+<h4 align="left">Note: Feel free to reach out to me for guidance and assistance throughout the project. I will be pleased to have you on board and your contributions to the world of IT system administration!</h4>
 
 ---
 
