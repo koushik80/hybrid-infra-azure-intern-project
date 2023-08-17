@@ -105,7 +105,7 @@
 
 <div>
 
-`Project Gallery: :milky_way:`
+`Project Gallery:` :milky_way:
 
 <div>
 
