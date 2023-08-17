@@ -133,6 +133,17 @@
 [Intune](https://github.com/koushik80/Intune) <br />
 [vpn-gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site) <br />
 [Azure ARC](https://azure.microsoft.com/en-us/products/azure-arc) <br />
+[hyper-v to Azure](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-hyper-v?tabs=UI) <br />
+[basic-hybrid-environment](https://learn.microsoft.com/en-us/training/modules/create-basic-hybrid-environment/) <br />
+[hybrid join](https://learn.microsoft.com/en-us/azure/active-directory/devices/how-to-hybrid-join) <br />
+[solution-deployment-connectivity](https://learn.microsoft.com/en-us/azure/architecture/hybrid/deployments/solution-deployment-guide-connectivity) <br />
+[hybrid-join-manual](https://learn.microsoft.com/en-us/azure/active-directory/devices/hybrid-join-manual) <br />
+[app-service-hybrid-connections](https://learn.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections) <br />
+[office-365-and-migrate-to-exchange-online](https://blog.netwrix.com/2019/01/03/how-to-set-up-a-hybrid-office-365-and-migrate-to-exchange-online/) <br />
+[set-up-a-hybrid-exchange-office-365-environment]() <br />
+[](https://codersera.com/blog/set-up-a-hybrid-exchange-office-365-environment/) <br />
+[hybrid-configuration-wizard](https://www.azure365pro.com/office-365-hybrid-configuration-wizard-step-by-step/) <br />
+[Windows-Server-on-Azure](https://www.azure.cn/content/marketing-resource/media/Ultimate-Guide-to-Windows-Server-on-Azure.pdf) <br />
 
 ---
 
