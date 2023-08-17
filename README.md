@@ -140,8 +140,8 @@
 [hybrid-join-manual](https://learn.microsoft.com/en-us/azure/active-directory/devices/hybrid-join-manual) <br />
 [app-service-hybrid-connections](https://learn.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections) <br />
 [office-365-and-migrate-to-exchange-online](https://blog.netwrix.com/2019/01/03/how-to-set-up-a-hybrid-office-365-and-migrate-to-exchange-online/) <br />
-[set-up-a-hybrid-exchange-office-365-environment]() <br />
-[](https://codersera.com/blog/set-up-a-hybrid-exchange-office-365-environment/) <br />
+[set-up-a-hybrid-office-365-and-migrate-to-exchange-online](https://blog.netwrix.com/2019/01/03/how-to-set-up-a-hybrid-office-365-and-migrate-to-exchange-online/) <br />
+[Office 365-migrate to exchange env](https://codersera.com/blog/set-up-a-hybrid-exchange-office-365-environment/) <br />
 [hybrid-configuration-wizard](https://www.azure365pro.com/office-365-hybrid-configuration-wizard-step-by-step/) <br />
 [Windows-Server-on-Azure](https://www.azure.cn/content/marketing-resource/media/Ultimate-Guide-to-Windows-Server-on-Azure.pdf) <br />
 
