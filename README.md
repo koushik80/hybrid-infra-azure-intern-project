@@ -1,14 +1,14 @@
-# Hi there<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>! Here goes below my Project information
+# Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/> Here goes below my Project information
 
 <div>
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="35" height="35"/>
 </div>
-<h2 align="center"><a href="">Hybrid-Infra with Azure  :computer: + :thought_balloon:</a></h2>
+<h2 align="center"><a href="">Hybrid-Infrastructure with Azure  :computer: + :thought_balloon:</a></h2>
 </div>
 
 <div>
-<h4 align="center"><a href="">Note: This project is underdevelopment...</a></h4>
+<h4 align="center"><a href="">Note: Started this project and it's underdevelopment...</a></h4>
 </div>
 
 ---
@@ -78,6 +78,7 @@
 
 - Demonstrate proficiency in setting up and managing Windows Server instances. <br />
 - Administer user accounts, groups, and security policies within Active Directory. <br />
+- Configure and maintain a hybrid environment that maximizes efficiency. <br />
 - Understand the integration between on-premises AD and Azure AD. <br />
 - Integrate on-premises and Azure Active Directory environments seamlessly. <br />
 - Configure and optimize Azure Virtual Desktop for remote work scenarios. <br />
@@ -89,7 +90,7 @@
 - Grasp the concept of containerization and its practical applications. <br />
 - Configure and manage Azure databases for various application requirements. <br />
 - Grasp containerization concepts and deploy applications using Azure's container services. <br />
-- Configure and maintain a hybrid environment that maximizes efficiency. <br />
+
 
 ---
 
@@ -128,9 +129,9 @@
 [MS-700 | Managing-Microsoft-Teams](https://github.com/MicrosoftLearning/MS-700-Managing-Microsoft-Teams) <br />
 [AZ-700 |Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions) <br />
 [AZ-500 | AzureSecurityTechnologies](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies) <br />
+[SC-200T00A | Microsoft-Security-Operations-Analyst](https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst) <br />
 [Intune](https://github.com/koushik80/Intune) <br />
 [vpn-gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site) <br />
-[SC-200T00A | Microsoft-Security-Operations-Analyst](https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst) <br />
 [Azure ARC](https://azure.microsoft.com/en-us/products/azure-arc) <br />
 
 ---
