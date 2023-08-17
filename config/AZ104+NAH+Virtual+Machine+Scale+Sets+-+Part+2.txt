@@ -1,0 +1,7 @@
+sudo apt-get update
+
+The sudo apt-get update command is used to download package information from all configured sources.
+
+sudo apt-get install stress
+
+stress --cpu 1000

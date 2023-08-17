@@ -1,0 +1,24 @@
+# list all subscription
+az account list --output table
+
+# get the current default subscription using show
+az account show --output table
+
+#change to required subscription 
+az account set --subscription "Pay-As-You-Go"
+
+
+#Create a resource group with the az group create command.
+az group create --name rg-containergroup --location eastus
+
+#Azure Cloud Shell, you can use Visual Studio Code to create the file in your working directory:
+code azuredeploy.json
+
+#Deploy the template with the az deployment group create command.
+az deployment group create --resource-group rg-containergroup --template-file azuredeploy.json
+
+#To view the state of the deployment, use the following az container show command:
+az container show --resource-group rg-containergroup --name myContainerGroup --output table
+
+#View the log output of a container using the az container logs command.
+az container logs --resource-group rg-containergroup --name myContainerGroup --container-name aci-tutorial-app

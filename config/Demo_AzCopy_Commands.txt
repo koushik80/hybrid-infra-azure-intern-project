@@ -1,0 +1,50 @@
+Download AzCopy Tool
+https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
+
+
+<<<<< List of all the available commands >>>>>
+Azcopy
+
+<<<<< Help related to list command >>>>>
+azcopy list -h
+
+<<<<< List all the files in storage account >>>>>
+azcopy list "https://demostorage1009.blob.core.windows.net/?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupitfx&se=2022-03-29T04:04:09Z&st=2022-03-24T20:04:09Z&spr=https&sig=YtLK%2BimV%2BxDAZIsN8p7WM5DaxtxHJs1gd%2FhpbO2J41Y%3D"
+
+<<<<< Upload a file direct to storage account >>>>>
+azcopy copy az900.jpg "https://demostorage1009.blob.core.windows.net/?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupitfx&se=2022-03-29T04:04:09Z&st=2022-03-24T20:04:09Z&spr=https&sig=YtLK%2BimV%2BxDAZIsN8p7WM5DaxtxHJs1gd%2FhpbO2J41Y%3D"
+
+<<<<<  To create a container >>>>>
+azcopy make "https://demostorage1009.blob.core.windows.net/azcopycontainer?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupitfx&se=2022-03-29T04:04:09Z&st=2022-03-24T20:04:09Z&spr=https&sig=YtLK%2BimV%2BxDAZIsN8p7WM5DaxtxHJs1gd%2FhpbO2J41Y%3D"
+
+<<<<< upload file to container  >>>>>
+azcopy copy az900.jpg "https://demostorage1009.blob.core.windows.net/azcopycontainer/az900.jpg?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupitfx&se=2022-03-29T04:04:09Z&st=2022-03-24T20:04:09Z&spr=https&sig=YtLK%2BimV%2BxDAZIsN8p7WM5DaxtxHJs1gd%2FhpbO2J41Y%3D"
+
+<<<<< Upload all files from a directory >>>>>
+azcopy copy "Directory1/*" "https://demostorage1009.blob.core.windows.net/azcopycontainer/?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupitfx&se=2022-03-29T04:04:09Z&st=2022-03-24T20:04:09Z&spr=https&sig=YtLK%2BimV%2BxDAZIsN8p7WM5DaxtxHJs1gd%2FhpbO2J41Y%3D"
+
+<<<<< Upload only parent directory to Azure storage container >>>>>
+azcopy copy "Directory1/*" "https://demostorage1009.blob.core.windows.net/azcopycontainer/azureDir1?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupitfx&se=2022-03-29T04:04:09Z&st=2022-03-24T20:04:09Z&spr=https&sig=YtLK%2BimV%2BxDAZIsN8p7WM5DaxtxHJs1gd%2FhpbO2J41Y%3D"
+
+<<<<< Upload a directory and all subdirectories to a Azure storage container >>>>>
+azcopy copy "Directory1/*" "https://demostorage1009.blob.core.windows.net/azcopycontainer/Directory1?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupitfx&se=2022-03-29T04:04:09Z&st=2022-03-24T20:04:09Z&spr=https&sig=YtLK%2BimV%2BxDAZIsN8p7WM5DaxtxHJs1gd%2FhpbO2J41Y%3D" --recursive
+
+<<<<< Download from Azure to local drive >>>>>
+azcopy copy "https://demostorage1009.blob.core.windows.net/azcopycontainer/az900.jpg?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupitfx&se=2022-03-29T04:04:09Z&st=2022-03-24T20:04:09Z&spr=https&sig=YtLK%2BimV%2BxDAZIsN8p7WM5DaxtxHJs1gd%2FhpbO2J41Y%3D" "az900v1.jpg"
+
+<<<<<  Copy data between two Azure storage accounts >>>>>
+azcopy copy "https://demostorage1009.blob.core.windows.net/azcopycontainer/?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupitfx&se=2022-03-29T04:04:09Z&st=2022-03-24T20:04:09Z&spr=https&sig=YtLK%2BimV%2BxDAZIsN8p7WM5DaxtxHJs1gd%2FhpbO2J41Y%3D" "https://strproject3.blob.core.windows.net/azcopycontainer/?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupitfx&se=2022-04-25T04:24:21Z&st=2022-03-24T20:24:21Z&spr=https&sig=oKToBalarsIrOlNe5Q6zckqMa3g9JYVVOpUxrLE5Xws%3D" --recursive
+
+<<<<<  Working with files >>>>>
+azcopy list "https://demostorage1009.file.core.windows.net/?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupitfx&se=2022-03-29T04:04:09Z&st=2022-03-24T20:04:09Z&spr=https&sig=YtLK%2BimV%2BxDAZIsN8p7WM5DaxtxHJs1gd%2FhpbO2J41Y%3D"
+
+```````````````````````````````````````````````````````````
+```````````````````````````````````````````````````````````
+```````````````````````````````````````````````````````````
+
+Azure Active Directory - Authentication
+
+azcopy login
+
+azcopy make "https://demostorage1009.blob.core.windows.net/azcopycontainer1"
+
