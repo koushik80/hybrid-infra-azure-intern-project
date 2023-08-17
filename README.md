@@ -124,12 +124,13 @@
 
 <h3 align="left">References: :paperclips:</h3>
 
-[AZ-104 | MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) <br />
-[AZ-140 | Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop](https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop) <br />
-[MS-700 | Managing-Microsoft-Teams](https://github.com/MicrosoftLearning/MS-700-Managing-Microsoft-Teams) <br />
-[AZ-700 |Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions) <br />
-[AZ-500 | AzureSecurityTechnologies](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies) <br />
-[SC-200T00A | Microsoft-Security-Operations-Analyst](https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst) <br />
+[LAB AZ-104 | MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) <br />
+[LAB AZ-140 | Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop](https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop) <br />
+[LAB MS-700 | Managing-Microsoft-Teams](https://github.com/MicrosoftLearning/MS-700-Managing-Microsoft-Teams) <br />
+[LAB AZ-700 | Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions) <br />
+[LAB AZ-500 | AzureSecurityTechnologies](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies) <br />
+[LAB SC-200T00A | Microsoft-Security-Operations-Analyst](https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst) <br />
+[Case Study AZ-305 | Designing Microsoft Azure Infrastructure Solutions](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions) <br />
 [Intune](https://github.com/koushik80/Intune) <br />
 [vpn-gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site) <br />
 [Azure ARC](https://azure.microsoft.com/en-us/products/azure-arc) <br />
