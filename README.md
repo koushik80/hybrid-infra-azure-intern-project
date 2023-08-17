@@ -127,6 +127,7 @@
 [LAB AZ-104 | MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) <br />
 [LAB AZ-140 | Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop](https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop) <br />
 [LAB MS-700 | Managing-Microsoft-Teams](https://github.com/MicrosoftLearning/MS-700-Managing-Microsoft-Teams) <br />
+[LAB MS-900 | Microsoft 365](https://github.com/CloudLabs-AI/MS-900-Lab-Content/blob/master/Module%201:%20Intro%20to%20Microsoft%20365%20Admin%20Center.md) <br />
 [LAB AZ-700 | Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions) <br />
 [LAB AZ-500 | AzureSecurityTechnologies](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies) <br />
 [LAB SC-200T00A | Microsoft-Security-Operations-Analyst](https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst) <br />
