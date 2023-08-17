@@ -104,7 +104,8 @@
 `Scripts (PowerShell):` <br />
 
 <div>
-<h3 align="left">Project Gallery: :milky_way:</h3>
+
+`Project Gallery: :milky_way:`
 
 <div>
 
