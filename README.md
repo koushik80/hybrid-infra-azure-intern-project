@@ -113,8 +113,10 @@
 <div>
 
 `Technologies:`  <br />
-- [x] `Azure Migrate` <br />
-- [x] `Vault` <br />
+- Hyper-V <br />
+- Azure Migrate <br />
+- Vault <br />
+- Azure Site Recovery Provider <br />
 
 </div> <br /> <br />
 
@@ -136,7 +138,25 @@
 
 <div>
 
-`Project Gallery:` :milky_way:
+`Project Gallery:` :milky_way:   <br />
+
+<div>
+
+`Azure Migrate` <br />
+
+</div> <br />
+
+![Hyper-v architecture](https://github.com/koushik80/js-prob-solving/assets/89943976/e438ce15-856b-403f-8492-9a88315eb93c)
+![initial-backup-process_Azure Backup Agent](https://github.com/koushik80/js-prob-solving/assets/89943976/be6ed4e1-f6ef-4cdf-8b08-371c6b527d94)
+<img width="458" alt="Discovery_initiated" src="https://github.com/koushik80/js-prob-solving/assets/89943976/2baaaf17-a67e-47d9-b54d-2dcbb6082c41">
+<img width="429" alt="H-V" src="https://github.com/koushik80/js-prob-solving/assets/89943976/fb795d73-f931-4c6c-8bee-32c1f6db82b9">
+<img width="573" alt="Mig1" src="https://github.com/koushik80/js-prob-solving/assets/89943976/fadfd9e3-6ea0-4222-9c08-e63e1ac3a4ad">
+<img width="951" alt="Mig2" src="https://github.com/koushik80/js-prob-solving/assets/89943976/07d4cf31-0202-46e6-8fa7-c4696e90d892">
+<img width="570" alt="Mig3" src="https://github.com/koushik80/js-prob-solving/assets/89943976/05e13101-282a-40c0-9766-8fe0e9ed0702">
+<img width="883" alt="Mig4" src="https://github.com/koushik80/js-prob-solving/assets/89943976/76ecbe38-1cd5-4c41-a17e-ee6d70d542b3">
+<img width="901" alt="Mg5" src="https://github.com/koushik80/js-prob-solving/assets/89943976/1c999b2e-76fb-4b4b-9889-c7ee32343b4a">
+<img width="918" alt="Mig6" src="https://github.com/koushik80/js-prob-solving/assets/89943976/51cb1c30-6ce4-46d5-b29f-0f73f60a9e7a">
+<img width="917" alt="Mig7" src="https://github.com/koushik80/js-prob-solving/assets/89943976/4edbd87c-11a8-451c-9128-f3bdd9ec75bf">
 
 <div>
 
