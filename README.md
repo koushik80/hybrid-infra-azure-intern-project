@@ -166,7 +166,7 @@
 
 </div>
 
-<h4 align="left">Note: Feel free to reach out to me for guidance and assistance throughout the project. I will be pleased to have you on board and your contributions to the world of IT system administration!</h4>
+<h4 align="left">Note: Feel free to reach out to me for guidance and assistance throughout the project. I will be pleased to have you on board and your contributions to the world of IT system architecture!</h4>
 
 ---
 
