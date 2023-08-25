@@ -146,6 +146,10 @@
 
 </div> <br />
 
+
+
+<div>
+
 ![Hyper-v architecture](https://github.com/koushik80/js-prob-solving/assets/89943976/e438ce15-856b-403f-8492-9a88315eb93c)
 ![initial-backup-process_Azure Backup Agent](https://github.com/koushik80/js-prob-solving/assets/89943976/be6ed4e1-f6ef-4cdf-8b08-371c6b527d94)
 <img width="458" alt="Discovery_initiated" src="https://github.com/koushik80/js-prob-solving/assets/89943976/2baaaf17-a67e-47d9-b54d-2dcbb6082c41">
@@ -157,8 +161,6 @@
 <img width="901" alt="Mg5" src="https://github.com/koushik80/js-prob-solving/assets/89943976/1c999b2e-76fb-4b4b-9889-c7ee32343b4a">
 <img width="918" alt="Mig6" src="https://github.com/koushik80/js-prob-solving/assets/89943976/51cb1c30-6ce4-46d5-b29f-0f73f60a9e7a">
 <img width="917" alt="Mig7" src="https://github.com/koushik80/js-prob-solving/assets/89943976/4edbd87c-11a8-451c-9128-f3bdd9ec75bf">
-
-<div>
 
 </div>
 
