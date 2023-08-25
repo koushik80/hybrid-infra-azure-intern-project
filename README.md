@@ -18,7 +18,7 @@
 
 <h1 align="center">IT System Expert Internship Project</h1>
 
-<p align="left">Welcome to the IT System Specialist Internship Project! This hands-on opportunity is designed to provide me with real-world experience in managing and maintaining a variety of technologies essential to modern IT infrastructure. As an intern in this project, I will have the chance to work with a wide range of tools and platforms, contributing to the setup, configuration, and management of critical systems.
+<p align="left">Welcome to the IT System Expert Internship Project! This hands-on opportunity is designed to provide me with real-world experience in managing and maintaining a variety of technologies essential to modern IT infrastructure. As an intern in this project, I will have the chance to work with a wide range of tools and platforms, contributing to the setup, configuration, and management of critical systems.
 </p>
 
 <h3 align="left">Project Purpose: 📓 </h3>
@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Organisation: Taitotalo :convenience_store: </h3>
-<h3 align="left">Mentors: Kari Vikman & Jarkko Tornberg :busts_in_silhouette: </h3>
+<h3 align="left">Supervisors: Kari Vikman & Jarkko Tornberg :busts_in_silhouette: </h3>
 
 ---
 <br />
