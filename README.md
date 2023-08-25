@@ -150,17 +150,18 @@
 
 <div>
 
-![Hyper-v architecture](https://github.com/koushik80/js-prob-solving/assets/89943976/e438ce15-856b-403f-8492-9a88315eb93c)
-![initial-backup-process_Azure Backup Agent](https://github.com/koushik80/js-prob-solving/assets/89943976/be6ed4e1-f6ef-4cdf-8b08-371c6b527d94)
-<img width="458" alt="Discovery_initiated" src="https://github.com/koushik80/js-prob-solving/assets/89943976/2baaaf17-a67e-47d9-b54d-2dcbb6082c41">
-<img width="429" alt="H-V" src="https://github.com/koushik80/js-prob-solving/assets/89943976/fb795d73-f931-4c6c-8bee-32c1f6db82b9">
-<img width="573" alt="Mig1" src="https://github.com/koushik80/js-prob-solving/assets/89943976/fadfd9e3-6ea0-4222-9c08-e63e1ac3a4ad">
-<img width="951" alt="Mig2" src="https://github.com/koushik80/js-prob-solving/assets/89943976/07d4cf31-0202-46e6-8fa7-c4696e90d892">
-<img width="570" alt="Mig3" src="https://github.com/koushik80/js-prob-solving/assets/89943976/05e13101-282a-40c0-9766-8fe0e9ed0702">
-<img width="883" alt="Mig4" src="https://github.com/koushik80/js-prob-solving/assets/89943976/76ecbe38-1cd5-4c41-a17e-ee6d70d542b3">
-<img width="901" alt="Mg5" src="https://github.com/koushik80/js-prob-solving/assets/89943976/1c999b2e-76fb-4b4b-9889-c7ee32343b4a">
-<img width="918" alt="Mig6" src="https://github.com/koushik80/js-prob-solving/assets/89943976/51cb1c30-6ce4-46d5-b29f-0f73f60a9e7a">
-<img width="917" alt="Mig7" src="https://github.com/koushik80/js-prob-solving/assets/89943976/4edbd87c-11a8-451c-9128-f3bdd9ec75bf">
+![Hyper-v architecture](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4fd7008d-6ad0-4d4a-a9db-fa82ab3e275b)
+![initial-backup-process_Azure Backup Agent](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/76006cf9-c316-4363-b16a-91eb8649e377)
+<img width="458" alt="Discovery_initiated" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/57ba3bd1-1a99-4060-acfc-942f82cda880">
+<img width="429" alt="H-V" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/61f113d3-90fe-4f39-83a5-e3398c5c4757">
+<img width="573" alt="Mig1" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5148473e-e604-4d84-b482-ebb1428490a4">
+<img width="951" alt="Mig2" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/48fbc180-6ad8-46ab-9081-c0d6fbed9da6">
+<img width="570" alt="Mig3" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d340c9f0-0758-4c05-ae9b-adde5a2da59f">
+<img width="883" alt="Mig4" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a145e700-fb50-45af-83cb-881f341bf10e">
+<img width="901" alt="Mg5" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0803a7a0-ca1a-45ec-b624-03ad7912d335">
+<img width="918" alt="Mig6" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8472d36c-c5f7-4269-b2e1-4eb7b31cc491">
+<img width="917" alt="Mig7" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f9e254bf-15df-4894-89a6-de2cef74e84d">
+
 
 </div>
 
