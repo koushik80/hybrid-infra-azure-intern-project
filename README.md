@@ -98,11 +98,41 @@
 
 ---
 
-`Technical:` <br />
-`Configuration:` <br />
-`Technologies:` <br />
-`Operation Systems:` <br />
-`Scripts (PowerShell):` <br />
+<div>
+
+`Technical Doc:`
+
+</div>  <br />
+
+<div>
+
+`Configuration:`
+
+</div> <br />
+
+<div>
+
+`Technologies:`  <br />
+- [x] `Azure Migrate` <br />
+- [x] `Vault` <br />
+
+</div> <br /> <br />
+
+<div>
+
+`Operation Systems:`
+
+</div> <br />
+
+<div>
+
+`Scripts (PowerShell):`
+
+</div> <br />
+
+
+
+
 
 <div>
 
@@ -146,6 +176,14 @@
 [Office 365-migrate to exchange env](https://codersera.com/blog/set-up-a-hybrid-exchange-office-365-environment/) <br />
 [hybrid-configuration-wizard](https://www.azure365pro.com/office-365-hybrid-configuration-wizard-step-by-step/) <br />
 [Windows-Server-on-Azure](https://www.azure.cn/content/marketing-resource/media/Ultimate-Guide-to-Windows-Server-on-Azure.pdf) <br />
+[MS | Site recovery](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-deployment-planner?wt.mc_id=searchAPI_azureportal_inproduct_rmskilling&sessionId=be1d55d9ac9b4db49f56e879079d98e4) <br />
+[AZ | backup](https://learn.microsoft.com/en-us/azure/backup/install-mars-agent) <br />
+[AZ | Migrate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v#prepare-hyper-v-hosts) <br />
+[AZ | Vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-microsoft-azure-backup#choose-an-installation-platform) <br />
+[]() <br />
+[]() <br />
+[]() <br />
+[]() <br />
 
 ---
 
