@@ -8,7 +8,7 @@
 </div>
 
 <div>
-<h4 align="center"><a href="">Note: Started this project and it's underdevelopment...</a></h4>
+<h4 align="center"><a href="">Note: Started this project [it's underdevelopment...]</a></h4>
 </div>
 
 ---
@@ -16,7 +16,7 @@
 
 ---
 
-<h1 align="center">IT System Specialist Internship Project</h1>
+<h1 align="center">IT System Expert Internship Project</h1>
 
 <p align="left">Welcome to the IT System Specialist Internship Project! This hands-on opportunity is designed to provide me with real-world experience in managing and maintaining a variety of technologies essential to modern IT infrastructure. As an intern in this project, I will have the chance to work with a wide range of tools and platforms, contributing to the setup, configuration, and management of critical systems.
 </p>
