@@ -161,7 +161,13 @@
 <img width="901" alt="Mg5" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0803a7a0-ca1a-45ec-b624-03ad7912d335">
 <img width="918" alt="Mig6" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8472d36c-c5f7-4269-b2e1-4eb7b31cc491">
 <img width="917" alt="Mig7" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f9e254bf-15df-4894-89a6-de2cef74e84d">
-
+<img width="870" alt="Mig8" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4b9869aa-46b2-4560-99ec-9877a7330fb5">
+<img width="889" alt="Mig9" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fc0294ba-3743-4107-8ae3-42162fd41130">
+<img width="706" alt="Mig10" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a735129b-122e-4884-bc93-5a23b747100c">
+<img width="880" alt="Mig11" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0193a9a4-9e5b-4c9a-866b-aabcaf47e509">
+<img width="880" alt="Mig12" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3082caa2-69e1-4aeb-993c-7ec2f7e3f6b6">
+<img width="811" alt="Mig13" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/42e37e0c-c994-4675-abc1-1de34e18f82d">
+<img width="881" alt="Mig14" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ddeb6d4a-6950-4bc9-bd60-33870ff1c152">
 
 </div>
 
@@ -183,6 +189,7 @@
 [LAB MS-900 | Microsoft 365](https://github.com/CloudLabs-AI/MS-900-Lab-Content/blob/master/Module%201:%20Intro%20to%20Microsoft%20365%20Admin%20Center.md) <br />
 [LAB AZ-700 | Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions) <br />
 [LAB AZ-500 | AzureSecurityTechnologies](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies) <br />
+[LAB AZ-801 | Configuring Windows Swerver Hybrid Advance Services](https://github.com/koushik80/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services) <br />
 [LAB SC-200T00A | Microsoft-Security-Operations-Analyst](https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst) <br />
 [Case Study AZ-305 | Designing Microsoft Azure Infrastructure Solutions](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions) <br />
 [Intune](https://github.com/koushik80/Intune) <br />
