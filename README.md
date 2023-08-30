@@ -16,9 +16,9 @@
 
 ---
 
-<h1 align="center">IT System Expert Internship Project</h1>
+<h1 align="center">IT System Expert Internship</h1>
 
-<p align="left">Welcome to the IT System Expert Internship Project! This hands-on opportunity is designed to provide me with real-world experience in managing and maintaining a variety of technologies essential to modern IT infrastructure. As an intern in this project, I will have the chance to work with a wide range of tools and platforms, contributing to the setup, configuration, and management of critical systems.
+<p align="left">Welcome to the IT System Expert Internship Project! This hands-on opportunity is designed to provide me with real-world experience in managing and maintaining a variety of technologies essential to modern IT infrastructure. As an intern in this project, I will have the chance to work with a wide range of tools and platforms, contributing to the Setup, Configuration, Security and Management of critical systems.
 </p>
 
 <h3 align="left">Project Purpose: 📓 </h3>
@@ -35,7 +35,7 @@
 ---
 
 `Responsibilities:`
-<p align="left">As an intern on this project, my responsibilities will include (will be implemented more):</p>
+<p align="left">In this role, my responsibilities are included (continuous implementation): </p>
 
  - [x] `Hybrid Environment:` Configuring and managing a hybrid IT environment that combines on-premises and cloud resources.
  - [x] `Windows Server:` Setting up and managing Windows Server instances, including user management, file sharing, and roles.
@@ -59,11 +59,11 @@
 
 `Getting Started`
 
-<p align="left">To review the project, follow these steps:</p>
+<p align="left">To review my work, follow these steps:</p>
 
 - Clone this repository to your local environment. <br />
 - Review the documentation for each technology area in the respective folders. <br />
-- Engage with hands-on exercises to translate theory into practice. <br />
+- Engage with hands-on exercises/LABS to translate theory into practice. <br />
 - Participate in team discussions and ask questions in the designated communication channels. <br />
 
 ---
@@ -113,8 +113,12 @@
 <div>
 
 `Technologies:`  <br />
-- Hyper-V <br />
+- Hyper-V Manager <br />
 - Azure Migrate <br />
+- Azure Bastion <br />
+- PowerShell <br />
+- Active Directory (AD)
+- Azure Active Directory (AAD)
 - Vault <br />
 - Azure Site Recovery Provider <br />
 
@@ -122,7 +126,10 @@
 
 <div>
 
-`Operation Systems:`
+`Operation Systems:` <br />
+- Windows Server 2019  <br />
+- Windows Server 2022  <br />
+- Windows 10 Pro <br />
 
 </div> <br />
 
@@ -138,11 +145,11 @@
 
 <div>
 
-`Project Gallery:` :milky_way:   <br />
+<h3 align="left">Project Gallery: :milky_way:  </h3> <br />
 
 <div>
 
-`Azure Migrate` <br />
+` Migrating Hyper-V VMs to Azure by using Azure Migrate` <br />
 
 </div> <br />
 
@@ -181,7 +188,7 @@
 
 ---
 
-<h3 align="left">References: :paperclips:</h3>
+<h3 align="left">References: :paperclips: </h3>
 
 [LAB AZ-104 | MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) <br />
 [LAB AZ-140 | Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop](https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop) <br />
