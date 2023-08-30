@@ -157,12 +157,12 @@
 
 <div>
 
-<p float="left">
 
-![Hyper-v architecture](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4fd7008d-6ad0-4d4a-a9db-fa82ab3e275b)
-![initial-backup-process_Azure Backup Agent](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/76006cf9-c316-4363-b16a-91eb8649e377)
 
-</p>
+| Hyper-V Architecture                            | Azure Backup Agent                           |
+| ----------------------------------- | ----------------------------------- |
+| ![Hyper-v architecture](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4fd7008d-6ad0-4d4a-a9db-fa82ab3e275b) | ![initial-backup-process_Azure Backup Agent](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/76006cf9-c316-4363-b16a-91eb8649e377) |
+
 
 <p float="left">
 <img width="33%" alt="Discovery_initiated" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/57ba3bd1-1a99-4060-acfc-942f82cda880">
