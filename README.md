@@ -112,14 +112,15 @@
 
 <div>
 
-`Technologies:`  <br />
+`Technologies Used:`  <br />
 - Hyper-V Manager <br />
 - Azure Migrate <br />
 - Azure Bastion <br />
 - PowerShell <br />
 - Active Directory (AD)
 - Azure Active Directory (AAD)
-- Vault <br />
+- Azure Key Vault(Cloud service for securely storing and accessing secrets) <br />
+- Windows Defender(Security) <br />
 - Azure Site Recovery Provider <br />
 
 </div> <br /> <br />
