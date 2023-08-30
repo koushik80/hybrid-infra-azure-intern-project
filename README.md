@@ -210,6 +210,8 @@
 [AZ | backup](https://learn.microsoft.com/en-us/azure/backup/install-mars-agent) <br />
 [AZ | Migrate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v#prepare-hyper-v-hosts) <br />
 [AZ | Vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-microsoft-azure-backup#choose-an-installation-platform) <br />
+[AZ-140 | Azure Quick Start Template](https://github.com/az140mp/azure-quickstart-templates/tree/master/demos/nested-vms-in-virtual-network) <br />
+
 []() <br />
 []() <br />
 []() <br />
