@@ -8,7 +8,7 @@
 </div>
 
 <div>
-<h4 align="center"><a href="">Note: Started this project [it's underdevelopment...]</a></h4>
+<h4 align="center"><a href="">[underdevelopment...]</a></h4>
 </div>
 
 ---
@@ -180,9 +180,9 @@
 | ![Mig3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d340c9f0-0758-4c05-ae9b-adde5a2da59f) | ![Mig4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a145e700-fb50-45af-83cb-881f341bf10e) |
 
 
-| Mg5               | Mig6               |
+| Mig5               | Mig6               |
 | ---------------------- | ---------------------- |
-| ![Mg5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0803a7a0-ca1a-45ec-b624-03ad7912d335) | ![Mig6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8472d36c-c5f7-4269-b2e1-4eb7b31cc491) |
+| ![Mig5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0803a7a0-ca1a-45ec-b624-03ad7912d335) | ![Mig6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8472d36c-c5f7-4269-b2e1-4eb7b31cc491) |
 
 
 | Mig7               | Mig8               |
