@@ -3,8 +3,9 @@
 <div>
 
 
-<div align="right"><img src="https://media.giphy.com/media/qjY1UPzyE2mER9gNbB/giphy.gif" hight="60" width="60"/></div>
+<div align="center"><img src="https://media.giphy.com/media/qjY1UPzyE2mER9gNbB/giphy.gif" hight="100" width="100"/></div>
 
+<br />
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="35" height="35"/>
 </div>
