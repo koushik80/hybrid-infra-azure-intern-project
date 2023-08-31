@@ -280,8 +280,6 @@
 
 <br />
 
----
-
 <h3 align="left">References: :paperclips: </h3>
 
 [LAB AZ-104 | MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) <br />
