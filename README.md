@@ -3,11 +3,11 @@
 <div>
 
 
-<div align="center"><img src="https://media.giphy.com/media/qjY1UPzyE2mER9gNbB/giphy.gif" hight="100" width="100"/></div>
+<div align="center"><img src="https://media.giphy.com/media/qjY1UPzyE2mER9gNbB/giphy.gif" hight="450" width="450"/></div>
 
 <br />
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="35" height="35"/>
+ <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="45" height="45"/>
 </div>
 <h2 align="center"><a href="">Hybrid-Infrastructure with Azure  :computer: + :thought_balloon:</a></h2>
 </div>
