@@ -1,6 +1,10 @@
 # Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/> Here goes below my Project information
 
 <div>
+
+
+<div align="right"><img src="<div align="right"><img src="https://media.giphy.com/media/gLti5ZsurImFc6rj6Y/giphy.gif" width="40"/></div> " width="60"/></div>
+
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="35" height="35"/>
 </div>
