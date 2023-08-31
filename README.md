@@ -96,7 +96,6 @@
 - Configure and manage Azure databases for various application requirements. <br />
 - Grasp containerization concepts and deploy applications using Azure's container services. <br />
 
-
 ---
 
 <br />
@@ -105,19 +104,23 @@
 
 <div>
 
-`Technical Doc:`
+`Technical Docs:` <br />
+
+- To be continued... <br />
 
 </div>  <br />
 
 <div>
 
-`Configuration:`
+`Configuration:` <br />
+
+- To be continued... <br />
 
 </div> <br />
 
 <div>
 
-`Technologies Used:`  <br />
+`Technologies:`  <br />
 - Hyper-V Manager <br />
 - Azure Migrate <br />
 - Azure Bastion <br />
@@ -127,7 +130,7 @@
 - Azure Key Vault(Cloud service for securely storing and accessing secrets) <br />
 - Windows Defender(Security) <br />
 - Azure Site Recovery Provider <br />
-
+- To be continued... <br />
 </div> <br /> <br />
 
 <div>
@@ -141,12 +144,11 @@
 
 <div>
 
-`Scripts (PowerShell):`
+`Scripts (PowerShell):` <br />
+
+- To be continued... <br />
 
 </div> <br />
-
-
-
 
 
 <div>
@@ -155,11 +157,9 @@
 
 <div>
 
-` Migrating Hyper-V VMs to Azure by using Azure Migrate` <br />
+`Migrating Hyper-V VMs to Azure by using Azure Migrate` <br />
 
 </div> <br />
-
-
 
 <div>
 
