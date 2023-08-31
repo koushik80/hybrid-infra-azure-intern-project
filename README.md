@@ -81,20 +81,90 @@
 
 <p align="left">By the end of this internship project, I will be able to:</p>
 
-- Demonstrate proficiency in setting up and managing Windows Server instances. <br />
-- Administer user accounts, groups, and security policies within Active Directory. <br />
-- Configure and maintain a hybrid environment that maximizes efficiency. <br />
-- Understand the integration between on-premises AD and Azure AD. <br />
-- Integrate on-premises and Azure Active Directory environments seamlessly. <br />
-- Configure and optimize Azure Virtual Desktop for remote work scenarios. <br />
-- Utilize Microsoft Azure services to address diverse business needs. <br />
-- Implement security measures to safeguard IT systems and data. <br />
-- Troubleshoot basic networking issues and implement solutions. <br />
-- Monitor system health and respond to incidents using appropriate tools. <br />
-- Enable efficient communication and collaboration through Microsoft 365 and Teams. <br />
-- Grasp the concept of containerization and its practical applications. <br />
-- Configure and manage Azure databases for various application requirements. <br />
-- Grasp containerization concepts and deploy applications using Azure's container services. <br />
+<h4 align="left">1. IT Service Production Processes (e.g., ITIL):</h4> <br />
+
+    - Gain a comprehensive understanding of IT service production processes.
+    - Apply ITIL principles effectively in daily tasks and projects.
+    - Continuously stay updated on the latest developments and best practices in IT service management.
+
+<h4 align="left">2. Network Topology and Fault Diagnosis:</h4> <br />
+
+    - Develop expertise in analyzing and diagnosing network topology and identifying limitations.
+    - Master the principles of fault diagnosis and troubleshooting in the context of network systems.
+    - Apply these skills to improve network reliability and performance.
+
+<h4 align="left">3. Virtualization and Cloud Services:</h4> <br />
+
+    - Become proficient in installing, maintaining, and troubleshooting Hyper-V, VMware, and Azure-based virtual servers and services.
+    - Learn to use management tools like Windows Admin Center, Intune, O365, and Azure management websites effectively.
+    - Automate tasks using PowerShell where applicable.
+
+<h4 align= "left">4. User Support and Customer Guidance:</h4> <br />
+    - Enhance your communication and problem-solving skills to provide excellent user support.
+    - Develop the ability to guide and assist users with workstations, mobile devices, peripherals, and applications.
+    - Stay updated with emerging technologies and trends in user support.
+
+<h4 align="left">5. Domain Environment and M365/Azure Management:</h4> <br />
+
+    - Master the maintenance and management of domain environment basic services.
+    - Proficiently manage Microsoft 365 (M365) and Azure services. 
+    - Develop problem-solving skills for support tasks related to these environments.
+
+<h4 align="left">6. Communication during Disruptions:</h4> <br />
+
+    - Learn how to effectively communicate with customers during significant disruptions or maintenance work.
+    - Utilize various communication channels such as webpages, email, and social media tools.
+    - Ensure customers are well-informed and minimize disruptions to their work.
+
+<h4 align="left">7. Server Hardware and Software Management:</h4> <br />
+
+    - Acquire expertise in installing, monitoring, maintaining, and updating physical and virtual servers.
+    - Consider hardware requirements for server installations.
+    - Efficiently manage server hardware and peripherals.
+
+<h4 align="left">8. Windows Server and Workstations:</h4> <br />
+
+    - Gain proficiency in installing and managing Windows Server 2019 and Windows 10 workstations.
+    - Handle system updates and maintenance efficiently, following standardized schedules.
+
+<h4 align="left">9. Active Directory and Azure AD:</h4> <br />
+
+    - Maintain AD/Azure AD structures and manage user accounts and groups using appropriate tools, including PowerShell.
+    - Implement security policies and best practices for AD and Azure AD.
+
+<h4 align="left">10. Server and Application Monitoring:</h4> <br />
+
+    - Learn to monitor servers and critical server applications using various tools.
+    - Proactively implement maintenance and device/resource management based on monitoring data.
+
+<h4 align="left">11. Security Procedures and Applications:</h4> <br />
+
+    - Familiarize yourself with workplace security procedures and applications.
+    - Acquire the skills to restore systems and data in case of security incidents.
+
+<h4 align="left">12. Azure Services and Technologies:</h4> <br />
+
+    - Explore Azure's platform-as-a-service (PaaS) offerings, such as Azure App Service and Container Services.
+    - Learn about Azure databases, hybrid environments, and Azure Virtual Desktop.
+    - Gain a fundamental understanding of Azure architecture and management.
+
+<h4 align="left">13. Security Technologies and Networking:</h4> <br />
+
+    - Implement security best practices, including firewalls, Defender, encryption, and multi-factor authentication.
+    - Understand networking fundamentals, including IP addressing, subnets, routing, and troubleshooting.
+
+<h4 align="left">14. Monitoring and Collaboration:</h4> <br />
+
+    - Use monitoring tools effectively to track system performance, availability, and security incidents.
+    - Set up and manage messaging platforms like Microsoft Teams for effective communication and collaboration.
+
+<h4 align="left">15. Microsoft 365:</h4> <br />
+    - Understand cloud-based productivity tools and services within Microsoft 365.
+    - Master email, document sharing, and collaboration features.
+
+<br /><br />
+
+<p align="left">These learning objectives will help me build a strong foundation and continuously develop the skills and knowledge required to excel in my role within the IT environment. I will set specific goals and regularly assess my progress towards achieving these objectives.</p>
 
 ---
 
