@@ -100,6 +100,7 @@
 - Automate tasks using PowerShell where applicable.
 
 <h4 align= "left">4. User Support and Customer Guidance:</h4> <br />
+
 - Enhance your communication and problem-solving skills to provide excellent user support.
 - Develop the ability to guide and assist users with workstations, mobile devices, peripherals, and applications.
 - Stay updated with emerging technologies and trends in user support.
