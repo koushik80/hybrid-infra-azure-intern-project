@@ -16,9 +16,8 @@
 <h4 align="center"><a href="">[underdevelopment...]</a></h4>
 </div>
 
----
-<br />
 
+<br />
 ---
 
 <h1 align="center">IT System Expert Internship</h1>
@@ -34,10 +33,9 @@
 <h3 align="left">Organisation: Taitotalo :convenience_store: </h3>
 <h3 align="left">Supervisors: Kari Vikman & Jarkko Tornberg :busts_in_silhouette: </h3>
 
----
+
 <br />
 
----
 
 `Responsibilities:`
 <p align="left">In this role, my responsibilities are included (continuous implementation): </p>
@@ -57,10 +55,7 @@
  - [x] `Container Services:` Introduction to containerization using services like Docker & Kubernetes, exploring its benefits and deployment.
  - [x] `Azure Databases:` Learn about Azure's database offerings and their configuration.
 
----
 <br />
-
----
 
 `Getting Started`
 
@@ -71,11 +66,7 @@
 - Engage with hands-on exercises/LABS to translate theory into practice. <br />
 - Participate in team discussions and ask questions in the designated communication channels. <br />
 
----
-
 <br />
-
----
 
 `Learning Objectives`
 
@@ -168,11 +159,7 @@
 
 <p align="left">These learning objectives will help me build a strong foundation and continuously develop the skills and knowledge required to excel in my role within the IT environment. I will set specific goals and regularly assess my progress towards achieving these objectives.</p>
 
----
-
 <br />
-
----
 
 <div>
 
