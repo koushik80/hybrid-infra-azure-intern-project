@@ -159,10 +159,11 @@
 - Set up and manage messaging platforms like Microsoft Teams for effective communication and collaboration.
 
 <h4 align="left">15. Microsoft 365:</h4> <br />
+
 - Understand cloud-based productivity tools and services within Microsoft 365.
 - Master email, document sharing, and collaboration features.
 
-<br /><br />
+<br />
 
 <p align="left">These learning objectives will help me build a strong foundation and continuously develop the skills and knowledge required to excel in my role within the IT environment. I will set specific goals and regularly assess my progress towards achieving these objectives.</p>
 
