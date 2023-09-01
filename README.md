@@ -188,6 +188,10 @@
 - Azure Active Directory (AAD)
 - Azure Key Vault(Cloud service for securely storing and accessing secrets) <br />
 - Windows Defender(Security) <br />
+- Network Security Group(NSG) <br />
+- Firewall Rules <br />
+- Application Security Group <br />
+- VPN Gateway <br />
 - Azure Site Recovery Provider <br />
 - To be continued... <br />
 </div> <br /> <br />
