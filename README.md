@@ -1,4 +1,4 @@
-# Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/> Here goes below my practical information
+# Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/> Here is my practical work information below
 
 <div>
 
@@ -42,12 +42,12 @@
 
  - [x] `Hybrid Environment:` Configuring and managing a hybrid IT environment that combines on-premises and cloud resources.
  - [x] `Windows Server:` Setting up and managing Windows Server instances, including user management, file sharing, and roles.
- - [x] `Active Directory:` Working with Active Directory to control access, manage users and groups, and implement security policies.
+ - [x] `Active Directory(AAD):` Working with Active Directory to control access, manage users and groups, and implement security policies.
  - [x] `Microsoft Azure:` Gaining familiarity with Azure services, resource management, and basic cloud architecture.
- - [x] `Azure Active Directory/Microsoft Entra ID:` Exploring cloud-based identity and access management, integrating with on-premises AD, and learning about single sign-on.
- - [x] `Azure Virtual Desktop:` Configuring and maintaining virtual desktop infrastructure in Azure, enabling remote work capabilities.
- - [x] `Security Technologies:` Learning about security best practices, implementing firewalls & Defender, encryption, and multi-factor authentication.
- - [x] `Networking:` Understanding networking fundamentals, including IP addressing, subnets, routing, and troubleshooting.
+ - [x] `Azure Active Directory(AAD)/Microsoft Entra ID:` Exploring cloud-based identity and access management, integrating with on-premises AD, and learning about single sign-on.
+ - [x] `Azure Virtual Desktop(AVD):` Configuring and maintaining virtual desktop infrastructure in Azure, enabling remote work capabilities.
+ - [x] `Security Technologies:` Learning about security best practices, implementing Firewalls & Defender, encryption, and multi-factor authentication(MFA).
+ - [x] `Networking:` Understanding networking fundamentals, including IP addressing, subnets, routing, security and troubleshooting.
  - [x] `Monitoring:` Exploring monitoring tools to keep track of system performance, availability, and security incidents
  - [x] `Instant Messaging:` Setting up and managing messaging platforms like Microsoft Teams for effective communication and collaboration.
  - [x] `Microsoft 365:` Understanding cloud-based productivity tools and services, including email, document sharing, and collaboration.
@@ -194,7 +194,8 @@
 - VPN Gateway <br />
 - VNET GATEWAY & Virtual WAN <br />
 - Azure Site Recovery Provider <br />
-- Microsoft 365 <br />
+- Microsoft 365 Admin <br />
+- Teams Admin <br />
 - To be continued... <br />
 </div> <br /> <br />
 
