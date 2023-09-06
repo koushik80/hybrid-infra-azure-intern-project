@@ -185,13 +185,14 @@
 - Azure Bastion <br />
 - PowerShell <br />
 - Active Directory(AD)
-- Azure Active Directory(AAD) / Microsoft Entra ID
+- Azure Active Directory(AAD)/Microsoft Entra ID
 - Azure Key Vault(Cloud service for securely storing and accessing secrets) <br />
 - Windows Defender(Security) <br />
 - Network Security Group(NSG) <br />
 - Application Security Group(ASG) <br />
 - Firewall Rules <br />
 - VPN Gateway <br />
+- VNET GATEWAY & Virtual WAN <br />
 - Azure Site Recovery Provider <br />
 - Microsoft 365 <br />
 - To be continued... <br />
@@ -203,6 +204,8 @@
 - Windows Server 2019  <br />
 - Windows Server 2022  <br />
 - Windows 10 Pro <br />
+- Windows 10 Enterprise <br />
+- macOS Ventura (13.5.1) <br />
 
 </div> <br />
 
@@ -217,7 +220,7 @@
 
 <div>
 
-<h3 align="left">Project Gallery: :milky_way:  </h3> <br />
+<h3 align="left">Exercise Gallery: :milky_way:  </h3> <br />
 
 <div>
 
@@ -331,7 +334,7 @@
 
 </div>
 
-<h4 align="left">Note: Feel free to reach out to me for guidance and assistance throughout the project. I will be pleased to have you on board and your contributions to the world of IT system architecture!</h4>
+<h4 align="left">Note: Feel free to reach out to me for guidance and assistance throughout the internship. I will be pleased to have you on board and your contributions to the world of IT system architecture!</h4>
 
 ---
 
