@@ -44,7 +44,7 @@
  - [x] `Windows Server:` Setting up and managing Windows Server instances, including user management, file sharing, and roles.
  - [x] `Active Directory:` Working with Active Directory to control access, manage users and groups, and implement security policies.
  - [x] `Microsoft Azure:` Gaining familiarity with Azure services, resource management, and basic cloud architecture.
- - [x] `Azure Active Directory:` Exploring cloud-based identity and access management, integrating with on-premises AD, and learning about single sign-on.
+ - [x] `Azure Active Directory/Microsoft Entra ID:` Exploring cloud-based identity and access management, integrating with on-premises AD, and learning about single sign-on.
  - [x] `Azure Virtual Desktop:` Configuring and maintaining virtual desktop infrastructure in Azure, enabling remote work capabilities.
  - [x] `Security Technologies:` Learning about security best practices, implementing firewalls & Defender, encryption, and multi-factor authentication.
  - [x] `Networking:` Understanding networking fundamentals, including IP addressing, subnets, routing, and troubleshooting.
@@ -277,6 +277,7 @@
 
 </div>
 
+<br />
 <div>
 
 `MS-100T00-Microsoft-365-Identity-and-Services` <br />
