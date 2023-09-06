@@ -239,37 +239,37 @@
 | ![ Discovery_initiated](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/57ba3bd1-1a99-4060-acfc-942f82cda880) | ![Hyper-V Source](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/61f113d3-90fe-4f39-83a5-e3398c5c4757) |
 
 
-| Mig1               | Mig2               |
+| Migration(AZ-801)               | Migration(AZ-801)               |
 | ---------------------- | ---------------------- |
 | ![ Mig1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5148473e-e604-4d84-b482-ebb1428490a4) | ![Mig2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/48fbc180-6ad8-46ab-9081-c0d6fbed9da6) |
 
 
-| Mig3               | Mig4              |
+| Migration(AZ-801)               | Migration(AZ-801)              |
 | ---------------------- | ---------------------- |
 | ![Mig3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d340c9f0-0758-4c05-ae9b-adde5a2da59f) | ![Mig4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a145e700-fb50-45af-83cb-881f341bf10e) |
 
 
-| Mig5               | Mig6               |
+| Migration(AZ-801)               | Migration(AZ-801)               |
 | ---------------------- | ---------------------- |
 | ![Mig5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0803a7a0-ca1a-45ec-b624-03ad7912d335) | ![Mig6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8472d36c-c5f7-4269-b2e1-4eb7b31cc491) |
 
 
-| Mig7               | Mig8               |
+| Migration(AZ-801)               | Migration(AZ-801)               |
 | ---------------------- | ---------------------- |
 | ![Mig7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f9e254bf-15df-4894-89a6-de2cef74e84d) | ![Mig8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4b9869aa-46b2-4560-99ec-9877a7330fb5) |
 
 
-| Mig9               | Mig10               |
+| Migration(AZ-801)               | Migration(AZ-801)               |
 | ---------------------- | ---------------------- |
 | ![Mig9](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fc0294ba-3743-4107-8ae3-42162fd41130) | ![Mig10](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a735129b-122e-4884-bc93-5a23b747100c) |
 
 
-| Mig11               | Mig12               |
+| Migration(AZ-801)               | Migration(AZ-801)               |
 | ---------------------- | ---------------------- |
 | ![Mig11](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0193a9a4-9e5b-4c9a-866b-aabcaf47e509) | ![Mig12](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3082caa2-69e1-4aeb-993c-7ec2f7e3f6b6) |
 
 
-| Mig13               | Mig14               |
+| Migration(AZ-801)               | Migration(AZ-801)               |
 | ---------------------- | ---------------------- |
 | ![Mig13](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/42e37e0c-c994-4675-abc1-1de34e18f82d) | ![Mig14](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ddeb6d4a-6950-4bc9-bd60-33870ff1c152) |
 
@@ -306,7 +306,7 @@
 [LAB MS-900 | Microsoft 365](https://github.com/CloudLabs-AI/MS-900-Lab-Content/blob/master/Module%201:%20Intro%20to%20Microsoft%20365%20Admin%20Center.md) <br />
 [LAB AZ-700 | Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions) <br />
 [LAB AZ-500 | AzureSecurityTechnologies](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies) <br />
-[LAB AZ-801 | Configuring Windows Swerver Hybrid Advance Services](https://github.com/koushik80/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services) <br />
+[LAB AZ-801 | Configuring Windows Server Hybrid Advance Services](https://github.com/koushik80/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services) <br />
 [LAB SC-200T00A | Microsoft-Security-Operations-Analyst](https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst) <br />
 [Case Study AZ-305 | Designing Microsoft Azure Infrastructure Solutions](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions) <br />
 [Microsoft-365-Identity-and-Services | MS-100T00](https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/blob/master/Instructions/Labs/LAB_AK_02_Lab1_Ex1_Initialize_M365_Tenant.md) <br />
