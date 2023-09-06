@@ -311,7 +311,7 @@
 
 | AZ-700                | AZ-700                |
 | ---------------------- | ---------------------- |
-| ![vnetGatewayE](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0c9f26dd-fc83-4fff-a9d9-e2814ea8a725) | ![vnetGatewayF]() |
+| ![vnetGatewayE](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0c9f26dd-fc83-4fff-a9d9-e2814ea8a725) | ![vnetGatewayF](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9a0a7f92-8316-4449-8f91-54b49e271f2a) |
 
 <br />
 
