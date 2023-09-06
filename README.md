@@ -295,7 +295,7 @@
 <br />
 <div>
 
-`VNET GATEWAY Connection` <br />
+`VNET GATEWAY & Virtual WAN Connection` <br />
 
 </div> <br />
 
@@ -313,6 +313,19 @@
 | AZ-700                | AZ-700                |
 | ---------------------- | ---------------------- |
 | ![vnetGatewayE](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0c9f26dd-fc83-4fff-a9d9-e2814ea8a725) | ![vnetGatewayF](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9a0a7f92-8316-4449-8f91-54b49e271f2a) |
+
+
+
+| AZ-700                | AZ-700                |
+| ---------------------- | ---------------------- |
+| ![vWAN](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cc63c30a-d6db-460f-9d9f-274ec1d4847d) | ![vWAN-connected vnet](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/161005ba-04dd-4f31-bf13-53d62e037375) |
+
+
+
+| AZ-700                | AZ-700                |
+| ---------------------- | ---------------------- |
+| ![vWAN-vnet-connection](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/87fcc58f-6248-4d48-9975-05dcd5a6389a) | ![vWANHub](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dd79c1ec-7134-432b-9dd0-8f83ffc707cf) |
+
 
 <br />
 
