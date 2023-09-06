@@ -291,6 +291,30 @@
 | ---------------------- | ---------------------- |
 | ![m365c](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cfb660dc-abef-46e3-a5b2-8d9ca474cf58) | ![m365d](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/142bd8b9-5b17-48f6-a638-8761422ef17e) |
 
+<br />
+<div>
+
+`VNET GATEWAY Connection` <br />
+
+</div> <br />
+
+
+| AZ-700               | AZ-700                |
+| ---------------------- | ---------------------- |
+| ![vnetGatewayA](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/37269b5f-9ef0-4809-87fd-cf435519c0e8) | ![vnetGatewayB](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/edd251f6-3412-4582-9bba-441c76afc68f) |
+
+| AZ-700                | AZ-700                |
+| ---------------------- | ---------------------- |
+| ![vnetGatewayC](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a722322a-7d0a-4eef-adaa-8ba4f9ee5d3f) | ![vnetGatewayD](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3324d914-c285-42bd-a7e2-4fd5e5eb5a09) |
+
+
+
+| AZ-700                | AZ-700                |
+| ---------------------- | ---------------------- |
+| ![vnetGatewayE](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0c9f26dd-fc83-4fff-a9d9-e2814ea8a725) | ![vnetGatewayF]() |
+
+<br />
+
 </div>
 
 <h4 align="left">Note: Feel free to reach out to me for guidance and assistance throughout the project. I will be pleased to have you on board and your contributions to the world of IT system architecture!</h4>
