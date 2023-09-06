@@ -193,6 +193,7 @@
 - Firewall Rules <br />
 - VPN Gateway <br />
 - Azure Site Recovery Provider <br />
+- Microsoft 365 <br />
 - To be continued... <br />
 </div> <br /> <br />
 
