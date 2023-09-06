@@ -271,10 +271,24 @@
 
 | Mig13               | Mig14               |
 | ---------------------- | ---------------------- |
-| ![Mig13](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/42e37e0c-c994-4675-abc1-1de34e18f82d) | ![Mig14]( https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ddeb6d4a-6950-4bc9-bd60-33870ff1c152) |
+| ![Mig13](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/42e37e0c-c994-4675-abc1-1de34e18f82d) | ![Mig14](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ddeb6d4a-6950-4bc9-bd60-33870ff1c152) |
 
 
 </div>
+
+<div>
+
+`MS-100T00-Microsoft-365-Identity-and-Services` <br />
+
+</div> <br />
+
+| MS-100T00               | MS-100T00               |
+| ---------------------- | ---------------------- |
+| ![m365a](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fa08449d-fc46-447b-94f8-97dfd5b48a88) | ![m365b](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/b9bf0c1e-da07-4356-a527-b547c08ca24b) |
+
+| MS-100T00               | MS-100T00               |
+| ---------------------- | ---------------------- |
+| ![m365c](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cfb660dc-abef-46e3-a5b2-8d9ca474cf58) | ![m365d](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/142bd8b9-5b17-48f6-a638-8761422ef17e) |
 
 </div>
 
@@ -295,6 +309,8 @@
 [LAB AZ-801 | Configuring Windows Swerver Hybrid Advance Services](https://github.com/koushik80/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services) <br />
 [LAB SC-200T00A | Microsoft-Security-Operations-Analyst](https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst) <br />
 [Case Study AZ-305 | Designing Microsoft Azure Infrastructure Solutions](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions) <br />
+[Microsoft-365-Identity-and-Services | MS-100T00](https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/blob/master/Instructions/Labs/LAB_AK_02_Lab1_Ex1_Initialize_M365_Tenant.md) <br />
+[Manage_Users_and_Groups-Microsoft-365 | MS-100T00](https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/blob/master/Instructions/Labs/LAB_AK_02_Lab1_Ex2_Manage_Users_and_Groups.md) <br />
 [Intune](https://github.com/koushik80/Intune) <br />
 [vpn-gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site) <br />
 [Azure ARC](https://azure.microsoft.com/en-us/products/azure-arc) <br />
