@@ -406,6 +406,7 @@
 [AZ | Vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-microsoft-azure-backup#choose-an-installation-platform) <br />
 [AZ-140 | Azure Quick Start Template](https://github.com/az140mp/azure-quickstart-templates/tree/master/demos/nested-vms-in-virtual-network) <br />
 
+[React | Azure App Service | Azure DevOps](https://devblogs.microsoft.com/premier-developer/deploying-react-apps-to-azure-with-azure-devops/) <br />
 []() <br />
 []() <br />
 []() <br />
