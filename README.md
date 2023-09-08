@@ -193,9 +193,14 @@
 - Firewall Rules <br />
 - VPN Gateway <br />
 - VNET GATEWAY & Virtual WAN <br />
+- Azure Load Balancer <br />
 - Azure Site Recovery Provider <br />
 - Microsoft 365 Admin <br />
 - Teams Admin <br />
+- Azure App Service <br />
+- Azure DevOps <br />
+- SharePoint <br />
+- Power BI Desktop <br />
 - To be continued... <br />
 </div> <br /> <br />
 
@@ -332,6 +337,33 @@
 
 
 <br />
+
+<div>
+
+`Azure App Service & DevOps` <br />
+
+</div> <br />
+
+
+| React App                | React App                |
+| ---------------------- | ---------------------- |
+| ![az-devops1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/10c5c99e-426f-4982-8489-138c65d4c0ad) | ![az-devops2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d8b3ca24-4326-439c-bdc9-6b7a4501ea56) |
+
+
+| React App                | React App                |
+| ---------------------- | ---------------------- |
+| ![az-devops3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9df765c3-8443-41cc-823c-d4f6e2dc5999) | ![az-devops4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/56283f88-7871-4669-9f69-09be696873a6) |
+
+
+| React App                | React App                |
+| ---------------------- | ---------------------- |
+| ![az-devops5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5af0c48d-a64f-4eb1-92fa-98714d04ab9d) | ![az-devops6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d4ec4d5b-f645-43fc-bc30-5d544d0b7487) |
+
+
+| React App                | React App                |
+| ---------------------- | ---------------------- |
+| ![az-devops7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/55742167-cb20-4052-8f0b-f7e9e5489871) | ![az-devops8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d05144de-7485-4896-aa36-0f2369cc21f7) |
+
 
 </div>
 
