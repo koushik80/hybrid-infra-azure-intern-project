@@ -228,6 +228,8 @@
 
 <h3 align="left">Exercise Gallery: :milky_way:  </h3> <br />
 
+<p align="left">I have published only a few images of my work.</p> <br />
+
 <div>
 
 `Migrating Hyper-V VMs to Azure by using Azure Migrate` <br />
@@ -405,7 +407,6 @@
 [AZ | Migrate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v#prepare-hyper-v-hosts) <br />
 [AZ | Vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-microsoft-azure-backup#choose-an-installation-platform) <br />
 [AZ-140 | Azure Quick Start Template](https://github.com/az140mp/azure-quickstart-templates/tree/master/demos/nested-vms-in-virtual-network) <br />
-
 [React | Azure App Service | Azure DevOps](https://devblogs.microsoft.com/premier-developer/deploying-react-apps-to-azure-with-azure-devops/) <br />
 []() <br />
 []() <br />
