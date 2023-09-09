@@ -45,31 +45,31 @@
 
 `Manage the system`
 
-<p align="left">Criteria: Works in accordance with the service production process.</p>
+**<p align="left">Criteria: Works in accordance with the service production process.</p>**
 
  - [x] I know the basic IT service production processes of my workplace, e.g., ITIL and I acted accordingly.
 
-<p align="left">Criteria: Knows the layer structure of the data network to solve data and network problems.</p>
+**<p align="left">Criteria: Knows the layer structure of the data network to solve data and network problems.</p>**
 
  - [x] I know and can use and make limitations in fault diagnosis of the network topology of my operating environment and the most important devices and services, considering the principles of the model.
 
-<p align="left">Criteria: Manages virtualized platforms.</p>
+**<p align="left">Criteria: Manages virtualized platforms.</p>**
 
  - [x] I have installed and maintained Hyper-V and VMware as well as Azure-based virtual servers and services, using the services' own management tools, system center, Intune, O365 and Azure management websites and, if necessary, e.g., PowerShell.
 
-<p align="left">Criteria: Supports and guides system users.</p>
+**<p align="left">Criteria: Supports and guides system users.</p>**
 
  - [x] In my duties, I have also worked in user support, supporting and guiding customers in the use of workstations, mobile and peripheral devices and applications.
 
-<p align="left">Criteria: Resolves system-level service requests.</p>
+**<p align="left">Criteria: Resolves system-level service requests.</p>**
 
  - [x] My responsibility also includes the maintenance and management of the domain environment's basic services and M365 and Azure, as well as solving support tasks.
 
-<p align="left">Criteria: Messages to system users in exceptional situations.</p>
+**<p align="left">Criteria: Messages to system users in exceptional situations.</p>**
 
  - [x] If necessary, i.e., in the most significant disruptions affecting the production environment, maintenance work and matters related to information security, I also inform customers well in advance if necessary and possible. Information is provided via Intra's/Entra’s webpages, e-mail and social media tools.
 
-<p align="left">Criteria: Uses cloud environment management tools.</p>
+**<p align="left">Criteria: Uses cloud environment management tools.</p>**
 
  - [x] I have installed and maintained Azure-based virtual servers and services using the services' own management tools, Windows Admin Center, Intune, O365 and Azure management websites and, if necessary, e.g., PowerShell.
 
@@ -77,28 +77,28 @@
 
 `Develop and maintain the system`
 
-<p align="left">Criteria: Schedules and plans system maintenance.</p>
+**<p align="left">Criteria: Schedules and plans system maintenance.</p>**
 
  - [x] System updates and maintenance work are scheduled and partially automated, and workstation updates are handled centrally, mostly based on standardized schedules.
 
-<p align="left">Criteria: Manages the system and prepares and implements system-level changes.</p>
+**<p align="left">Criteria: Manages the system and prepares and implements system-level changes.</p>**
 
  - [x] I have installed physical and virtual servers considering the hardware requirements. My duties include servicing, monitoring, maintaining and updating server and workstation hardware and peripherals.
 I have installed Windows Server 2019 server operating systems with basic services and standard Windows 10 workstations.
 
-<p align="left">Criteria: Monitor server activity and predict problem situations using monitoring tools.</p>
+**<p align="left">Criteria: Monitor server activity and predict problem situations using monitoring tools.</p>**
 
  - [x] I maintain AD's/AZURE AD’s structure, groups/users with the help of ADUC, Azure management, Admin center and Intune and, if necessary, using PowerShell.I monitor servers and the most critical server applications with local operating system and server manufacturer tools, System Center and Azure management monitoring tools, and proactively strive to implement maintenance and device/resource management.
 
-<p align="left">Criteria: Automate system-level tasks.</p>
+**<p align="left">Criteria: Automate system-level tasks.</p>**
 
  - [x] I manually and automatically update servers and workstations and, if necessary, test before.
 
-<p align="left">Criteria: Implements system backup and recovery policies.</p>
+**<p align="left">Criteria: Implements system backup and recovery policies.</p>**
 
  - [x] I know the security procedures and applications of my workplace and can restore systems/data if necessary.
 
-<p align="left">Criteria: Ensures system functionality and information security.</p>
+**<p align="left">Criteria: Ensures system functionality and information security.</p>**
 
  - [x] Fault diagnosis and management of the IT side is part of my daily job description. In the maintenance of On-premises/Cloud environments, I have considered information security, e.g., GPOs, hardening and firewall/anti-malware.
 
@@ -106,7 +106,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 <h3 align="left">Responsibilities:</h3>
 
-<p align="left">In this role, my responsibilities are included (continuous implementation):</p>
+**<p align="left">In this role, my responsibilities are included (continuous implementation):</p>**
 
  - [x] `Hybrid Environment:` Configuring and managing a hybrid IT environment that combines on-premises and cloud resources.
  - [x] `Windows Server:` Setting up and managing Windows Server instances, including user management, file sharing, and roles.
@@ -127,7 +127,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 <h3 align="left">Getting Started</h3>
 
-<p align="left">To review my work, follow these steps:</p>
+**<p align="left">_To review my work, follow these steps:_</p>**
 
 - Clone this repository to your local environment. <br />
 - Review the documentation for each technology area in the respective folders. <br />
@@ -138,7 +138,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 <h3 align="left">Learning Objectives</h3>
 
-<p align="left">By the end of this internship, I will be able to:</p>
+**<p align="left">_By the end of this <sup>Internship_</sup>, _I will be able to:_</p>**
 
 <h4 align="left">1. IT Service Production Processes (e.g., ITIL):</h4> <br />
 
@@ -167,7 +167,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 <h4 align="left">5. Domain Environment and M365/Azure Management:</h4> <br />
 
 - Master the maintenance and management of domain environment basic services.
-- Proficiently manage Microsoft 365 (M365) and Azure services. 
+- Proficiently manage Microsoft 365 (M365) and Azure services.
 - Develop problem-solving skills for support tasks related to these environments.
 
 <h4 align="left">6. Communication during Disruptions:</h4> <br />
@@ -279,20 +279,19 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 <h3 align="left">Operation Systems:</h3> <br />
 
-- Windows Server 2019  <br />
-- Windows Server 2022  <br />
-- Windows 10 Pro <br />
-- Windows 10 Enterprise <br />
-- macOS Ventura (13.5.1) <br />
+- Windows Server <sup>2019</sup>  <br />
+- Windows Server <sup>2022</sup>  <br />
+- Windows 10 <sup>Pro</sup> <br />
+- Windows 10 <sup>Enterprise</sup> <br />
+- macOS Ventura <sup>13.5.1</sup> <br />
 
 </div> <br />
-
 
 <div>
 
 <h3 align="left">Exercise Gallery: :milky_way:  </h3> <br />
 
-<p align="left">I have published only a few images of my work.</p> <br />
+<p align="left">I have published a few images of my work to be clarified.</p> <br />
 
 <div>
 
