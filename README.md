@@ -31,7 +31,7 @@
 </p>
 
 <h3 align="left">Organisation: Taitotalo :convenience_store: </h3>
-<h3 align="left">Supervisors: _Kari Vikman & Jarkko Tornberg_ :busts_in_silhouette: </h3>
+<h3 align="left">Supervisors: Kari Vikman & Jarkko Tornberg :busts_in_silhouette: </h3>
 
 <div>
 <h3 align="left">Requirements:</h3>
