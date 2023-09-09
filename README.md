@@ -184,15 +184,16 @@
 - Azure Migrate <br />
 - Azure Bastion <br />
 - PowerShell <br />
-- Active Directory(AD)
-- Azure Active Directory(AAD)/Microsoft Entra ID
-- Azure Key Vault(Cloud service for securely storing and accessing secrets) <br />
+- Active Directory(AD) <br />
+- AVD(Azure Virtual Desktop) <br />
+- Azure Active Directory(AAD)/Microsoft Entra ID <br />
+- Azure Key Vault(Cloud service for securely storing and accessing secrets)<br />
 - Windows Defender(Security) <br />
 - Network Security Group(NSG) <br />
 - Application Security Group(ASG) <br />
 - Firewall Rules <br />
 - VPN Gateway <br />
-- VNET GATEWAY & Virtual WAN <br />
+- Virtual GATEWAY & Virtual WAN <br />
 - Azure Load Balancer <br />
 - Azure Site Recovery Provider <br />
 - Microsoft 365 Admin <br />
