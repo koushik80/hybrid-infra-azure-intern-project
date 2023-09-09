@@ -36,6 +36,76 @@
 
 <br />
 
+<div>
+<h4 align="center">Requirements:</h4>
+</div>
+<br />
+
+<p align="center">The student can</p>
+
+- Manage the system
+- Develop and maintain the system.
+<p align="center">The student demonstrates his skills on the screen in system administration, development and maintenance tasks in an information and communication technology environment.</p>
+
+`Manage the system`
+
+- Criteria: Works in accordance with the service production process.
+
+ - [x] I know the basic IT service production processes of my workplace, e.g., ITIL and I acted accordingly.
+
+- Criteria: Knows the layer structure of the data network to solve data and
+network problems.
+
+ - [x] I know and can use and make limitations in fault diagnosis of the network topology of my operating environment and the most important devices and services, considering the principles of the model.
+
+- Criteria: Manages virtualized platforms.
+
+ - [x] I have installed and maintained Hyper-V and VMware as well as Azure-based virtual servers and services, using the services' own management tools, system center, Intune, O365 and Azure management websites and, if necessary, e.g., PowerShell.
+
+- Criteria: Supports and guides system users.
+
+ - [x] In my duties, I have also worked in user support, supporting and guiding customers in the use of workstations, mobile and peripheral devices and applications.
+
+- Criteria: Resolves system-level service requests.
+
+ - [x] My responsibility also includes the maintenance and management of the domain environment's basic services and M365 and Azure, as well as solving support tasks.
+
+- Criteria: Messages to system users in exceptional situations.
+
+ - [x] If necessary, i.e., in the most significant disruptions affecting the production environment, maintenance work and matters related to information security, I also inform customers well in advance if necessary and possible. Information is provided via Intra's/Entra’s webpages, e-mail and social media tools.
+
+- Criteria: Uses cloud environment management tools.
+
+ - [x] I have installed and maintained Azure-based virtual servers and services using the services' own management tools, Windows Admin Center, Intune, O365 and Azure management websites and, if necessary, e.g., PowerShell.
+
+<br />
+
+`Develop and maintain the system`
+
+- Criteria: Schedules and plans system maintenance.
+
+ - [x] System updates and maintenance work are scheduled and partially automated, and workstation updates are handled centrally, mostly based on standardized schedules.
+
+- Criteria: Manages the system and prepares and implements system-level changes.
+
+ - [x] I have installed physical and virtual servers considering the hardware requirements. My duties include servicing, monitoring, maintaining and updating server and workstation hardware and peripherals.
+I have installed Windows Server 2019 server operating systems with basic services and standard Windows 10 workstations.
+
+- Criteria: Monitor server activity and predict problem situations using monitoring tools.
+
+ - [x] I maintain AD's/AZURE AD’s structure, groups/users with the help of ADUC, Azure management, Admin center and Intune and, if necessary, using PowerShell.I monitor servers and the most critical server applications with local operating system and server manufacturer tools, System Center and Azure management monitoring tools, and proactively strive to implement maintenance and device/resource management.
+
+- Criteria: Automate system-level tasks.
+
+ - [x] I manually and automatically update servers and workstations and, if necessary, test before.
+
+- Criteria: Implements system backup and recovery policies.
+
+ - [x] I know the security procedures and applications of my workplace and can restore systems/data if necessary.
+
+- Criteria: Ensures system functionality and information security.
+
+ - [x] Fault diagnosis and management of the IT side is part of my daily job description. In the maintenance of On-premises/Cloud environments, I have considered information security, e.g., GPOs, hardening and firewall/anti-malware.
 
 `Responsibilities:`
 <p align="left">In this role, my responsibilities are included (continuous implementation): </p>
@@ -184,7 +254,7 @@
 - Azure Migrate <br />
 - Azure Bastion <br />
 - PowerShell <br />
-- Active Directory(AD) <br />
+- Active Directory Domain Service(AD DS) <br />
 - AVD(Azure Virtual Desktop) <br />
 - Azure Active Directory(AAD)/Microsoft Entra ID <br />
 - Azure Key Vault(Cloud service for securely storing and accessing secrets)<br />
