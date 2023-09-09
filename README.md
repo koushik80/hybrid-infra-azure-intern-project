@@ -1,4 +1,4 @@
-# Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/> Here is my practical work information below
+## Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/> Here is my practical work information below
 
 <div>
 
@@ -33,15 +33,11 @@
 <h3 align="left">Organisation: Taitotalo :convenience_store: </h3>
 <h3 align="left">Supervisors: Kari Vikman & Jarkko Tornberg :busts_in_silhouette: </h3>
 
-
-<br />
-
 <div>
 <h3 align="left">Requirements:</h3>
 </div>
-<br />
 
-<p align="left">The student can</p>
+**<p align="left">The student can</p>**
 
 - Manage the system
 - Develop and maintain the system.
