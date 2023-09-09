@@ -201,6 +201,7 @@
 - Azure DevOps <br />
 - SharePoint <br />
 - Power BI Desktop <br />
+- Intune Admin Center <br />
 - To be continued... <br />
 </div> <br /> <br />
 
@@ -389,6 +390,27 @@
 `Azure Virtual Desktop` <br />
 
 </div> <br />
+
+
+| AVD                | AVD                |
+| ---------------------- | ---------------------- |
+| ![AVD1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/19bf7767-49ed-4152-9b57-83286b45feda) | ![AVD2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ac34f8af-15e8-4893-ba8b-34ab207a6878) |
+
+
+| AVD                | AVD                |
+| ---------------------- | ---------------------- |
+| ![AVD3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f25e13de-c0d1-4246-86ca-0c709c9c84f9) | ![AVD4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8905ce92-383a-47e9-a1b2-12dbf2eeae1f) |
+
+
+| AVD                | AVD                |
+| ---------------------- | ---------------------- |
+| ![AVD5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/084f8ab5-8e6e-4dc7-b1cd-55ae2ec8b730) | ![AVD6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/34be0fce-b2d9-49f1-8487-0897fcb382b6) |
+
+
+
+
+
+
 </div>
 
 <h4 align="left">Note: Feel free to reach out to me for guidance and assistance throughout the internship. I will be pleased to have you on board and your contributions to the world of IT system architecture!</h4>
