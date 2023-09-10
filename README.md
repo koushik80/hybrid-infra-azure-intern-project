@@ -272,6 +272,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 - SharePoint <br />
 - Power BI Desktop <br />
 - Intune Admin Center <br />
+- Azure Functions <br />
 - To be continued... <br />
 </div> <br /> <br />
 
@@ -514,6 +515,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 [AZ | Vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-microsoft-azure-backup#choose-an-installation-platform) <br />
 [AZ-140 | Azure Quick Start Template](https://github.com/az140mp/azure-quickstart-templates/tree/master/demos/nested-vms-in-virtual-network) <br />
 [React | Azure App Service | Azure DevOps](https://devblogs.microsoft.com/premier-developer/deploying-react-apps-to-azure-with-azure-devops/) <br />
+[Azure Functions](https://learn.microsoft.com/en-us/training/modules/build-api-azure-functions/1-introduction) <br />
 []() <br />
 []() <br />
 []() <br />
