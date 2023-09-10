@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "mslearn-build-api-azure-functions",
+			"path": "../../../mslearn-build-api-azure-functions"
+		}
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen",
+		"DockerRun.DisableAutoGenerateConfig": true
+	}
+}
