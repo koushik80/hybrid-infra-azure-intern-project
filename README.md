@@ -108,20 +108,21 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 **<p align="left">_In this role, my responsibilities are included (continuous implementation):_</p>**
 
- - [x] `Hybrid Environment:` Configuring and managing a hybrid IT environment that combines on-premises and cloud resources.
- - [x] `Windows Server:` Setting up and managing Windows Server instances, including user management, file sharing, and roles.
- - [x] `Active Directory(AAD):` Working with Active Directory to control access, manage users and groups, and implement security policies.
- - [x] `Microsoft Azure:` Gaining familiarity with Azure services, resource management, and basic cloud architecture.
- - [x] `Azure Active Directory(AAD)/Microsoft Entra ID:` Exploring cloud-based identity and access management, integrating with on-premises AD, and learning about single sign-on.
- - [x] `Azure Virtual Desktop(AVD):` Configuring and maintaining virtual desktop infrastructure in Azure, enabling remote work capabilities.
- - [x] `Security Technologies:` Learning about security best practices, implementing Firewalls & Defender, encryption, and multi-factor authentication(MFA).
- - [x] `Networking:` Understanding networking fundamentals, including IP addressing, subnets, routing, security and troubleshooting.
- - [x] `Monitoring:` Exploring monitoring tools to keep track of system performance, availability, and security incidents
- - [x] `Instant Messaging:` Setting up and managing messaging platforms like Microsoft Teams for effective communication and collaboration.
- - [x] `Microsoft 365:` Understanding cloud-based productivity tools and services, including email, document sharing, and collaboration.
- - [x] `Azure App Service:` Dive into Azure's platform-as-a-service (PaaS) offering, deploying web applications with ease.
- - [x] `Container Services:` Introduction to containerization using services like Docker & Kubernetes, exploring its benefits and deployment.
- - [x] `Azure Databases:` Learn about Azure's database offerings and their configuration.
+ - [x] `Hybrid Environment:` Configuring and managing a **_Hybrid IT environment that combines on-premises and cloud resources_**.
+ - [x] `Windows Server:` Setting up and managing **_Windows Server instances, including user management, file sharing, and roles_**.
+ - [x] `Active Directory(AAD):` Working with **_Active Directory to control access, manage users and groups, and implement security policies_**.
+ - [x] `Microsoft Azure:` Gaining familiarity with **_Azure services, resource management, and basic cloud architecture_**.
+ - [x] `Azure Active Directory(AAD)/Microsoft Entra ID:` Exploring **_cloud-based identity and access management, integrating with on-premises AD, and learning about single sign-on_**.
+ - [x] `Azure Virtual Desktop(AVD):` Configuring and maintaining **_Virtual Desktop infrastructure in Azure, enabling remote work capabilities_**.
+ - [x] `Security Technologies:` Learning about **_security best practices, implementing Firewalls & Defender, encryption, and multi-factor authentication(MFA)_**.
+ - [x] `Networking:` Understanding **_networking fundamentals, including IP addressing, subnets, routing, security and troubleshooting_**.
+ - [x] `Monitoring:` Exploring monitoring tools to keep track of **_system performance, availability, and security incidents_**.
+ - [x] `Instant Messaging:` Setting up and managing messaging platforms like **_Microsoft Teams for effective communication and collaboration_**.
+ - [x] `Microsoft 365:` Understanding **_cloud-based productivity tools and services, including email, document sharing, and collaboration_**.
+ - [x] `Azure App Service:` Dive into Azure's **_platform-as-a-service (PaaS) offering, deploying web applications_** with ease.
+ - [x] `Container Services:` Introduction to containerization using services like **_Docker & Kubernetes_**, exploring its **_benefits and deployment_**.
+ - [x] `Azure Databases:` Learn about **_Azure's database offerings and their configuration_**.
+ - [x] `Azure Functions:` Understanding Microsoft's **_event-driven serverless solution_**, different triggers like **_HTTP trigger, Timer trigger, Azure Blob Storage trigger, Azure Event Grid trigger_**.
 
 <br />
 
@@ -470,7 +471,12 @@ I have installed Windows Server 2019 server operating systems with basic service
 | ![AVD5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/084f8ab5-8e6e-4dc7-b1cd-55ae2ec8b730) | ![AVD6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/34be0fce-b2d9-49f1-8487-0897fcb382b6) |
 
 
+<br />
+<div>
 
+`Azure Functions` <br />
+
+</div> <br />
 
 
 
