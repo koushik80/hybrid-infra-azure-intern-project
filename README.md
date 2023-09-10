@@ -479,6 +479,33 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 </div> <br />
 
+| Azure Functions                | Azure Functions                |
+| ---------------------- | ---------------------- |
+| ![az-fn1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f7c7ee70-09da-46c6-8dad-ac49559faa9b) | ![az-fn2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8bbc9a87-076c-4a84-8289-5eadc75ad9e3) |
+
+
+
+| Azure Functions                | Azure Functions                |
+| ---------------------- | ---------------------- |
+| ![az-fn3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/2afbe90f-d8a0-4f7b-8105-307fbd4ede48) | ![az-fn4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/818a76a1-0686-4c00-85a7-8addaaa185f3) |
+
+
+| Azure Functions                | Azure Functions                |
+| ---------------------- | ---------------------- |
+| ![az-fn4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5661ee12-b91f-430a-8789-6750938f9316) | ![az-fn5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/77436ad5-b389-492f-9889-a332c52f545d) |
+
+
+
+| Azure Functions                | Azure Functions                |
+| ---------------------- | ---------------------- |
+| ![az-fn5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c1a02c49-38f6-4092-8ad3-3c353d0b27fe) | ![az-fn6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cd73d4c5-e907-453e-9550-96cf7053b98e) |
+
+
+| Azure Functions                | Azure Functions                |
+| ---------------------- | ---------------------- |
+| ![az-fn7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/031b77df-aa95-43ee-a581-aa1649e10288) | ![az-fn8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a046f65d-b6f0-43b1-bbea-b94733fd6d67) |
+
+
 
 
 </div>
