@@ -1,8 +1,0 @@
-{
-    "azureFunctions.deploySubpath": "azure-functions/mslearn-build-api-azure-functions/api",
-    "azureFunctions.postDeployTask": "npm install (functions)",
-    "azureFunctions.projectLanguage": "TypeScript",
-    "azureFunctions.projectRuntime": "~4",
-    "azureFunctions.projectSubpath": "azure-functions/mslearn-build-api-azure-functions/api",
-    "azureFunctions.preDeployTask": "npm prune (functions)"
-}
