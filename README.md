@@ -274,6 +274,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 - Power BI Desktop <br />
 - Intune Admin Center <br />
 - Azure Functions <br />
+- VS Code <br />
 - To be continued... <br />
 </div> <br /> <br />
 
