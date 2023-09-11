@@ -355,6 +355,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 </div>
 
 <br />
+
 <div>
 
 `MS-100T00-Microsoft-365-Identity-and-Services` <br />
@@ -420,7 +421,6 @@ I have installed Windows Server 2019 server operating systems with basic service
 | ---------------------- | ---------------------- |
 | ![vWAN-vnet-connection](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/87fcc58f-6248-4d48-9975-05dcd5a6389a) | ![vWANHub](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dd79c1ec-7134-432b-9dd0-8f83ffc707cf) |
 
-
 <br />
 
 <div>
@@ -471,8 +471,8 @@ I have installed Windows Server 2019 server operating systems with basic service
 | ---------------------- | ---------------------- |
 | ![AVD5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/084f8ab5-8e6e-4dc7-b1cd-55ae2ec8b730) | ![AVD6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/34be0fce-b2d9-49f1-8487-0897fcb382b6) |
 
-
 <br />
+
 <div>
 
 `Azure Functions` <br />
@@ -505,6 +505,33 @@ I have installed Windows Server 2019 server operating systems with basic service
 | ---------------------- | ---------------------- |
 | ![az-fn7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/031b77df-aa95-43ee-a581-aa1649e10288) | ![az-fn8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a046f65d-b6f0-43b1-bbea-b94733fd6d67) |
 
+<br />
+
+<div>
+
+`AZ-500 Azure Security Technologies` <br />
+
+</div> <br />
+
+| AZ-500 Azure Security Technologies                | AZ-500 Azure Security Technologies                |
+| ---------------------- | ---------------------- |
+| ![Firewall1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/af68e32d-7430-4b9f-9ee4-b1c26d2fb4d8) | ![Firewall2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ca38f553-5310-43f2-a00c-65654c3ef403) |
+
+
+| AZ-500 Azure Security Technologies                | AZ-500 Azure Security Technologies                |
+| ---------------------- | ---------------------- |
+| ![Firewall3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7d53552e-a571-41fb-a794-bc0061ee956e) | ![Firewall4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/638c2230-0332-4a1d-803d-b93b2a3ea55f) |
+
+
+| AZ-500 Azure Security Technologies                | AZ-500 Azure Security Technologies                |
+| ---------------------- | ---------------------- |
+| ![Firewall5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dff88996-3ad7-4d08-8ca8-a1c0c8494814) | ![Firewall6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/bf21ffbe-5c14-4341-a936-5e65e38907a5) |
+
+
+
+| AZ-500 Azure Security Technologies                | AZ-500 Azure Security Technologies                |
+| ---------------------- | ---------------------- |
+| ![Firewall7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/2526001a-db74-4139-8258-d8f35e45bf06) | ![Firewall8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/91586093-babd-4041-8778-2781f352ccd8) |
 
 
 
