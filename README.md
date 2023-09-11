@@ -513,25 +513,37 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 </div> <br />
 
-| AZ-500 Azure Security Technologies                | AZ-500 Azure Security Technologies                |
+| Azure Security Technologies-Firewall                | Azure Security Technologies-Firewall                |
 | ---------------------- | ---------------------- |
 | ![Firewall1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/af68e32d-7430-4b9f-9ee4-b1c26d2fb4d8) | ![Firewall2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ca38f553-5310-43f2-a00c-65654c3ef403) |
 
 
-| AZ-500 Azure Security Technologies                | AZ-500 Azure Security Technologies                |
+| Azure Security Technologies-Firewall                | Azure Security Technologies-Firewall                |
 | ---------------------- | ---------------------- |
 | ![Firewall3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7d53552e-a571-41fb-a794-bc0061ee956e) | ![Firewall4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/638c2230-0332-4a1d-803d-b93b2a3ea55f) |
 
 
-| AZ-500 Azure Security Technologies                | AZ-500 Azure Security Technologies                |
+| Azure Security Technologies-Firewall                | Azure Security Technologies-Firewall                |
 | ---------------------- | ---------------------- |
 | ![Firewall5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dff88996-3ad7-4d08-8ca8-a1c0c8494814) | ![Firewall6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/bf21ffbe-5c14-4341-a936-5e65e38907a5) |
 
 
 
-| AZ-500 Azure Security Technologies                | AZ-500 Azure Security Technologies                |
+| Azure Security Technologies-Firewall                | Azure Security Technologies-Firewall                |
 | ---------------------- | ---------------------- |
 | ![Firewall7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/2526001a-db74-4139-8258-d8f35e45bf06) | ![Firewall8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/91586093-babd-4041-8778-2781f352ccd8) |
+
+
+| Config and Secure ACR & AKS                | Config and Secure ACR & AKS                |
+| ---------------------- | ---------------------- |
+| ![ACR & AKS1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f6c0e96a-075a-4560-b64f-03b00ca11efd) | ![ACR & AKS2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/450e8270-1e2c-4df6-8af5-c9498fa02bfc) |
+
+
+
+| Config and Secure ACR & AKS                | Config and Secure ACR & AKS                |
+| ---------------------- | ---------------------- |
+| ![ACR & AKS3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/054af1e4-f865-4924-97c0-3734c22e269c) | ![ACR & AKS4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/2416e418-e1a8-42a9-89ca-07adfe063306) |
+
 
 
 
