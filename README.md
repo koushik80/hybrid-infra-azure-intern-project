@@ -568,6 +568,38 @@ I have installed Windows Server 2019 server operating systems with basic service
 | ![az-sqldb3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/816c682f-d244-48fa-a9a9-7e777839b873) | ![az-sqldb4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/abf2d63f-c819-4ea4-a908-4fb526b21fea) |
 
 
+<br />
+
+<div>
+
+`AZ-104 Azure Storage` <br />
+
+</div> <br />
+
+
+
+| Azure Storage                | Azure Storage                |
+| ---------------------- | ---------------------- |
+| ![az-storage1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/33fa4b89-147b-475f-8d8c-c6fa2c1f6d9f) | ![az-storage2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/69586756-e439-46bb-886d-4096f1cdf8c9) |
+
+
+| Azure Storage                | Azure Storage                |
+| ---------------------- | ---------------------- |
+| ![az-storage3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/95c3260a-8f05-4e0b-a137-c7906e491dd8) | ![az-storage4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7baf536b-cf7c-4757-9586-4283f709399c) |
+
+
+
+| Azure Storage                | Azure Storage                |
+| ---------------------- | ---------------------- |
+| ![az-storage5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/2d824674-949e-4ce2-8c83-849ed5d7234c) | ![az-storage6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/bb234cf1-aa0c-4805-a0be-3dd059a46f4f) |
+
+
+
+| Azure Storage                | Azure Storage                |
+| ---------------------- | ---------------------- |
+| ![az-storage7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5f612fa8-9e68-4b39-a267-0478b60795a4) | ![az-storage8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/54690b81-301f-48d6-bf0b-03d89753caf7) |
+
+
 </div>
 
 <h4 align="left">Note: Feel free to reach out to me for guidance and assistance throughout the internship. I will be pleased to have you on board and your contributions to the world of IT system architecture!</h4>
