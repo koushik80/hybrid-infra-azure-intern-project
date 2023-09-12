@@ -252,7 +252,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 - Hyper-V Manager <br />
 - Azure Migrate <br />
-- Azure Bastion <br />
+- Bastions <br />
 - PowerShell <br />
 - Active Directory Domain Service(AD DS) <br />
 - AVD(Azure Virtual Desktop) <br />
@@ -274,6 +274,10 @@ I have installed Windows Server 2019 server operating systems with basic service
 - Power BI Desktop <br />
 - Intune Admin Center <br />
 - Azure Functions <br />
+- Azure Containers <br />
+- Azure Storage <br />
+- Azure Monitor <br />
+- Azure SQL Database + Azure Data Studio <br />
 - VS Code <br />
 - To be continued... <br />
 </div> <br /> <br />
@@ -544,7 +548,24 @@ I have installed Windows Server 2019 server operating systems with basic service
 | ---------------------- | ---------------------- |
 | ![ACR & AKS3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/054af1e4-f865-4924-97c0-3734c22e269c) | ![ACR & AKS4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/2416e418-e1a8-42a9-89ca-07adfe063306) |
 
+<br />
 
+<div>
+
+`Azure SQL Database + Data Studio` <br />
+
+</div> <br />
+
+
+| Azure SQL DB + Data Studio                | Azure SQL DB + Data Studio                |
+| ---------------------- | ---------------------- |
+| ![az-sqldb1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c2243ef0-6f4a-428a-92b5-6352d8bf0e91) | ![az-sqldb2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/82aa4ff5-9f63-4406-bd3e-872ae64a3ffe) |
+
+
+
+| Azure SQL DB + Data Studio                | Azure SQL DB + Data Studio                |
+| ---------------------- | ---------------------- |
+| ![az-sqldb3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/816c682f-d244-48fa-a9a9-7e777839b873) | ![az-sqldb4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/abf2d63f-c819-4ea4-a908-4fb526b21fea) |
 
 
 </div>
