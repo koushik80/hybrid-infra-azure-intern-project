@@ -572,7 +572,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 <div>
 
-`AZ-104 Azure Storage` <br />
+`AZ-104 Azure Administrator` <br />
 
 </div> <br />
 
