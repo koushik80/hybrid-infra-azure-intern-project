@@ -462,24 +462,24 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 | React Admin Dashboard                | React Admin Dashboard                |
 | ---------------------- | ---------------------- |
-| ![react-admin-dash1](https://github.com/koushik80/ticketing/assets/89943976/07b43cc6-637c-4ec7-b2c3-0db8f3a1347f) | ![react-admin-dash2](https://github.com/koushik80/ticketing/assets/89943976/7ff56cb6-8a30-41e2-a45e-4442570e75df) |
+| ![react-admin-dash1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f92153c2-b39e-4acd-9ce2-1a2981f5fafd) | ![react-admin-dash2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/b85671a8-9c4d-4438-9155-f0968ace9630) |
 
 
 | React Admin Dashboard                | React Admin Dashboard                |
 | ---------------------- | ---------------------- |
-| ![react-admin-dash3](https://github.com/koushik80/ticketing/assets/89943976/7fe8e5e6-a0e2-491a-b64e-54f1348f4ce8) | ![react-admin-dash4](https://github.com/koushik80/ticketing/assets/89943976/5477d48f-2713-43fb-b8e9-e1ff0000167e) |
-
-
-
-| React Admin Dashboard                | React Admin Dashboard                |
-| ---------------------- | ---------------------- |
-| ![react-admin-dash5](https://github.com/koushik80/ticketing/assets/89943976/f336d6ec-d8ff-4bbb-9f32-7e1b8afb34bb) | ![react-admin-dash6](https://github.com/koushik80/ticketing/assets/89943976/45b20bf4-1574-43ef-8acf-70630bab1a9e) |
+| ![react-admin-dash3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/eb451dff-09cb-47f6-b569-820d74e9424c) | ![react-admin-dash4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c8809e7b-626d-4394-9c76-b7a6fd68f2c9) |
 
 
 
 | React Admin Dashboard                | React Admin Dashboard                |
 | ---------------------- | ---------------------- |
-| ![react-admin-dash7](https://github.com/koushik80/ticketing/assets/89943976/87c27128-c80e-4809-b410-23e8474cd09b) | ![react-admin-dash8](https://github.com/koushik80/ticketing/assets/89943976/a788ecee-d94c-4c67-a976-a93be4d55f21) |
+| ![react-admin-dash5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4141b52a-34f0-4170-8ce7-076921586405) | ![react-admin-dash6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/bdfbcbf4-737e-4f12-91fd-3c1741369340) |
+
+
+
+| React Admin Dashboard                | React Admin Dashboard                |
+| ---------------------- | ---------------------- |
+| ![react-admin-dash7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/6b337930-ef44-4a0e-92dd-edcdeabcbba3) | ![react-admin-dash8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a0cc3203-51fb-4581-9459-891885f99e1d) |
 
 
 
