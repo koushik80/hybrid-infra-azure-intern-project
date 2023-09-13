@@ -432,7 +432,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 </div> <br />
 
-<p align="left">Used React applications:</p> <br />
+<p align="left">My React applications:</p> <br />
 
 <div>
 <p align="left"><a href="https://github.com/koushik80/bookstore">Book Store</a></p>
@@ -440,24 +440,47 @@ I have installed Windows Server 2019 server operating systems with basic service
 </div> <br />
 
 
-| React App                | React App                |
+| React Book Store                | React Book Store                |
 | ---------------------- | ---------------------- |
 | ![az-devops1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/10c5c99e-426f-4982-8489-138c65d4c0ad) | ![az-devops2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d8b3ca24-4326-439c-bdc9-6b7a4501ea56) |
 
 
-| React App                | React App                |
+| React Book Store                | React Book Store                |
 | ---------------------- | ---------------------- |
 | ![az-devops3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9df765c3-8443-41cc-823c-d4f6e2dc5999) | ![az-devops4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/56283f88-7871-4669-9f69-09be696873a6) |
 
 
-| React App                | React App                |
+| React Book Store                | React Book Store                |
 | ---------------------- | ---------------------- |
 | ![az-devops5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5af0c48d-a64f-4eb1-92fa-98714d04ab9d) | ![az-devops6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d4ec4d5b-f645-43fc-bc30-5d544d0b7487) |
 
 
-| React App                | React App                |
+| React Book Store                | React Book Store                |
 | ---------------------- | ---------------------- |
 | ![az-devops7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/55742167-cb20-4052-8f0b-f7e9e5489871) | ![az-devops8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d05144de-7485-4896-aa36-0f2369cc21f7) |
+
+
+| React Admin Dashboard                | React Admin Dashboard                |
+| ---------------------- | ---------------------- |
+| ![react-admin-dash1](https://github.com/koushik80/ticketing/assets/89943976/07b43cc6-637c-4ec7-b2c3-0db8f3a1347f) | ![react-admin-dash2](https://github.com/koushik80/ticketing/assets/89943976/7ff56cb6-8a30-41e2-a45e-4442570e75df) |
+
+
+| React Admin Dashboard                | React Admin Dashboard                |
+| ---------------------- | ---------------------- |
+| ![react-admin-dash3](https://github.com/koushik80/ticketing/assets/89943976/7fe8e5e6-a0e2-491a-b64e-54f1348f4ce8) | ![react-admin-dash4](https://github.com/koushik80/ticketing/assets/89943976/5477d48f-2713-43fb-b8e9-e1ff0000167e) |
+
+
+
+| React Admin Dashboard                | React Admin Dashboard                |
+| ---------------------- | ---------------------- |
+| ![react-admin-dash5](https://github.com/koushik80/ticketing/assets/89943976/f336d6ec-d8ff-4bbb-9f32-7e1b8afb34bb) | ![react-admin-dash6](https://github.com/koushik80/ticketing/assets/89943976/45b20bf4-1574-43ef-8acf-70630bab1a9e) |
+
+
+
+| React Admin Dashboard                | React Admin Dashboard                |
+| ---------------------- | ---------------------- |
+| ![react-admin-dash7](https://github.com/koushik80/ticketing/assets/89943976/87c27128-c80e-4809-b410-23e8474cd09b) | ![react-admin-dash8](https://github.com/koushik80/ticketing/assets/89943976/a788ecee-d94c-4c67-a976-a93be4d55f21) |
+
 
 
 <div>
