@@ -274,7 +274,6 @@ I have installed Windows Server 2019 server operating systems with basic service
 - Power BI Desktop <br />
 - Intune Admin Center <br />
 - Azure Functions <br />
-- Azure Containers <br />
 - Azure Storage <br />
 - Azure Monitor <br />
 - Azure SQL Database + Azure Data Studio <br />
@@ -431,6 +430,13 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 `Azure App Service & DevOps` <br />
 
+</div> <br />
+
+<p align="left">Used React applications:</p> <br />
+
+<div>
+<p align="left"><a href="https://github.com/koushik80/bookstore">Book Store</a></p>
+<p align="left"><a href="https://github.com/koushik80/react-admin-devops">React Admin Dashboard</a></p>
 </div> <br />
 
 
