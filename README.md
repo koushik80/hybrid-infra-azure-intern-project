@@ -270,7 +270,8 @@ I have installed Windows Server 2019 server operating systems with basic service
 - Teams Admin <br />
 - Azure App Service <br />
 - Azure DevOps <br />
-- SharePoint <br />
+- SharePoint Admin <br />
+- Exchange Admin <br />
 - Power BI Desktop <br />
 - Intune Admin Center <br />
 - Azure Functions <br />
