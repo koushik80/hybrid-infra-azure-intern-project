@@ -151,24 +151,24 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 - Develop expertise in analyzing and diagnosing network topology and identifying limitations.
 - Master the principles of fault diagnosis and troubleshooting in the context of network systems.
-- Apply these skills to improve network reliability and performance.
+- Apply these skills to improve Network reliability and performance.
 
 <h4 align="left">3. Virtualization and Cloud Services:</h4> <br />
 
-- Become proficient in installing, maintaining, and troubleshooting Hyper-V, VMware, and Azure-based virtual servers and services.
+- Become proficient in installing, maintaining, and troubleshooting Hyper-V, VMware, and Azure-based Virtual Servers and Services.
 - Learn to use management tools like Windows Admin Center, Intune, O365, and Azure management websites effectively.
 - Automate tasks using PowerShell where applicable.
 
 <h4 align= "left">4. User Support and Customer Guidance:</h4> <br />
 
-- Enhance your communication and problem-solving skills to provide excellent user support.
+- Enhance my communication and problem-solving skills to provide excellent user support.
 - Develop the ability to guide and assist users with workstations, mobile devices, peripherals, and applications.
 - Stay updated with emerging technologies and trends in user support.
 
 <h4 align="left">5. Domain Environment and M365/Azure Management:</h4> <br />
 
 - Master the maintenance and management of domain environment basic services.
-- Proficiently manage Microsoft 365 (M365) and Azure services.
+- Proficiently manage Microsoft 365(M365) and Azure services.
 - Develop problem-solving skills for support tasks related to these environments.
 
 <h4 align="left">6. Communication during Disruptions:</h4> <br />
@@ -180,39 +180,39 @@ I have installed Windows Server 2019 server operating systems with basic service
 <h4 align="left">7. Server Hardware and Software Management:</h4> <br />
 
 - Acquire expertise in installing, monitoring, maintaining, and updating physical and virtual servers.
-- Consider hardware requirements for server installations.
-- Efficiently manage server hardware and peripherals.
+- Consider hardware requirements for Server installations.
+- Efficiently manage server Hardware and Peripherals.
 
 <h4 align="left">8. Windows Server and Workstations:</h4> <br />
 
-- Gain proficiency in installing and managing Windows Server 2019 and Windows 10 workstations.
+- Gain proficiency in installing and managing Windows Server <sup>2019</sup>, <sup>2022</sup>and Windows 10 <sup>Pro</sup> workstations.
 - Handle system updates and maintenance efficiently, following standardized schedules.
 
 <h4 align="left">9. Active Directory and Azure AD:</h4> <br />
 
 - Maintain AD/Azure AD structures and manage user accounts and groups using appropriate tools, including PowerShell.
-- Implement security policies and best practices for AD and Azure AD.
+- Implement Security Policies and best practices for AD and Azure AD.
 
 <h4 align="left">10. Server and Application Monitoring:</h4> <br />
 
-- Learn to monitor servers and critical server applications using various tools.
+- Learn to monitor Servers and critical server applications using various tools.
 - Proactively implement maintenance and device/resource management based on monitoring data.
 
 <h4 align="left">11. Security Procedures and Applications:</h4> <br />
 
-- Familiarize yourself with workplace security procedures and applications.
-- Acquire the skills to restore systems and data in case of security incidents.
+- Familiarize myself with workplace security procedures and applications.
+- Acquire the skills to restore systems and data in case of Security Incidents.
 
 <h4 align="left">12. Azure Services and Technologies:</h4> <br />
 
-- Explore Azure's platform-as-a-service (PaaS) offerings, such as Azure App Service and Container Services.
+- Explore Azure's Platform-as-a-service (PaaS) offerings, such as Azure App Service and Container Services.
 - Learn about Azure databases, hybrid environments, and Azure Virtual Desktop.
 - Gain a fundamental understanding of Azure architecture and management.
 
 <h4 align="left">13. Security Technologies and Networking:</h4> <br />
 
-- Implement security best practices, including firewalls, Defender, encryption, and multi-factor authentication.
-- Understand networking fundamentals, including IP addressing, subnets, routing, and troubleshooting.
+- Implement Security best practices, including Firewalls, Defender, encryption, and Multi-Factor Authentication(MFA).
+- Understand Networking, including IP addressing, Subnets, Routing, and Troubleshooting.
 
 <h4 align="left">14. Monitoring and Collaboration:</h4> <br />
 
