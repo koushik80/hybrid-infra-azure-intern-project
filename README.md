@@ -110,16 +110,16 @@ I have installed Windows Server 2019 server operating systems with basic service
 
  - [x] `Hybrid Environment:` Configuring and managing a **_Hybrid IT environment that combines on-premises and cloud resources_**.
  - [x] `Windows Server:` Setting up and managing **_Windows Server instances, including user management, file sharing, and roles_**.
- - [x] `Active Directory(AAD):` Working with **_Active Directory to control access, manage users and groups, and implement security policies_**.
+ - [x] `Active Directory(AAD):` Working with **_Active Directory to control access, manage users and groups, and implement Security Policies_**.
  - [x] `Microsoft Azure:` Gaining familiarity with **_Azure services, resource management, and basic cloud architecture_**.
  - [x] `Azure Active Directory(AAD)/Microsoft Entra ID:` Exploring **_cloud-based identity and access management, integrating with on-premises AD, and learning about single sign-on_**.
  - [x] `Azure Virtual Desktop(AVD):` Configuring and maintaining **_Virtual Desktop infrastructure in Azure, enabling remote work capabilities_**.
- - [x] `Security Technologies:` Learning about **_security best practices, implementing Firewalls & Defender, encryption, and multi-factor authentication(MFA)_**.
- - [x] `Networking:` Understanding **_networking fundamentals, including IP addressing, subnets, routing, security and troubleshooting_**.
+ - [x] `Security Technologies:` Learning about **_security best practices, implementing Firewalls & Defender, Encryption, and Multi-Factor Authentication(MFA)_**.
+ - [x] `Networking:` Understanding **_networking fundamentals, including IP addressing, Subnets, Routing, Security and Troubleshooting_**.
  - [x] `Monitoring:` Exploring monitoring tools to keep track of **_system performance, availability, and security incidents_**.
  - [x] `Instant Messaging:` Setting up and managing messaging platforms like **_Microsoft Teams for effective communication and collaboration_**.
  - [x] `Microsoft 365:` Understanding **_cloud-based productivity tools and services, including email, document sharing, and collaboration_**.
- - [x] `Azure App Service:` Dive into Azure's **_platform-as-a-service (PaaS) offering, deploying web applications_** with ease.
+ - [x] `Azure App Service:` Dive into Azure's **_Platform-as-a-Service(PaaS) offering, deploying web applications_** with ease.
  - [x] `Container Services:` Introduction to containerization using services like **_Docker & Kubernetes_**, exploring its **_benefits and deployment_**.
  - [x] `Azure Databases:` Learn about **_Azure's database offerings and their configuration_**.
  - [x] `Azure Functions:` Understanding Microsoft's **_event-driven serverless solution_**, different triggers like **_HTTP trigger, Timer trigger, Azure Blob Storage trigger, Azure Event Grid trigger_**.
@@ -185,7 +185,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 <h4 align="left">8. Windows Server and Workstations:</h4> <br />
 
-- Gain proficiency in installing and managing Windows Server <sup>2019</sup>, <sup>2022</sup>and Windows 10 <sup>Pro</sup> workstations.
+- Gain proficiency in installing and managing Windows Server 2019, Windows Server 2022 and Windows 10 Pro workstations.
 - Handle system updates and maintenance efficiently, following standardized schedules.
 
 <h4 align="left">9. Active Directory and Azure AD:</h4> <br />
@@ -624,6 +624,30 @@ I have installed Windows Server 2019 server operating systems with basic service
 | Azure Storage                | Azure Storage                |
 | ---------------------- | ---------------------- |
 | ![az-storage7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5f612fa8-9e68-4b39-a267-0478b60795a4) | ![az-storage8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/54690b81-301f-48d6-bf0b-03d89753caf7) |
+
+
+| Backup & Recovery                | Backup & Recovery                |
+| ---------------------- | ---------------------- |
+| ![backupVM1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cb1f142c-6506-46a4-9a07-700e1a918e69) | ![backupVM2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3de07596-f222-46c5-a565-6968eacd3f59) |
+
+
+| Backup & Recovery                | Backup & Recovery                |
+| ---------------------- | ---------------------- |
+| ![backupVM3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d2ca731f-7744-444a-983c-229c6e5aefd5) | ![backupVM4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/31c6d5af-f917-4079-92aa-efca801a57c4) |
+
+
+| Backup & Recovery                | Backup & Recovery                |
+| ---------------------- | ---------------------- |
+| ![backupVM5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dd85df36-7590-428f-a61e-33bfdecafb8c) | ![backupVM6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/1b0e497b-f509-430d-959c-ad9962a44b23) |
+
+
+
+| Backup & Recovery                | Backup & Recovery                |
+| ---------------------- | ---------------------- |
+| ![backupVM7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dbd77630-93fa-495a-8f77-0b64132e422a) | ![backupVM8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/bbeae7e1-0012-4dc7-9298-101c4135a9c6) |
+
+
+
 
 
 </div>
