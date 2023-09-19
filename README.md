@@ -254,7 +254,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 - Azure Migrate <br />
 - Bastions <br />
 - PowerShell <br />
-- Active Directory Domain Service(AD DS) <br />
+- Active Directory Domain Service(ADDS) <br />
 - AVD(Azure Virtual Desktop) <br />
 - Azure Active Directory(AAD)/Microsoft Entra ID <br />
 - Azure Key Vault(Cloud service for securely storing and accessing secrets)<br />
@@ -263,26 +263,19 @@ I have installed Windows Server 2019 server operating systems with basic service
 - Application Security Group(ASG) <br />
 - Firewall Rules <br />
 - Identity and Access Management[IAM]: Multi-Factor Authentication(MFA) <br />
-- VPN Gateway <br />
 - Virtual GATEWAY & Virtual WAN <br />
 - Azure Load Balancer <br />
 - Azure Site Recovery Provider <br />
-- Microsoft 365 Admin <br />
-- Teams Admin <br />
+- Microsoft 365 Admin[Teams Admin + SharePoint Admin + Ticketing System in SharePoint + Exchange Admin + Power BI Desktop + Power Apps + Intune Admin Center] <br />
 - Azure App Service <br />
 - Azure DevOps <br />
-- SharePoint Admin <br />
-- Ticketing System in SharePoint
-- Exchange Admin <br />
-- Power BI Desktop <br />
-- Power Apps <br/>
-- Intune Admin Center <br />
 - Azure Functions <br />
 - Azure Storage <br />
 - Azure Monitor <br />
 - Azure SQL Database + Azure Data Studio <br />
 - VS Code <br />
 - To be continued... <br />
+
 </div> <br /> <br />
 
 <div>
