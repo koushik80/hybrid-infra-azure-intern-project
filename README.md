@@ -262,6 +262,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 - Network Security Group(NSG) <br />
 - Application Security Group(ASG) <br />
 - Firewall Rules <br />
+- Identity and Access Management[IAM]: Multi-Factor Authentication(MFA) <br />
 - VPN Gateway <br />
 - Virtual GATEWAY & Virtual WAN <br />
 - Azure Load Balancer <br />
@@ -271,8 +272,10 @@ I have installed Windows Server 2019 server operating systems with basic service
 - Azure App Service <br />
 - Azure DevOps <br />
 - SharePoint Admin <br />
+- Ticketing System in SharePoint
 - Exchange Admin <br />
 - Power BI Desktop <br />
+- Power Apps <br/>
 - Intune Admin Center <br />
 - Azure Functions <br />
 - Azure Storage <br />
