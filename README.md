@@ -701,5 +701,5 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 
 
-<p align="right" style="color: teal">Developed by koushik@devHuß</p>
+<span align="right" style="color: teal">Developed by koushik@devHuß</span>
 
