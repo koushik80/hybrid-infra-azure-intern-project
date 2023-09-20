@@ -647,6 +647,23 @@ I have installed Windows Server 2019 server operating systems with basic service
 | ![backupVM7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dbd77630-93fa-495a-8f77-0b64132e422a) | ![backupVM8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/bbeae7e1-0012-4dc7-9298-101c4135a9c6) |
 
 
+| Monitor                | Monitor                |
+| ---------------------- | ---------------------- |
+| ![monitor1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ea87b283-4807-4b9c-9080-17986675e4a7) | ![monitor2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/1449293a-b6cf-4de7-a9d4-0494f4e70123) |
+
+
+
+| Monitor                | Monitor                |
+| ---------------------- | ---------------------- |
+| ![monitor3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cdb67956-a641-4e27-ae83-d4c4220aba87) | ![monitor4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9a60de0a-a7ca-411c-9e70-7325bb267846) |
+
+
+| Monitor                | Monitor                |
+| ---------------------- | ---------------------- |
+| ![monitor5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fb2ce3ab-f93f-4d6a-9a68-126a8f13605d) | ![monitor6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/10bcedfa-ae17-4a4a-9b09-01ca7ae6266e) |
+
+
+
 
 
 
