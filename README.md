@@ -39,7 +39,7 @@
 
 **<p align="left">_The student can_</p>**
 
-:arrow_lower_right: Manage the system
+:arrow_lower_right: Manage the system <br />
 :arrow_lower_right: Develop and Maintain the system.
 <p align="left">The student demonstrates his skills on the screen in system administration, development and maintenance tasks in an information and communication technology environment.</p>
 
@@ -47,31 +47,31 @@
 
 **<p align="left"> :pushpin: Criteria: _Works in accordance with the service production process._</p>**
 
- - [x] I know the basic IT service production processes of my workplace, e.g., ITIL and I acted accordingly.
+   - [x] I know the basic IT service production processes of my workplace, e.g., ITIL and I acted accordingly.
 
 **<p align="left"> :pushpin: Criteria: _Knows the layer structure of the data network to solve data and network problems._</p>**
 
- - [x] I know and can use and make limitations in fault diagnosis of the network topology of my operating environment and the most important devices and services, considering the principles of the model.
+   - [x] I know and can use and make limitations in fault diagnosis of the network topology of my operating environment and the most important devices and services, considering the principles of the model.
 
 **<p align="left"> :pushpin: Criteria: _Manages virtualized platforms._</p>**
 
- - [x] I have installed and maintained Hyper-V and VMware as well as Azure-based virtual servers and services, using the services' own management tools, system center, Intune, O365 and Azure management websites and, if necessary, e.g., PowerShell.
+   - [x] I have installed and maintained Hyper-V and VMware as well as Azure-based virtual servers and services, using the services' own management tools, system center, Intune, O365 and Azure management websites and, if necessary, e.g., PowerShell.
 
 **<p align="left"> :pushpin: Criteria: _Supports and guides system users._</p>**
 
- - [x] In my duties, I have also worked in user support, supporting and guiding customers in the use of workstations, mobile and peripheral devices and applications.
+   - [x] In my duties, I have also worked in user support, supporting and guiding customers in the use of workstations, mobile and peripheral devices and applications.
 
 **<p align="left"> :pushpin: Criteria: _Resolves system-level service requests._</p>**
 
- - [x] My responsibility also includes the maintenance and management of the domain environment's basic services and M365 and Azure, as well as solving support tasks.
+   - [x] My responsibility also includes the maintenance and management of the domain environment's basic services and M365 and Azure, as well as solving support tasks.
 
 **<p align="left"> :pushpin: Criteria: _Messages to system users in exceptional situations._</p>**
 
- - [x] If necessary, i.e., in the most significant disruptions affecting the production environment, maintenance work and matters related to information security, I also inform customers well in advance if necessary and possible. Information is provided via Intra's/Entra’s webpages, e-mail and social media tools.
+   - [x] If necessary, i.e., in the most significant disruptions affecting the production environment, maintenance work and matters related to information security, I also inform customers well in advance if necessary and possible. Information is provided via Intra's/Entra’s webpages, e-mail and social media tools.
 
 **<p align="left"> :pushpin: Criteria: _Uses cloud environment management tools._</p>**
 
- - [x] I have installed and maintained Azure-based virtual servers and services using the services' own management tools, Windows Admin Center, Intune, O365 and Azure management websites and, if necessary, e.g., PowerShell.
+   - [x] I have installed and maintained Azure-based virtual servers and services using the services' own management tools, Windows Admin Center, Intune, O365 and Azure management websites and, if necessary, e.g., PowerShell.
 
 <br />
 
@@ -79,54 +79,54 @@
 
 **<p align="left"> :pushpin: Criteria: _Schedules and plans system maintenance._</p>**
 
- - [x] System updates and maintenance work are scheduled and partially automated, and workstation updates are handled centrally, mostly based on standardized schedules.
+   - [x] System updates and maintenance work are scheduled and partially automated, and workstation updates are handled centrally, mostly based on standardized schedules.
 
 **<p align="left"> :pushpin: Criteria: _Manages the system and prepares and implements system-level changes._</p>**
 
- - [x] I have installed physical and virtual servers considering the hardware requirements. My duties include servicing, monitoring, maintaining and updating server and workstation hardware and peripherals.
+   - [x] I have installed physical and virtual servers considering the hardware requirements. My duties include servicing, monitoring, maintaining and updating server and workstation hardware and peripherals.
 I have installed Windows Server 2019 server operating systems with basic services and standard Windows 10 workstations.
 
 **<p align="left"> :pushpin: Criteria: _Monitor server activity and predict problem situations using monitoring tools._</p>**
 
- - [x] I maintain AD's/AZURE AD’s structure, groups/users with the help of ADUC, Azure management, Admin center and Intune and, if necessary, using PowerShell.I monitor servers and the most critical server applications with local operating system and server manufacturer tools, System Center and Azure management monitoring tools, and proactively strive to implement maintenance and device/resource management.
+   - [x] I maintain AD's/AZURE AD’s structure, groups/users with the help of ADUC, Azure management, Admin center and Intune and, if necessary, using PowerShell.I monitor servers and the most critical server applications with local operating system and server manufacturer tools, System Center and Azure management monitoring tools, and proactively strive to implement maintenance and device/resource management.
 
 **<p align="left"> :pushpin: Criteria: _Automate system-level tasks._</p>**
 
- - [x] I manually and automatically update servers and workstations and, if necessary, test before.
+   - [x] I manually and automatically update servers and workstations and, if   necessary, test before.
 
 **<p align="left"> :pushpin: Criteria: _Implements system backup and recovery policies._</p>**
 
- - [x] I know the security procedures and applications of my workplace and can restore systems/data if necessary.
+   - [x] I know the security procedures and applications of my workplace and can restore systems/data if necessary.
 
 **<p align="left"> :pushpin: Criteria: _Ensures system functionality and information security._</p>**
 
- - [x] Fault diagnosis and management of the IT side is part of my daily job description. In the maintenance of On-premises/Cloud environments, I have considered information security, e.g., GPOs, hardening and firewall/anti-malware.
+   - [x] Fault diagnosis and management of the IT side is part of my daily job description. In the maintenance of On-premises/Cloud environments, I have considered information security, e.g., GPOs, hardening and firewall/anti-malware.
 
 <br />
 
-<h3 align="left">Responsibilities:</h3>
+<h3 align="left">Responsibilities: :information_desk_person: </h3>
 
 **<p align="left">_In this role, my responsibilities are included (continuous implementation):_</p>**
 
- - [x] `Hybrid Environment:` Configuring and managing a **_Hybrid IT environment that combines on-premises and cloud resources_**.
- - [x] `Windows Server:` Setting up and managing **_Windows Server instances, including user management, file sharing, and roles_**.
- - [x] `Active Directory(AAD):` Working with **_Active Directory to control access, manage users and groups, and implement Security Policies_**.
- - [x] `Microsoft Azure:` Gaining familiarity with **_Azure services, resource management, and basic cloud architecture_**.
- - [x] `Azure Active Directory(AAD)/Microsoft Entra ID:` Exploring **_cloud-based identity and access management, integrating with on-premises AD, and learning about single sign-on_**.
- - [x] `Azure Virtual Desktop(AVD):` Configuring and maintaining **_Virtual Desktop infrastructure in Azure, enabling remote work capabilities_**.
- - [x] `Security Technologies:` Learning about **_security best practices, implementing Firewalls & Defender, Encryption, and Multi-Factor Authentication(MFA)_**.
- - [x] `Networking:` Understanding **_networking fundamentals, including IP addressing, Subnets, Routing, Security and Troubleshooting_**.
- - [x] `Monitoring:` Exploring monitoring tools to keep track of **_system performance, availability, and security incidents_**.
- - [x] `Instant Messaging:` Setting up and managing messaging platforms like **_Microsoft Teams for effective communication and collaboration_**.
- - [x] `Microsoft 365:` Understanding **_cloud-based productivity tools and services, including email, document sharing, and collaboration_**.
- - [x] `Azure App Service:` Dive into Azure's **_Platform-as-a-Service(PaaS) offering, deploying web applications_** with ease.
- - [x] `Container Services:` Introduction to containerization using services like **_Docker & Kubernetes_**, exploring its **_benefits and deployment_**.
- - [x] `Azure Databases:` Learn about **_Azure's database offerings and their configuration_**.
- - [x] `Azure Functions:` Understanding Microsoft's **_event-driven serverless solution_**, different triggers like **_HTTP trigger, Timer trigger, Azure Blob Storage trigger, Azure Event Grid trigger_**.
+   :heavy_check_mark: `Hybrid Environment:` Configuring and managing a **_Hybrid IT environment that combines on-premises and cloud resources_**.
+   :heavy_check_mark: `Windows Server:` Setting up and managing **_Windows Server instances, including user management, file sharing, and roles_**.
+   :heavy_check_mark: `Active Directory(AD):` Working with **_Active Directory to control access, manage users and groups, and implement Security Policies_**.
+   :heavy_check_mark: `Microsoft Azure:` Gaining familiarity with **_Azure services, resource management, and basic cloud architecture_**.
+   :heavy_check_mark: `Azure Active Directory(AAD)/Microsoft Entra ID:` Exploring **_cloud-based identity and access management, integrating with on-premises AD, and learning about single sign-on_**.
+   :heavy_check_mark: `Azure Virtual Desktop(AVD):` Configuring and maintaining **_Virtual Desktop infrastructure in Azure, enabling remote work capabilities_**.
+   :heavy_check_mark: `Security Technologies:` Learning about **_security best practices, implementing Firewalls & Defender, Encryption, and Multi-Factor Authentication(MFA)_**.
+   :heavy_check_mark: `Networking:` Understanding **_networking fundamentals, including IP addressing, Subnets, Routing, Security and Troubleshooting_**.
+   :heavy_check_mark: `Monitoring:` Exploring monitoring tools to keep track of **_system performance, availability, and security incidents_**.
+   :heavy_check_mark: `Instant Messaging:` Setting up and managing messaging platforms like **_Microsoft Teams for effective communication and collaboration_**.
+   :heavy_check_mark: `Microsoft 365:` Understanding **_cloud-based productivity tools and services, including email, document sharing, and collaboration_**.
+   :heavy_check_mark: `Azure App Service:` Dive into Azure's **_Platform-as-a-Service(PaaS) offering, deploying web applications_** with ease.
+   :heavy_check_mark: `Container Services:` Introduction to containerization using services like **_Docker & Kubernetes_**, exploring its **_benefits and deployment_**.
+   :heavy_check_mark: `Azure Databases:` Learn about **_Azure's database offerings and their configuration_**.
+   :heavy_check_mark: `Azure Functions:` Understanding Microsoft's **_event-driven serverless solution_**, different triggers like **_HTTP trigger, Timer trigger, Azure Blob Storage trigger, Azure Event Grid trigger_**.
 
 <br />
 
-<h3 align="left">Getting Started</h3>
+<h3 align="left">Getting Started :vertical_traffic_light:</h3>
 
 **<p align="left">_To review my work, follow these steps:_</p>**
 
@@ -137,7 +137,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 <br />
 
-<h3 align="left">Learning Objectives</h3>
+<h3 align="left">Learning Objectives: :chart_with_upwards_trend: </h3>
 
 **<p align="left">_By the end of this Internship, I will be able to:_</p>**
 
