@@ -250,32 +250,32 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 <h3 align="left">Technologies:</h3>  <br />
 
-- Hyper-V Manager <br />
-- Azure Migrate <br />
-- Bastions <br />
-- PowerShell <br />
-- Active Directory Domain Service(ADDS) <br />
-- AVD(Azure Virtual Desktop) <br />
-- Azure Active Directory(AAD)/Microsoft Entra ID <br />
-- Azure Key Vault(Cloud service for securely storing and accessing secrets)<br />
-- Windows Defender(Security) <br />
-- Network Security Group(NSG) <br />
-- Application Security Group(ASG) <br />
-- Firewall Rules <br />
-- Identity and Access Management[IAM]: Multi-Factor Authentication(MFA) <br />
-- Virtual GATEWAY & Virtual WAN <br />
-- Azure Load Balancer <br />
-- Azure Site Recovery Provider <br />
-- Microsoft 365 Admin[Teams Admin + SharePoint Admin + Ticketing System in SharePoint + Exchange Admin + Power BI Desktop + Power Apps + Intune Admin Center] <br />
-- System Center Configuration Manager(SCCM)
-- Azure App Service <br />
-- Azure DevOps <br />
-- Azure Functions <br />
-- Azure Storage <br />
-- Azure Monitor <br />
-- Azure SQL Database + Azure Data Studio <br />
-- VS Code <br />
-:white_check_mark: To be continued... <br />
+:white_check_mark: Hyper-V Manager <br />
+:white_check_mark: Azure Migrate <br />
+:white_check_mark: Bastions <br />
+:white_check_mark: PowerShell <br />
+:white_check_mark: Active Directory Domain Service(ADDS) <br />
+:white_check_mark: AVD(Azure Virtual Desktop) <br />
+:white_check_mark: Azure Active Directory(AAD)/Microsoft Entra ID <br />
+:white_check_mark: Azure Key Vault(Cloud service for securely storing and accessing secrets)<br />
+:white_check_mark: Windows Defender(Security) <br />
+:white_check_mark: Network Security Group(NSG) <br />
+:white_check_mark: Application Security Group(ASG) <br />
+:white_check_mark: Firewall Rules <br />
+:white_check_mark: Identity and Access Management[IAM]: Multi-Factor Authentication(MFA) <br />
+:white_check_mark: Virtual GATEWAY & Virtual WAN <br />
+:white_check_mark: Azure Load Balancer <br />
+:white_check_mark: Azure Site Recovery Provider <br />
+:white_check_mark: Microsoft 365 Admin[Teams Admin + SharePoint Admin + Ticketing System in SharePoint + Exchange Admin + Power BI Desktop + Power Apps + Intune Admin Center] <br />
+:white_check_mark: System Center Configuration Manager(SCCM)
+:white_check_mark: Azure App Service <br />
+:white_check_mark: Azure DevOps <br />
+:white_check_mark: Azure Functions <br />
+:white_check_mark: Azure Storage <br />
+:white_check_mark: Azure Monitor <br />
+:white_check_mark: Azure SQL Database + Azure Data Studio <br />
+:white_check_mark: VS Code <br />
+- To be continued... <br />
 
 </div> <br /> <br />
 
