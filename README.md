@@ -39,66 +39,66 @@
 
 **<p align="left">_The student can_</p>**
 
-- Manage the system
-- Develop and maintain the system.
+:arrow_lower_right: Manage the system
+:arrow_lower_right: Develop and Maintain the system.
 <p align="left">The student demonstrates his skills on the screen in system administration, development and maintenance tasks in an information and communication technology environment.</p>
 
-`Manage the system`
+:eight_spoked_asterisk: `Manage the system`
 
-**<p align="left">Criteria: _Works in accordance with the service production process._</p>**
+**<p align="left"> :pushpin: Criteria: _Works in accordance with the service production process._</p>**
 
  - [x] I know the basic IT service production processes of my workplace, e.g., ITIL and I acted accordingly.
 
-**<p align="left">Criteria: _Knows the layer structure of the data network to solve data and network problems._</p>**
+**<p align="left"> :pushpin: Criteria: _Knows the layer structure of the data network to solve data and network problems._</p>**
 
  - [x] I know and can use and make limitations in fault diagnosis of the network topology of my operating environment and the most important devices and services, considering the principles of the model.
 
-**<p align="left">Criteria: _Manages virtualized platforms._</p>**
+**<p align="left"> :pushpin: Criteria: _Manages virtualized platforms._</p>**
 
  - [x] I have installed and maintained Hyper-V and VMware as well as Azure-based virtual servers and services, using the services' own management tools, system center, Intune, O365 and Azure management websites and, if necessary, e.g., PowerShell.
 
-**<p align="left">Criteria: _Supports and guides system users._</p>**
+**<p align="left"> :pushpin: Criteria: _Supports and guides system users._</p>**
 
  - [x] In my duties, I have also worked in user support, supporting and guiding customers in the use of workstations, mobile and peripheral devices and applications.
 
-**<p align="left">Criteria: _Resolves system-level service requests._</p>**
+**<p align="left"> :pushpin: Criteria: _Resolves system-level service requests._</p>**
 
  - [x] My responsibility also includes the maintenance and management of the domain environment's basic services and M365 and Azure, as well as solving support tasks.
 
-**<p align="left">Criteria: _Messages to system users in exceptional situations._</p>**
+**<p align="left"> :pushpin: Criteria: _Messages to system users in exceptional situations._</p>**
 
  - [x] If necessary, i.e., in the most significant disruptions affecting the production environment, maintenance work and matters related to information security, I also inform customers well in advance if necessary and possible. Information is provided via Intra's/Entra’s webpages, e-mail and social media tools.
 
-**<p align="left">Criteria: _Uses cloud environment management tools._</p>**
+**<p align="left"> :pushpin: Criteria: _Uses cloud environment management tools._</p>**
 
  - [x] I have installed and maintained Azure-based virtual servers and services using the services' own management tools, Windows Admin Center, Intune, O365 and Azure management websites and, if necessary, e.g., PowerShell.
 
 <br />
 
-`Develop and maintain the system`
+:eight_spoked_asterisk: `Develop and maintain the system`
 
-**<p align="left">Criteria: _Schedules and plans system maintenance._</p>**
+**<p align="left"> :pushpin: Criteria: _Schedules and plans system maintenance._</p>**
 
  - [x] System updates and maintenance work are scheduled and partially automated, and workstation updates are handled centrally, mostly based on standardized schedules.
 
-**<p align="left">Criteria: _Manages the system and prepares and implements system-level changes._</p>**
+**<p align="left"> :pushpin: Criteria: _Manages the system and prepares and implements system-level changes._</p>**
 
  - [x] I have installed physical and virtual servers considering the hardware requirements. My duties include servicing, monitoring, maintaining and updating server and workstation hardware and peripherals.
 I have installed Windows Server 2019 server operating systems with basic services and standard Windows 10 workstations.
 
-**<p align="left">Criteria: _Monitor server activity and predict problem situations using monitoring tools._</p>**
+**<p align="left"> :pushpin: Criteria: _Monitor server activity and predict problem situations using monitoring tools._</p>**
 
  - [x] I maintain AD's/AZURE AD’s structure, groups/users with the help of ADUC, Azure management, Admin center and Intune and, if necessary, using PowerShell.I monitor servers and the most critical server applications with local operating system and server manufacturer tools, System Center and Azure management monitoring tools, and proactively strive to implement maintenance and device/resource management.
 
-**<p align="left">Criteria: _Automate system-level tasks._</p>**
+**<p align="left"> :pushpin: Criteria: _Automate system-level tasks._</p>**
 
  - [x] I manually and automatically update servers and workstations and, if necessary, test before.
 
-**<p align="left">Criteria: _Implements system backup and recovery policies._</p>**
+**<p align="left"> :pushpin: Criteria: _Implements system backup and recovery policies._</p>**
 
  - [x] I know the security procedures and applications of my workplace and can restore systems/data if necessary.
 
-**<p align="left">Criteria: _Ensures system functionality and information security._</p>**
+**<p align="left"> :pushpin: Criteria: _Ensures system functionality and information security._</p>**
 
  - [x] Fault diagnosis and management of the IT side is part of my daily job description. In the maintenance of On-premises/Cloud environments, I have considered information security, e.g., GPOs, hardening and firewall/anti-malware.
 
@@ -130,10 +130,10 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 **<p align="left">_To review my work, follow these steps:_</p>**
 
-- Clone this repository to your local environment. <br />
-- Review the documentation for each technology area in the respective folders. <br />
-- Engage with hands-on exercises/LABS to translate theory into practice. <br />
-- Participate in team discussions and ask questions in the designated communication channels. <br />
+:fast_forward: Clone this repository to your local environment. <br />
+:fast_forward: Review the documentation for each technology area in the respective folders. <br />
+:fast_forward: Engage with hands-on exercises/LABS to translate theory into practice. <br />
+:fast_forward: Participate in team discussions and ask questions in the designated communication channels. <br />
 
 <br />
 
@@ -670,13 +670,13 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 </div>
 
-<h4 align="left">Note: Feel free to reach out to me for guidance and assistance throughout the internship. I will be pleased to have you on board and your contributions to the world of IT system architecture!</h4>
+<h4 align="left"> :eight_spoked_asterisk: Note: Feel free to reach out to me for guidance and assistance throughout the internship. I will be pleased to have you on board and your contributions to the world of IT system architecture!</h4>
 
 ---
 
 <br />
 
-<h3 align="left">References: :paperclips: </h3>
+<h3 align="left">References: :information_source: </h3>
 
 [LAB AZ-104 | MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) <br />
 [LAB AZ-140 | Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop](https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop) <br />
@@ -721,5 +721,5 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 
 
-<p align="right" style="color: teal">koushik@devHuß</p>
+<p align="right" style="color: teal">koushik@devHuß :copyright: </p>
 
