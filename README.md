@@ -108,21 +108,21 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 **<p align="left">_In this role, my responsibilities are included (continuous implementation):_</p>**
 
-   :heavy_check_mark: `Hybrid Environment:` Configuring and managing a **_Hybrid IT environment that combines on-premises and cloud resources_**.
-   :heavy_check_mark: `Windows Server:` Setting up and managing **_Windows Server instances, including user management, file sharing, and roles_**.
-   :heavy_check_mark: `Active Directory(AD):` Working with **_Active Directory to control access, manage users and groups, and implement Security Policies_**.
-   :heavy_check_mark: `Microsoft Azure:` Gaining familiarity with **_Azure services, resource management, and basic cloud architecture_**.
-   :heavy_check_mark: `Azure Active Directory(AAD)/Microsoft Entra ID:` Exploring **_cloud-based identity and access management, integrating with on-premises AD, and learning about single sign-on_**.
-   :heavy_check_mark: `Azure Virtual Desktop(AVD):` Configuring and maintaining **_Virtual Desktop infrastructure in Azure, enabling remote work capabilities_**.
-   :heavy_check_mark: `Security Technologies:` Learning about **_security best practices, implementing Firewalls & Defender, Encryption, and Multi-Factor Authentication(MFA)_**.
-   :heavy_check_mark: `Networking:` Understanding **_networking fundamentals, including IP addressing, Subnets, Routing, Security and Troubleshooting_**.
-   :heavy_check_mark: `Monitoring:` Exploring monitoring tools to keep track of **_system performance, availability, and security incidents_**.
-   :heavy_check_mark: `Instant Messaging:` Setting up and managing messaging platforms like **_Microsoft Teams for effective communication and collaboration_**.
-   :heavy_check_mark: `Microsoft 365:` Understanding **_cloud-based productivity tools and services, including email, document sharing, and collaboration_**.
-   :heavy_check_mark: `Azure App Service:` Dive into Azure's **_Platform-as-a-Service(PaaS) offering, deploying web applications_** with ease.
-   :heavy_check_mark: `Container Services:` Introduction to containerization using services like **_Docker & Kubernetes_**, exploring its **_benefits and deployment_**.
-   :heavy_check_mark: `Azure Databases:` Learn about **_Azure's database offerings and their configuration_**.
-   :heavy_check_mark: `Azure Functions:` Understanding Microsoft's **_event-driven serverless solution_**, different triggers like **_HTTP trigger, Timer trigger, Azure Blob Storage trigger, Azure Event Grid trigger_**.
+   :heavy_check_mark: `Hybrid Environment:` Configuring and managing a **_Hybrid IT environment that combines on-premises and cloud resources_**. <br />
+   :heavy_check_mark: `Windows Server:` Setting up and managing **_Windows Server instances, including user management, file sharing, and roles_**. <br />
+   :heavy_check_mark: `Active Directory(AD):` Working with **_Active Directory to control access, manage users and groups, and implement Security Policies_**. <br />
+   :heavy_check_mark: `Microsoft Azure:` Gaining familiarity with **_Azure services, resource management, and basic cloud architecture_**. <br />
+   :heavy_check_mark: `Azure Active Directory(AAD)/Microsoft Entra ID:` Exploring **_cloud-based identity and access management, integrating with on-premises AD, and learning about single sign-on_**. <br />
+   :heavy_check_mark: `Azure Virtual Desktop(AVD):` Configuring and maintaining **_Virtual Desktop infrastructure in Azure, enabling remote work capabilities_**. <br />
+   :heavy_check_mark: `Security Technologies:` Learning about **_security best practices, implementing Firewalls & Defender, Encryption, and Multi-Factor Authentication(MFA)_**. <br />
+   :heavy_check_mark: `Networking:` Understanding **_networking fundamentals, including IP addressing, Subnets, Routing, Security and Troubleshooting_**. <br />
+   :heavy_check_mark: `Monitoring:` Exploring monitoring tools to keep track of **_system performance, availability, and security incidents_**. <br />
+   :heavy_check_mark: `Instant Messaging:` Setting up and managing messaging platforms like **_Microsoft Teams for effective communication and collaboration_**. <br />
+   :heavy_check_mark: `Microsoft 365:` Understanding **_cloud-based productivity tools and services, including email, document sharing, and collaboration_**. <br />
+   :heavy_check_mark: `Azure App Service:` Dive into Azure's **_Platform-as-a-Service(PaaS) offering, deploying web applications_** with ease. <br />
+   :heavy_check_mark: `Container Services:` Introduction to containerization using services like **_Docker & Kubernetes_**, exploring its **_benefits and deployment_**. <br />
+   :heavy_check_mark: `Azure Databases:` Learn about **_Azure's database offerings and their configuration_**. <br />
+   :heavy_check_mark: `Azure Functions:` Understanding Microsoft's **_event-driven serverless solution_**, different triggers like **_HTTP trigger, Timer trigger, Azure Blob Storage trigger, Azure Event Grid trigger_**. <br />
 
 <br />
 
