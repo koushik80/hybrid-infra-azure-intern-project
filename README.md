@@ -267,7 +267,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 :white_check_mark: Azure Load Balancer <br />
 :white_check_mark: Azure Site Recovery Provider <br />
 :white_check_mark: Microsoft 365 Admin[Teams Admin + SharePoint Admin + Ticketing System in SharePoint + Exchange Admin + Power BI Desktop + Power Apps + Intune Admin Center] <br />
-:white_check_mark: System Center Configuration Manager(SCCM)
+:white_check_mark: System Center Configuration Manager(SCCM) <br />
 :white_check_mark: Azure App Service <br />
 :white_check_mark: Azure DevOps <br />
 :white_check_mark: Azure Functions <br />
