@@ -267,6 +267,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 - Azure Load Balancer <br />
 - Azure Site Recovery Provider <br />
 - Microsoft 365 Admin[Teams Admin + SharePoint Admin + Ticketing System in SharePoint + Exchange Admin + Power BI Desktop + Power Apps + Intune Admin Center] <br />
+- System Center Configuration Manager(SCCM)
 - Azure App Service <br />
 - Azure DevOps <br />
 - Azure Functions <br />
@@ -274,7 +275,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 - Azure Monitor <br />
 - Azure SQL Database + Azure Data Studio <br />
 - VS Code <br />
-- To be continued... <br />
+:white_check_mark: To be continued... <br />
 
 </div> <br /> <br />
 
@@ -709,6 +710,8 @@ I have installed Windows Server 2019 server operating systems with basic service
 [AZ-140 | Azure Quick Start Template](https://github.com/az140mp/azure-quickstart-templates/tree/master/demos/nested-vms-in-virtual-network) <br />
 [React | Azure App Service | Azure DevOps](https://devblogs.microsoft.com/premier-developer/deploying-react-apps-to-azure-with-azure-devops/) <br />
 [Azure Functions](https://learn.microsoft.com/en-us/training/modules/build-api-azure-functions/1-introduction) <br />
+[SCCM](https://www.youtube.com/watch?v=amrg_mlFvuk) <br />
+[Intune Video Lesson](https://www.youtube.com/watch?v=-Sc5EDFw5wI&t=2421s) <br />
 []() <br />
 []() <br />
 []() <br />
