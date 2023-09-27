@@ -268,6 +268,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 :white_check_mark: Azure Site Recovery Provider <br />
 :white_check_mark: Microsoft 365 Admin[Teams Admin + SharePoint Admin + Ticketing System in SharePoint + Exchange Admin + Power BI Desktop + Power Apps + Intune Admin Center] <br />
 :white_check_mark: System Center Configuration Manager(SCCM) <br />
+:white_check_mark: SQL Server <sup>2022</sup> <br />
 :white_check_mark: Azure App Service <br />
 :white_check_mark: Azure DevOps <br />
 :white_check_mark: Azure Functions <br />
@@ -680,6 +681,8 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 [LAB AZ-104 | MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) <br />
 [LAB AZ-140 | Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop](https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop) <br />
+[AZ-204-DevelopingSolutionsforMicrosoftAzure-LAB](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/) <br />
+[AZ-204-DevelopingSolutionsforMicrosoftAzure-Supporting Files](https://github.com/koushik80/AZ-204-DevelopingSolutionsforMicrosoftAzure) <br />
 [LAB MS-700 | Managing-Microsoft-Teams](https://github.com/MicrosoftLearning/MS-700-Managing-Microsoft-Teams) <br />
 [LAB MS-900 | Microsoft 365](https://github.com/CloudLabs-AI/MS-900-Lab-Content/blob/master/Module%201:%20Intro%20to%20Microsoft%20365%20Admin%20Center.md) <br />
 [LAB AZ-700 | Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions) <br />
@@ -711,6 +714,8 @@ I have installed Windows Server 2019 server operating systems with basic service
 [React | Azure App Service | Azure DevOps](https://devblogs.microsoft.com/premier-developer/deploying-react-apps-to-azure-with-azure-devops/) <br />
 [Azure Functions](https://learn.microsoft.com/en-us/training/modules/build-api-azure-functions/1-introduction) <br />
 [SCCM](https://www.youtube.com/watch?v=amrg_mlFvuk) <br />
+[SCCM in Windows 2019](https://www.youtube.com/watch?v=kbJ8-Rf8I0k&t=315s) <br />
+[SCCM Instruction](https://petri.com/how-to-install-system-center-configuration-manager-2022/) <br />
 [Intune Video Lesson](https://www.youtube.com/watch?v=-Sc5EDFw5wI&t=2421s) <br />
 []() <br />
 []() <br />
