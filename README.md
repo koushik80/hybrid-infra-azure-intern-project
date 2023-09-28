@@ -254,6 +254,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 :white_check_mark: Azure Migrate <br />
 :white_check_mark: Bastions <br />
 :white_check_mark: PowerShell <br />
+:white_check_mark: Windows Terminal <br />
 :white_check_mark: Active Directory Domain Service(ADDS) <br />
 :white_check_mark: AVD(Azure Virtual Desktop) <br />
 :white_check_mark: Azure Active Directory(AAD)/Microsoft Entra ID <br />
@@ -270,6 +271,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 :white_check_mark: System Center Configuration Manager(SCCM) <br />
 :white_check_mark: SQL Server <sup>2022</sup> <br />
 :white_check_mark: Azure App Service <br />
+:white_check_mark: Apache Kudu zip <br />
 :white_check_mark: Azure DevOps <br />
 :white_check_mark: Azure Functions <br />
 :white_check_mark: Azure Storage <br />
@@ -425,13 +427,36 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 <br />
 
+
+<div>
+
+`AZ-204-DevelopingSolutionsforMicrosoftAzure` <br />
+
+</div> <br />
+
+| Development                | Development                |
+| ---------------------- | ---------------------- |
+| ![az-dev1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7b15b286-c709-4ab2-810d-9c96b8803de0) | ![az-dev2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d3ed8fce-7a8b-4cfb-abf4-c5c3cf7803c7) |
+
+
+| Development                | Development                |
+| ---------------------- | ---------------------- |
+| ![az-dev3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/e21c2308-e87d-49bc-b496-b1811495055a) | ![az-dev4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5e8cec18-631b-4a49-bf53-1ff90115bd93) |
+
+
+| Development                | Development                |
+| ---------------------- | ---------------------- |
+| ![az-dev5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/75014eeb-703f-4dab-b07e-b479cde3e6ee) | ![az-dev6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9ccd0898-ca2f-475a-a28f-078d3f1e4a24) |
+
+<br />
+
 <div>
 
 `Azure App Service & DevOps` <br />
 
 </div> <br />
 
-<p align="left">My React applications:</p> <br />
+<p align="left">React applications:</p> <br />
 
 <div>
 <p align="left"><a href="https://github.com/koushik80/bookstore">Book Store</a></p>
@@ -683,6 +708,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 [LAB AZ-140 | Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop](https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop) <br />
 [AZ-204-DevelopingSolutionsforMicrosoftAzure-LAB](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/) <br />
 [AZ-204-DevelopingSolutionsforMicrosoftAzure-Supporting Files](https://github.com/koushik80/AZ-204-DevelopingSolutionsforMicrosoftAzure) <br />
+[AZ-204 | LAB VM Setup](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/lab.md) <br />
 [LAB MS-700 | Managing-Microsoft-Teams](https://github.com/MicrosoftLearning/MS-700-Managing-Microsoft-Teams) <br />
 [LAB MS-900 | Microsoft 365](https://github.com/CloudLabs-AI/MS-900-Lab-Content/blob/master/Module%201:%20Intro%20to%20Microsoft%20365%20Admin%20Center.md) <br />
 [LAB AZ-700 | Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions) <br />
@@ -717,6 +743,8 @@ I have installed Windows Server 2019 server operating systems with basic service
 [SCCM in Windows 2019](https://www.youtube.com/watch?v=kbJ8-Rf8I0k&t=315s) <br />
 [SCCM Instruction](https://petri.com/how-to-install-system-center-configuration-manager-2022/) <br />
 [Intune Video Lesson](https://www.youtube.com/watch?v=-Sc5EDFw5wI&t=2421s) <br />
+[eduhouse](https://trainings.eduhouse.fi/koulutukset/az-204-developing-solutions-for-microsoft-azure/) <br />
+[]() <br />
 []() <br />
 []() <br />
 []() <br />
