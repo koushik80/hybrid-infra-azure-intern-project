@@ -390,6 +390,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 - Elisa Internet
 - Seagate External HDD
 - USB Drive
+- External Mirror HUB for MacBook Pro (Multifunctional Converter: HDMI | USB 3.0 | USB 3.0 | SD | TF | RJ45 | VGA | 3.5 audio)
 - Huawei Wi-fi Router
 - Samsung Wireless Keyboard <br />
 
