@@ -385,13 +385,13 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <h3 align="left">Resource Allocation:</h3> <br />
 
-- Apple MacBook Pro x86-based [Processor: 2,3 GHz 8-Core Intel Core i9, 1TB HDD, Memory: 32 GB 2667 MHz DDR4]
-- HP ELITEBOOK 840 G5 x64-based [Processor: i5-8350OU CPU @ 1.70, 1896 GHz Intel<sup> :registered: </sup> Core <sup>TM</sup> , 500GB HDD, 16GB RAM]
-- Elisa Internet
-- Seagate External HDD
-- USB Drive
-- External Mirror HUB for MacBook Pro (Multifunctional Converter: HDMI | USB 3.0 | USB 3.0 | SD | TF | RJ45 | VGA | 3.5 audio)
-- Huawei Wi-fi Router
+- Apple MacBook Pro x86-based [Processor: 2,3 GHz 8-Core Intel Core i9, 1TB HDD, Memory: 32 GB 2667 MHz DDR4] <br />
+- HP ELITEBOOK 840 G5 x64-based [Processor: i5-8350OU CPU @ 1.70, 1896 GHz Intel<sup> :registered: </sup> Core <sup>TM</sup> , 500GB HDD, 16GB RAM] <br />
+- Elisa Internet <br />
+- Seagate External HDD <br />
+- USB Drive <br />
+- External Mirror HUB for MacBook Pro (Multifunctional Converter: HDMI | USB 3.0 | USB 3.0 | SD | TF | RJ45 | VGA | 3.5 audio) <br />
+- Huawei Wi-fi Router <br />
 - Samsung Wireless Keyboard <br />
 
 ` OS `
@@ -416,7 +416,6 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 </div> <br />
 
 <div>
-
 
 
 | Hyper-V Architecture(Source: Microsoft)                            | Azure Backup Agent(Source: Microsoft)                           |
