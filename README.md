@@ -128,17 +128,17 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 Mapping and describing the IT operating environment within a hybrid IT setup involves documenting the diverse components, systems, and processes that constitute an organization's IT infrastructure. A hybrid IT environment typically combines on-premises infrastructure with cloud-based services. Here is a step-by-step process for mapping and describing the hybrid IT operating environment:
 
-**Identify Key Stakeholders:**
+**1. Identify Key Stakeholders:**
 
   - Begin by determining the key stakeholders who should participate in the mapping and description process, including IT administrators, system architects, and business stakeholders.
 
-**Gather Information:**
+**2. Gather Information:**
 
   - Collect comprehensive information about your IT environment, encompassing on-premises hardware, software, networking components, and cloud services. Additionally, consider data centers, server rooms, and remote locations.
 
-**Create an Inventory:**
+**3. Create an Inventory:**
 
-` Develop a comprehensive inventory list that includes: `
+:chart: ` Develop a comprehensive inventory list that includes: `
 
 ` Hardware: ` Servers, storage devices, networking equipment, workstations, laptops, mobile devices, etc.
 
@@ -150,51 +150,51 @@ Mapping and describing the IT operating environment within a hybrid IT setup inv
 
 ` Data: ` Identify where data is stored, whether on-premises or in the cloud.
 
-**Define Relationships:**
+**4. Define Relationships:**
 
  -	As a System Expert, ascertain how these components and services are interconnected and detail the flow of data and information between them. This may involve creating network diagrams, data flow diagrams, and noting integration points.
 
-**Document Dependencies:**
+**5. Document Dependencies:**
 
  -	Identify dependencies between different components and services. For instance, determine which applications rely on specific databases or cloud services.
 
-**Security and Compliance:**
+**6. Security and Compliance:**
 
  -	Evaluate the security measures in place, including firewalls, encryption, access controls, and authentication methods. Additionally, specify any compliance requirements relevant to your industry or organization.
 
-**Performance Metrics:**
+**7. Performance Metrics:**
 
  -	Include information about performance monitoring tools and processes, describing how to monitor the health and performance of your IT environment and how to respond to issues.
 
-**Disaster Recovery and Business Continuity:**
+**8. Disaster Recovery and Business Continuity:**
 
  -	Explain disaster recovery and business continuity strategies, and provide details about backup processes, recovery points, and failover procedures.
 
-**Scalability and Growth:**
+**9. Scalability and Growth:**
 
  -	Discuss how the IT environment can scale to accommodate growth or changes in demand, which might involve cloud auto-scaling or hardware upgrades.
 
-**Vendor and Service Contracts:**
+**10. Vendor and Service Contracts:**
 
  -	List contracts and service-level agreements (SLAs) with third-party vendors, cloud providers, and software providers. Include contact information and renewal dates.
 
-**Diagrams and Visuals:**
+**11. Diagrams and Visuals:**
 
  -	Create diagrams, flowcharts, or visual representations of the hybrid IT environment to facilitate understanding for stakeholders.
 
-**Documentation Repository:**
+**12. Documentation Repository:**
 
  -	Establish a central repository for all this information, such as a document management system or a wiki. Ensure regular updates are made.
 
-**Review and Validation:**
+**13. Review and Validation:**
 
  -	Share the documentation with relevant stakeholders for review and validation, ensuring it accurately represents the current state of the hybrid IT environment.
 
-**Maintenance and Updates:**
+**14. Maintenance and Updates:**
 
  -	Recognize that IT environments evolve over time, necessitating the establishment of a process for regular reviews and updates to keep the documentation current.
 
-**Disaster Recovery and Incident Response Plans:**
+**15. Disaster Recovery and Incident Response Plans:**
 
  - While not part of the mapping and description process, it is crucial to document disaster recovery and incident response plans separately from the general environment documentation.
 
