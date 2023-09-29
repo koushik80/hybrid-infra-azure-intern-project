@@ -385,8 +385,8 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <h3 align="left">Resource Allocation:</h3> <br />
 
-- Apple MacBook Pro [Processor: 2,3 GHz 8-Core Intel Core i9, 1TB HDD, Memory: 32 GB 2667 MHz DDR4]
-- HP ELITEBOOK 840 G5 [Processor: i5-8350OU CPU @ 1.70, 1896 GHz Intel<sup> :registered: </sup> Core <sup>TM</sup> , 500GB HDD, 16GB RAM]
+- Apple MacBook Pro x86-based [Processor: 2,3 GHz 8-Core Intel Core i9, 1TB HDD, Memory: 32 GB 2667 MHz DDR4]
+- HP ELITEBOOK 840 G5 x64-based [Processor: i5-8350OU CPU @ 1.70, 1896 GHz Intel<sup> :registered: </sup> Core <sup>TM</sup> , 500GB HDD, 16GB RAM]
 - Elisa Internet
 - Seagate External HDD
 - USB Drive
