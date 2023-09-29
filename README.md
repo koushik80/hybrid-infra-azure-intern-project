@@ -22,12 +22,7 @@
 
 <h1 align="center">IT System Expert Internship</h1>
 
-<p align="left">Welcome to the overview of my IT System Expert Internship overview! At Taitotalo, I was presented with a unique opportunity to explore various IT roles, including
-
-``` System Expert, Network Expert, Application Expert, Information and Communication Technology Solutions Consultant, Information and Communication Technology Operator, and Cyber Security Expert
-
-```
- However, I didn't limit myself to just one area of expertise; while I had the option to specialize in a single role, I chose to embrace a dynamic approach by working across multiple domains.
+<p align="left">Welcome to the overview of my IT System Expert Internship overview! At Taitotalo, I was presented with a unique opportunity to explore various IT roles, including System Expert, Network Expert, Application Expert, Information and Communication Technology Solutions Consultant, Information and Communication Technology Operator, and Cyber Security Expert. However, I didn't limit myself to just one area of expertise; while I had the option to specialize in a single role, I chose to embrace a dynamic approach by working across multiple domains.
 
 Throughout this internship, I leveraged my proficiency in programming languages and ventured into diverse areas such as **Network Security**, various **Microsoft 365 applications** (a requirement for Application Experts), **DevOps practices**, and **Web Application deployment**, **SQL Server config** in addition to fulfilling the requirements of the **System Expert** role.
 
