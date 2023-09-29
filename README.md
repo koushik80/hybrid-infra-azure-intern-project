@@ -22,9 +22,9 @@
 
 <h1 align="center">IT System Expert Internship</h1>
 
-<p align="left">Welcome to the overview of my IT System Expert Internship overview! At Taitotalo, I was presented with a unique opportunity to explore various IT roles, including System Expert, Network Expert, Application Expert, Information and Communication Technology Solutions Consultant, Information and Communication Technology Operator, and Cyber Security Expert. However, I didn't limit myself to just one area of expertise; while I had the option to specialize in a single role, I chose to embrace a dynamic approach by working across multiple domains.
+<p align="left">Welcome to the overview of my IT System Expert(Cross-Functional Role) Internship overview! At Taitotalo, I was presented with a unique opportunity to explore various IT roles, including System Expert, Network Expert, Application Expert, Information and Communication Technology Solutions Consultant, Information and Communication Technology Operator, and Cyber Security Expert. However, I didn't limit myself to just one area of expertise; while I had the option to specialize in a single role, I chose to embrace a dynamic approach by working across multiple domains.
 
-Throughout this internship, I leveraged my proficiency in programming languages and ventured into diverse areas such as **Network Security**, various **Microsoft 365 applications** (a requirement for Application Experts), **DevOps practices**, and **Web Application deployment**, **SQL Server config** in addition to fulfilling the requirements of the **System Expert** role.
+Throughout this internship, I leveraged my proficiency in programming languages and ventured into diverse areas such as **Networking**(a requirement for Network Experts) **Azure and on-premise Security Technologies**, various **Microsoft 365 applications** (a requirement for Application Experts), **DevOps practices**, and **Web Application deployment**, **SQL Server config** in addition to fulfilling the requirements of the **System Expert** role.
 
 This hands-on experience was meticulously crafted to equip me with practical knowledge in managing and sustaining a plethora of technologies that constitute the backbone of contemporary **IT Infrastructure**. As an intern in this project, I had the privilege of engaging with a wide spectrum of tools and platforms, actively contributing to the **Setup**, **Configuration**, **Security**, and **Management** of critical systems. My work environment was **Hybrid** in nature, characterized by the utilization of my own technical arsenal, consisting of both **Mac** and **Windows** machines, in conjunction with **Azure resources**.
 
@@ -362,6 +362,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 :white_check_mark: Application Security Group(ASG) <br />
 :white_check_mark: Firewall Rules <br />
 :white_check_mark: Identity and Access Management[IAM]: Multi-Factor Authentication(MFA) <br />
+:white_check_mark: MAF Authenticator <br />
 :white_check_mark: Virtual Gateway & Virtual WAN <br />
 :white_check_mark: Azure Load Balancer <br />
 :white_check_mark: Azure Site Recovery Provider <br />
@@ -382,8 +383,17 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <div>
 
-<h3 align="left">Operation Systems:</h3> <br />
+<h3 align="left">Resource Allocation:</h3> <br />
 
+- Apple MacBook Pro [Processor: 2,3 GHz 8-Core Intel Core i9, 1TB HDD, Memory: 32 GB 2667 MHz DDR4]
+- HP ELITEBOOK 840 G5 [Processor: i5-8350OU CPU @ 1.70, 1896 GHz Intel<sup> :registered: </sup> Core <sup>TM</sup> , 500GB HDD, 16GB RAM]
+- Elisa Internet
+- Seagate External HDD
+- USB Drive
+- Huawei Wi-fi Router
+- Samsung Wireless Keyboard <br />
+
+` OS `
 - Windows Server <sup>2019</sup>  <br />
 - Windows Server <sup>2022</sup>  <br />
 - Windows 10 <sup>Pro</sup> <br />
