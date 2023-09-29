@@ -764,5 +764,5 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 
 
-<p align="right" style="color: teal">koushik@devHuß :copyright: </p>
+<p align="right" style="color: teal">koushik@devHuß<sup>:copyright:</sup> </p>
 
