@@ -22,13 +22,18 @@
 
 <h1 align="center">IT System Expert Internship</h1>
 
-<p align="left">Welcome to the overview of my IT System Expert Internship overview! At Taitotalo, I was presented with a unique opportunity to explore various IT roles, including System Expert, Network Expert, Application Expert, Information and Communication Technology Solutions Consultant, Information and Communication Technology Operator, and Cyber Security Expert. However, I didn't limit myself to just one area of expertise; while I had the option to specialize in a single role, I chose to embrace a dynamic approach by working across multiple domains.
+<p align="left">Welcome to the overview of my IT System Expert Internship overview! At Taitotalo, I was presented with a unique opportunity to explore various IT roles, including
 
-Throughout this internship, I leveraged my proficiency in programming languages and ventured into diverse areas such as Network Security, various Microsoft 365 applications (a requirement for Application Experts), DevOps practices, and Web Application deployment, in addition to fulfilling the requirements of the System Expert role.
+``` System Expert, Network Expert, Application Expert, Information and Communication Technology Solutions Consultant, Information and Communication Technology Operator, and Cyber Security Expert
 
-This hands-on experience was meticulously crafted to equip me with practical knowledge in managing and sustaining a plethora of technologies that constitute the backbone of contemporary IT infrastructure. As an intern in this project, I had the privilege of engaging with a wide spectrum of tools and platforms, actively contributing to the setup, configuration, security, and management of critical systems. My work environment was hybrid in nature, characterized by the utilization of my own technical arsenal, consisting of both Mac and Windows machines, in conjunction with Azure resources.
+```
+ However, I didn't limit myself to just one area of expertise; while I had the option to specialize in a single role, I chose to embrace a dynamic approach by working across multiple domains.
 
-Throughout the course of my internship, I relied on a combination of resources for learning and growth. Microsoft Labs served as a primary platform for hands-on experience, supplemented by multiple study resources such as Udemy, YouTube, and Petri. I was also fortunate to receive personal guidance from an experienced Udemy Instructor, Kevin Brown, who specializes in Windows, Azure, AWS, Cisco, and Security, and is an accomplished author in the field. His mentorship significantly enriched my learning journey.
+Throughout this internship, I leveraged my proficiency in programming languages and ventured into diverse areas such as **Network Security**, various **Microsoft 365 applications** (a requirement for Application Experts), **DevOps practices**, and **Web Application deployment**, **SQL Server config** in addition to fulfilling the requirements of the **System Expert** role.
+
+This hands-on experience was meticulously crafted to equip me with practical knowledge in managing and sustaining a plethora of technologies that constitute the backbone of contemporary **IT Infrastructure**. As an intern in this project, I had the privilege of engaging with a wide spectrum of tools and platforms, actively contributing to the setup, configuration, security, and management of critical systems. My work environment was **Hybrid** in nature, characterized by the utilization of my own technical arsenal, consisting of both **Mac** and **Windows** machines, in conjunction with **Azure resources**.
+
+Throughout the course of my internship, I relied on a combination of resources for learning and growth. **Microsoft Labs** served as a primary platform for hands-on experience, supplemented by multiple study resources such as **Udemy**, **YouTube**, **A Cloud Guru** and **Petri**. I was also fortunate to receive personal guidance from an experienced Udemy Instructor, **Kevin Brown**, who specializes in **Windows, Azure, AWS, Cisco, and Security**, and is an accomplished **author** in the field. His mentorship significantly enriched my learning journey.
 
 In this overview, I will delve deeper into the specific projects, challenges, and achievements that shaped my internship experience as an IT System Expert at Taitotalo. This journey has been a testament to my commitment to continuous learning and my enthusiasm for exploring the ever-evolving landscape of Information Technology.
 
