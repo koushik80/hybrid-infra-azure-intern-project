@@ -9,7 +9,7 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="45" height="45"/>
 </div>
-<h2 align="center"><a href="">Hybrid-Infrastructure with Azure  :computer: + :thought_balloon:</a></h2>
+<h2 align="center"><a href="">Hybrid-Infrastructure with Azure  :computer: + :cloud:</a></h2>
 </div>
 
 <div>
@@ -121,9 +121,90 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 <br />
 
-<h3 align="left">Responsibilities: :information_desk_person: </h3>
 
-**<p align="left">_In this role, my responsibilities are included (continuous implementation):_</p>**
+<h3 align="left">Mapping and description of the operating environment: :chart: </h3>
+
+<p align="left">For my internship project, I have chosen to explore multiple domains and engage with various approaches to the IT environment. I aim to address challenges presented by new technologies, covering aspects such as configuration, diagnostics, monitoring, security, risk management, and end-user support.
+
+Mapping and describing the IT operating environment within a hybrid IT setup involves documenting the diverse components, systems, and processes that constitute an organization's IT infrastructure. A hybrid IT environment typically combines on-premises infrastructure with cloud-based services. Here is a step-by-step process for mapping and describing the hybrid IT operating environment:
+
+**Identify Key Stakeholders:**
+
+  - Begin by determining the key stakeholders who should participate in the mapping and description process, including IT administrators, system architects, and business stakeholders.
+
+**Gather Information:**
+
+  - Collect comprehensive information about your IT environment, encompassing on-premises hardware, software, networking components, and cloud services. Additionally, consider data centers, server rooms, and remote locations.
+
+**Create an Inventory:**
+
+` Develop a comprehensive inventory list that includes: `
+
+` Hardware: ` Servers, storage devices, networking equipment, workstations, laptops, mobile devices, etc.
+
+` Software: ` Operating systems, applications, databases, and middleware.
+
+` Network: ` Routers, switches, firewalls, load balancers, VPNs, and other network components.
+
+` Cloud Services: ` Enumerate all the cloud services in use, such as AWS, Azure, Google Cloud, or specific SaaS applications.
+
+` Data: ` Identify where data is stored, whether on-premises or in the cloud.
+
+**Define Relationships:**
+
+ -	As a System Expert, ascertain how these components and services are interconnected and detail the flow of data and information between them. This may involve creating network diagrams, data flow diagrams, and noting integration points.
+
+**Document Dependencies:**
+
+ -	Identify dependencies between different components and services. For instance, determine which applications rely on specific databases or cloud services.
+
+**Security and Compliance:**
+
+ -	Evaluate the security measures in place, including firewalls, encryption, access controls, and authentication methods. Additionally, specify any compliance requirements relevant to your industry or organization.
+
+**Performance Metrics:**
+
+ -	Include information about performance monitoring tools and processes, describing how to monitor the health and performance of your IT environment and how to respond to issues.
+
+**Disaster Recovery and Business Continuity:**
+
+ -	Explain disaster recovery and business continuity strategies, and provide details about backup processes, recovery points, and failover procedures.
+
+**Scalability and Growth:**
+
+ -	Discuss how the IT environment can scale to accommodate growth or changes in demand, which might involve cloud auto-scaling or hardware upgrades.
+
+**Vendor and Service Contracts:**
+
+ -	List contracts and service-level agreements (SLAs) with third-party vendors, cloud providers, and software providers. Include contact information and renewal dates.
+
+**Diagrams and Visuals:**
+
+ -	Create diagrams, flowcharts, or visual representations of the hybrid IT environment to facilitate understanding for stakeholders.
+
+**Documentation Repository:**
+
+ -	Establish a central repository for all this information, such as a document management system or a wiki. Ensure regular updates are made.
+
+**Review and Validation:**
+
+ -	Share the documentation with relevant stakeholders for review and validation, ensuring it accurately represents the current state of the hybrid IT environment.
+
+**Maintenance and Updates:**
+
+ -	Recognize that IT environments evolve over time, necessitating the establishment of a process for regular reviews and updates to keep the documentation current.
+
+**Disaster Recovery and Incident Response Plans:**
+
+ - While not part of the mapping and description process, it is crucial to document disaster recovery and incident response plans separately from the general environment documentation.
+
+Creating a mapping and description of the hybrid IT operating environment is an ongoing, collaborative effort among IT teams and stakeholders. Maintaining up-to-date documentation is essential for effective IT management and decision-making.
+
+</p>
+
+<h3 align="left">Implementations: :electric_plug: </h3>
+
+**<p align="left">_In this role, my implementations are included (continuous implementation):_</p>**
 
    :heavy_check_mark: `Hybrid Environment:` Configuring and managing a **_Hybrid IT environment that combines on-premises and cloud resources_**. <br />
    :heavy_check_mark: `Windows Server:` Setting up and managing **_Windows Server instances, including user management, file sharing, and roles_**. <br />
@@ -243,7 +324,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 <br />
 
-<p align="left">These learning objectives will help me build a strong foundation and continuously develop the skills and knowledge required to excel in my role within the IT environment. I will set specific goals and regularly assess my progress towards achieving these objectives.</p>
+<p align="left">These learning objectives helped me build a strong foundation and continuously develop the skills and knowledge required to excel in my role within the IT environment. I will set specific goals and regularly assess my progress towards achieving these objectives.</p>
 
 <br />
 
@@ -281,7 +362,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 :white_check_mark: Application Security Group(ASG) <br />
 :white_check_mark: Firewall Rules <br />
 :white_check_mark: Identity and Access Management[IAM]: Multi-Factor Authentication(MFA) <br />
-:white_check_mark: Virtual GATEWAY & Virtual WAN <br />
+:white_check_mark: Virtual Gateway & Virtual WAN <br />
 :white_check_mark: Azure Load Balancer <br />
 :white_check_mark: Azure Site Recovery Provider <br />
 :white_check_mark: Microsoft 365 Admin[Teams Admin + SharePoint Admin + Ticketing System in SharePoint + Exchange Admin + Power BI Desktop + Power Apps + Intune Admin Center] <br />
@@ -313,7 +394,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 <div>
 
-<h3 align="left">Exercise Gallery: :milky_way:  </h3> <br />
+<h3 align="left">Diagrams and Visuals: :milky_way:  </h3> <br />
 
 <p align="left">I have published a few images of my work to be clarified.</p> <br />
 
