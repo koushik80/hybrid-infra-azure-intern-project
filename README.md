@@ -26,18 +26,17 @@
 
 Throughout this internship, I leveraged my proficiency in programming languages and ventured into diverse areas such as **Network Security**, various **Microsoft 365 applications** (a requirement for Application Experts), **DevOps practices**, and **Web Application deployment**, **SQL Server config** in addition to fulfilling the requirements of the **System Expert** role.
 
-This hands-on experience was meticulously crafted to equip me with practical knowledge in managing and sustaining a plethora of technologies that constitute the backbone of contemporary **IT Infrastructure**. As an intern in this project, I had the privilege of engaging with a wide spectrum of tools and platforms, actively contributing to the setup, configuration, security, and management of critical systems. My work environment was **Hybrid** in nature, characterized by the utilization of my own technical arsenal, consisting of both **Mac** and **Windows** machines, in conjunction with **Azure resources**.
+This hands-on experience was meticulously crafted to equip me with practical knowledge in managing and sustaining a plethora of technologies that constitute the backbone of contemporary **IT Infrastructure**. As an intern in this project, I had the privilege of engaging with a wide spectrum of tools and platforms, actively contributing to the **Setup**, **Configuration**, **Security**, and **Management** of critical systems. My work environment was **Hybrid** in nature, characterized by the utilization of my own technical arsenal, consisting of both **Mac** and **Windows** machines, in conjunction with **Azure resources**.
 
-Throughout the course of my internship, I relied on a combination of resources for learning and growth. **Microsoft Labs** served as a primary platform for hands-on experience, supplemented by multiple study resources such as **Udemy**, **YouTube**, **A Cloud Guru** and **Petri**. I was also fortunate to receive personal guidance from an experienced Udemy Instructor, **Kevin Brown**, who specializes in **Windows, Azure, AWS, Cisco, and Security**, and is an accomplished **author** in the field. His mentorship significantly enriched my learning journey.
+Throughout the course of my internship, I relied on a combination of resources for learning and growth. **Microsoft Labs** served as a primary platform for hands-on experience, supplemented by multiple study resources such as **Udemy**, **YouTube**, **A Cloud Guru** and **Petri**. I was also fortunate to receive personal guidance from an experienced **Udemy** Instructor, **Kevin Brown**, who specializes in **Windows, Azure, AWS, Cisco, and Security**, and is an accomplished **author** in the field. His mentorship significantly enriched my learning journey.
 
-In this overview, I will delve deeper into the specific projects, challenges, and achievements that shaped my internship experience as an IT System Expert at Taitotalo. This journey has been a testament to my commitment to continuous learning and my enthusiasm for exploring the ever-evolving landscape of Information Technology.
+In this overview, I will delve deeper into the specific projects, challenges, and achievements that shaped my internship experience as an **IT System Expert** at **Taitotalo**. This journey has been a testament to my commitment to continuous learning and my enthusiasm for exploring the ever-evolving landscape of **Information Technology**.
 
 </p>
 
 <h3 align="left">Objective: 📓 </h3>
 
-<p align="left">The primary purpose of this internship is to familiarize me with key IT systems and technologies commonly found in enterprise environments. Through practical experience and guided learning, I am gaining valuable skills in system administration, security, networking, and cloud services. By the end of the internship, I will have a solid understanding of how these components integrate to create a cohesive and efficient IT environment.
-</p>
+<p align="left">The primary purpose of this internship is to familiarize me with key IT systems and technologies commonly found in enterprise environments. Through practical experience and guided learning, I am gaining valuable skills in System Administration, Security, Networking, and Cloud Services. By the end of the internship, I will have a solid understanding of how these components integrate to create a cohesive and efficient IT environment.</p>
 
 <h3 align="left">Organisation: Taitotalo :convenience_store: </h3>
 <h3 align="left">Supervisors: Kari Vikman & Jarkko Tornberg, Taitotalo :busts_in_silhouette: </h3>
@@ -250,7 +249,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 <div>
 
-<h3 align="left">Configuration:</h3> <br />
+<h3 align="left"><a href="https://github.com/koushik80/hybrid-infra-azure-intern-project/tree/master/config">Configuration: :hammer_and_wrench: </a></h3> <br />
 
 - To be continued... <br />
 
