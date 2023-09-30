@@ -561,6 +561,11 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 | ---------------------- | ---------------------- |
 | ![az-dev7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/14d24ddd-9998-4834-aa16-a3312d132b5f) | ![az-dev8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5e05a920-2a04-401c-9766-a22f29fde3e4) |
 
+` Retrieve Azure Storage resources and metadata by using the Azure Storage SDK for .NET `
+
+| Architecture: Retrieving resources               | Retrieving resources                |
+| ---------------------- | ---------------------- |
+| ![Retrieve AZ resrc](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/51348c2f-f9aa-43ac-87ef-49f62fe49bfa) | ![az-dev9](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fc899f93-91d7-44bb-9b33-cf56b454202e) |
 
 
 
