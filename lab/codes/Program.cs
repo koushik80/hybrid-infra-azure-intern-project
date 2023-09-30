@@ -12,7 +12,7 @@
      private const string storageAccountName = "mediastorkoushik80";
 
      //Update the storageAccountKey value that you recorded previously in this lab.
-     private const string storageAccountKey = "my_key";    
+     private const string storageAccountKey = "";    
 
      //The following code to create a new asynchronous Main method
      public static async Task Main(string[] args)
@@ -42,6 +42,9 @@
          passing in the serviceClient variable as a parameter */
      await EnumerateContainersAsync(serviceClient);
 
+     string existingContainerName = "raster-graphics";
+     await EnumerateBlobsAsync(serviceClient, existingContainerName);
+
      }
      private static async Task EnumerateContainersAsync(BlobServiceClient client)
      {   
@@ -53,6 +56,24 @@
               await Console.Out.WriteLineAsync($"Container:\t{container.Name}");
           }
      }
+     private static async Task EnumerateBlobsAsync(BlobServiceClient client, string containerName)
+     {   
+         /* Get a new instance of the BlobContainerClient class by using the
+            GetBlobContainerClient method of the BlobServiceClient class, 
+            passing in the containerName parameter */   
+         BlobContainerClient container = client.GetBlobContainerClient(containerName);
+
+         /* Render the name of the container that will be enumerated */
+         await Console.Out.WriteLineAsync($"Searching:\t{container.Name}");
+
+         /* Create an asynchronous foreach loop that iterates over the results of
+             an invocation of the GetBlobsAsync method of the BlobContainerClient class */
+         await foreach (BlobItem blob in container.GetBlobsAsync())
+         {     
+               //Print the name of each blob    
+         await Console.Out.WriteLineAsync($"Existing Blob:\t{blob.Name}");
+         }
+    }
  }
  
 
