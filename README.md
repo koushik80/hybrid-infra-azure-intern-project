@@ -573,6 +573,10 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 | ![az-dev10](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/57c398ee-576a-4ee7-a364-acaed4374113) | ![az-dev11](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d1fb342b-d26e-43f2-b81e-b2b32af156b4) |
 
 
+| Access blob URI by using the SDK                | Access blob URI by using the SDK                |
+| ---------------------- | ---------------------- |
+| ![az-dev12](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8a940e19-d452-4044-bba5-b93f3cd15a45) | ![az-dev13](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/61026584-f949-4ad7-833c-2fce46af9b03) |
+
 
 <br />
 

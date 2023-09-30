@@ -45,6 +45,12 @@
      string existingContainerName = "raster-graphics";
      await EnumerateBlobsAsync(serviceClient, existingContainerName);
 
+     string newContainerName = "vector-graphics";
+     BlobContainerClient containerClient = await GetContainerAsync(serviceClient, newContainerName);
+
+     string uploadedBlobName = "graph.svg";
+     BlobClient blobClient = await GetBlobAsync(containerClient, uploadedBlobName);
+     await Console.Out.WriteLineAsync($"Blob Url:\t{blobClient.Uri}");
      }
      private static async Task EnumerateContainersAsync(BlobServiceClient client)
      {   
@@ -73,6 +79,35 @@
                //Print the name of each blob    
          await Console.Out.WriteLineAsync($"Existing Blob:\t{blob.Name}");
          }
+    }
+    private static async Task<BlobContainerClient> GetContainerAsync(BlobServiceClient client, string containerName)
+    {   
+        /* Get a new instance of the BlobContainerClient class by using the
+            GetBlobContainerClient method of the BlobServiceClient class,
+            passing in the containerName parameter */   
+        BlobContainerClient container = client.GetBlobContainerClient(containerName);
+
+        /* Invoke the CreateIfNotExistsAsync method of the BlobContainerClient class */
+        await container.CreateIfNotExistsAsync(PublicAccessType.Blob);
+
+        /* Render the name of the container that was potentially created */
+        await Console.Out.WriteLineAsync($"New Container:\t{container.Name}");
+
+       /* Return the container as the result of the GetContainerAsync */        
+       return container;
+    }
+    private static async Task<BlobClient> GetBlobAsync(BlobContainerClient client, string blobName)
+    {      
+        BlobClient blob = client.GetBlobClient(blobName);
+        bool exists = await blob.ExistsAsync();
+        if (!exists)
+        {
+           await Console.Out.WriteLineAsync($"Blob {blob.Name} not found!");
+            
+        }
+        else
+           await Console.Out.WriteLineAsync($"Blob Found, URI:\t{blob.Uri}");
+        return blob;
     }
  }
  
