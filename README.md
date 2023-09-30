@@ -542,19 +542,27 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 </div> <br />
 
-| Development                | Development                |
+| App Service & Web App                | App Service & Web App                |
 | ---------------------- | ---------------------- |
 | ![az-dev1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7b15b286-c709-4ab2-810d-9c96b8803de0) | ![az-dev2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d3ed8fce-7a8b-4cfb-abf4-c5c3cf7803c7) |
 
 
-| Development                | Development                |
+| App Service & Web App                | App Service & Web App                |
 | ---------------------- | ---------------------- |
 | ![az-dev3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/e21c2308-e87d-49bc-b496-b1811495055a) | ![az-dev4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5e8cec18-631b-4a49-bf53-1ff90115bd93) |
 
 
-| Development                | Development                |
+| Implement Azure Functions                | Implement Azure Functions                |
 | ---------------------- | ---------------------- |
 | ![az-dev5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/75014eeb-703f-4dab-b07e-b479cde3e6ee) | ![az-dev6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9ccd0898-ca2f-475a-a28f-078d3f1e4a24) |
+
+
+| Implement Azure Functions                | Implement Azure Functions                |
+| ---------------------- | ---------------------- |
+| ![az-dev7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/14d24ddd-9998-4834-aa16-a3312d132b5f) | ![az-dev8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5e05a920-2a04-401c-9766-a22f29fde3e4) |
+
+
+
 
 <br />
 
