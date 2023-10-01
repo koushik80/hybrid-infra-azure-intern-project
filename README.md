@@ -578,6 +578,15 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 | ![az-dev12](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8a940e19-d452-4044-bba5-b93f3cd15a45) | ![az-dev13](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/61026584-f949-4ad7-833c-2fce46af9b03) |
 
 
+| Construct a polyglot data solution                | Construct a polyglot data solution               |
+| ---------------------- | ---------------------- |
+| ![Data Solution Architecture](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/6b92ec73-39d6-4481-b35e-f45dede99c1f) | ![az-dev14](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/098faed6-8dec-4c57-aa3b-624fe9e4c1d4) |
+
+
+| Construct a polyglot data solution                | Construct a polyglot data solution               |
+| ---------------------- | ---------------------- |
+| ![az-dev15](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a6b741a0-a747-4840-aed9-c3f6054ac01e) | ![az-dev16](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/00227f44-3c65-4f1d-bbeb-17be08e58cdc) |
+
 <br />
 
 <div>
