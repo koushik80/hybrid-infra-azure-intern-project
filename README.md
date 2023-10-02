@@ -607,56 +607,45 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 </div> <br />
 
-<p align="left">React applications:</p> <br />
+<p align="left">React, Node & DevOps:</p> <br />
 
 <div>
 <p align="left"><a href="https://github.com/koushik80/bookstore">Book Store</a></p>
 <p align="left"><a href="https://github.com/koushik80/react-admin-devops">React Admin Dashboard</a></p>
+<p align="left"><a href="https://github.com/koushik80/ticketing">Ticketing</a></p>
 </div> <br />
-
 
 | React Book Store                | React Book Store                |
 | ---------------------- | ---------------------- |
 | ![az-devops1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/10c5c99e-426f-4982-8489-138c65d4c0ad) | ![az-devops2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d8b3ca24-4326-439c-bdc9-6b7a4501ea56) |
 
-
 | React Book Store                | React Book Store                |
 | ---------------------- | ---------------------- |
 | ![az-devops3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9df765c3-8443-41cc-823c-d4f6e2dc5999) | ![az-devops4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/56283f88-7871-4669-9f69-09be696873a6) |
-
 
 | React Book Store                | React Book Store                |
 | ---------------------- | ---------------------- |
 | ![az-devops5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5af0c48d-a64f-4eb1-92fa-98714d04ab9d) | ![az-devops6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d4ec4d5b-f645-43fc-bc30-5d544d0b7487) |
 
-
 | React Book Store                | React Book Store                |
 | ---------------------- | ---------------------- |
 | ![az-devops7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/55742167-cb20-4052-8f0b-f7e9e5489871) | ![az-devops8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d05144de-7485-4896-aa36-0f2369cc21f7) |
-
 
 | React Admin Dashboard                | React Admin Dashboard                |
 | ---------------------- | ---------------------- |
 | ![react-admin-dash1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f92153c2-b39e-4acd-9ce2-1a2981f5fafd) | ![react-admin-dash2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/b85671a8-9c4d-4438-9155-f0968ace9630) |
 
-
 | React Admin Dashboard                | React Admin Dashboard                |
 | ---------------------- | ---------------------- |
 | ![react-admin-dash3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/eb451dff-09cb-47f6-b569-820d74e9424c) | ![react-admin-dash4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c8809e7b-626d-4394-9c76-b7a6fd68f2c9) |
-
-
 
 | React Admin Dashboard                | React Admin Dashboard                |
 | ---------------------- | ---------------------- |
 | ![react-admin-dash5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4141b52a-34f0-4170-8ce7-076921586405) | ![react-admin-dash6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/bdfbcbf4-737e-4f12-91fd-3c1741369340) |
 
-
-
 | React Admin Dashboard                | React Admin Dashboard                |
 | ---------------------- | ---------------------- |
 | ![react-admin-dash7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/6b337930-ef44-4a0e-92dd-edcdeabcbba3) | ![react-admin-dash8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a0cc3203-51fb-4581-9459-891885f99e1d) |
-
-
 
 <div>
 
@@ -664,16 +653,13 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 </div> <br />
 
-
 | AVD                | AVD                |
 | ---------------------- | ---------------------- |
 | ![AVD1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/19bf7767-49ed-4152-9b57-83286b45feda) | ![AVD2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ac34f8af-15e8-4893-ba8b-34ab207a6878) |
 
-
 | AVD                | AVD                |
 | ---------------------- | ---------------------- |
 | ![AVD3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f25e13de-c0d1-4246-86ca-0c709c9c84f9) | ![AVD4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8905ce92-383a-47e9-a1b2-12dbf2eeae1f) |
-
 
 | AVD                | AVD                |
 | ---------------------- | ---------------------- |
@@ -691,23 +677,17 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 | ---------------------- | ---------------------- |
 | ![az-fn1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f7c7ee70-09da-46c6-8dad-ac49559faa9b) | ![az-fn2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8bbc9a87-076c-4a84-8289-5eadc75ad9e3) |
 
-
-
 | Azure Functions                | Azure Functions                |
 | ---------------------- | ---------------------- |
 | ![az-fn3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/2afbe90f-d8a0-4f7b-8105-307fbd4ede48) | ![az-fn4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/818a76a1-0686-4c00-85a7-8addaaa185f3) |
-
 
 | Azure Functions                | Azure Functions                |
 | ---------------------- | ---------------------- |
 | ![az-fn4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5661ee12-b91f-430a-8789-6750938f9316) | ![az-fn5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/77436ad5-b389-492f-9889-a332c52f545d) |
 
-
-
 | Azure Functions                | Azure Functions                |
 | ---------------------- | ---------------------- |
 | ![az-fn5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c1a02c49-38f6-4092-8ad3-3c353d0b27fe) | ![az-fn6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cd73d4c5-e907-453e-9550-96cf7053b98e) |
-
 
 | Azure Functions                | Azure Functions                |
 | ---------------------- | ---------------------- |
@@ -725,22 +705,17 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 | ---------------------- | ---------------------- |
 | ![Firewall1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/af68e32d-7430-4b9f-9ee4-b1c26d2fb4d8) | ![Firewall2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ca38f553-5310-43f2-a00c-65654c3ef403) |
 
-
 | Azure Security Technologies-Firewall                | Azure Security Technologies-Firewall                |
 | ---------------------- | ---------------------- |
 | ![Firewall3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7d53552e-a571-41fb-a794-bc0061ee956e) | ![Firewall4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/638c2230-0332-4a1d-803d-b93b2a3ea55f) |
-
 
 | Azure Security Technologies-Firewall                | Azure Security Technologies-Firewall                |
 | ---------------------- | ---------------------- |
 | ![Firewall5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dff88996-3ad7-4d08-8ca8-a1c0c8494814) | ![Firewall6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/bf21ffbe-5c14-4341-a936-5e65e38907a5) |
 
-
-
 | Azure Security Technologies-Firewall                | Azure Security Technologies-Firewall                |
 | ---------------------- | ---------------------- |
 | ![Firewall7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/2526001a-db74-4139-8258-d8f35e45bf06) | ![Firewall8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/91586093-babd-4041-8778-2781f352ccd8) |
-
 
 | Config and Secure ACR & AKS                | Config and Secure ACR & AKS                |
 | ---------------------- | ---------------------- |
@@ -780,17 +755,13 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 </div> <br />
 
-
-
 | Azure Storage                | Azure Storage                |
 | ---------------------- | ---------------------- |
 | ![az-storage1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/33fa4b89-147b-475f-8d8c-c6fa2c1f6d9f) | ![az-storage2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/69586756-e439-46bb-886d-4096f1cdf8c9) |
 
-
 | Azure Storage                | Azure Storage                |
 | ---------------------- | ---------------------- |
 | ![az-storage3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/95c3260a-8f05-4e0b-a137-c7906e491dd8) | ![az-storage4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7baf536b-cf7c-4757-9586-4283f709399c) |
-
 
 
 | Azure Storage                | Azure Storage                |
@@ -808,40 +779,29 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 | ---------------------- | ---------------------- |
 | ![backupVM1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cb1f142c-6506-46a4-9a07-700e1a918e69) | ![backupVM2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3de07596-f222-46c5-a565-6968eacd3f59) |
 
-
 | Backup & Recovery                | Backup & Recovery                |
 | ---------------------- | ---------------------- |
 | ![backupVM3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d2ca731f-7744-444a-983c-229c6e5aefd5) | ![backupVM4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/31c6d5af-f917-4079-92aa-efca801a57c4) |
-
 
 | Backup & Recovery                | Backup & Recovery                |
 | ---------------------- | ---------------------- |
 | ![backupVM5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dd85df36-7590-428f-a61e-33bfdecafb8c) | ![backupVM6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/1b0e497b-f509-430d-959c-ad9962a44b23) |
 
-
-
 | Backup & Recovery                | Backup & Recovery                |
 | ---------------------- | ---------------------- |
 | ![backupVM7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dbd77630-93fa-495a-8f77-0b64132e422a) | ![backupVM8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/bbeae7e1-0012-4dc7-9298-101c4135a9c6) |
-
 
 | Monitor                | Monitor                |
 | ---------------------- | ---------------------- |
 | ![monitor1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ea87b283-4807-4b9c-9080-17986675e4a7) | ![monitor2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/1449293a-b6cf-4de7-a9d4-0494f4e70123) |
 
-
-
 | Monitor                | Monitor                |
 | ---------------------- | ---------------------- |
 | ![monitor3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cdb67956-a641-4e27-ae83-d4c4220aba87) | ![monitor4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9a60de0a-a7ca-411c-9e70-7325bb267846) |
 
-
 | Monitor                | Monitor                |
 | ---------------------- | ---------------------- |
 | ![monitor5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fb2ce3ab-f93f-4d6a-9a68-126a8f13605d) | ![monitor6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/10bcedfa-ae17-4a4a-9b09-01ca7ae6266e) |
-
-
-
 
 
 
