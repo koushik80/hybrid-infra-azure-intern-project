@@ -370,6 +370,9 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 :white_check_mark: System Center Configuration Manager(SCCM) <br />
 :white_check_mark: SQL Server <sup>2022</sup> <br />
 :white_check_mark: Azure App Service <br />
+:white_check_mark: .NET SDKs <br />
+:white_check_mark: OpenID Connect <br />
+:white_check_mark: MSAL <br />
 :white_check_mark: Apache Kudu zip <br />
 :white_check_mark: Azure DevOps <br />
 :white_check_mark: Azure Functions <br />
@@ -586,6 +589,15 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 | Construct a polyglot data solution                | Construct a polyglot data solution               |
 | ---------------------- | ---------------------- |
 | ![az-dev15](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a6b741a0-a747-4840-aed9-c3f6054ac01e) | ![az-dev16](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/00227f44-3c65-4f1d-bbeb-17be08e58cdc) |
+
+
+| Authenticate by using OpenID Connect, MSAL, and .NET SDKs                | Authenticate by using OpenID Connect, MSAL, and .NET SDKs              |
+| ---------------------- | ---------------------- |
+| ![authentication-architecture](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0d41ce04-af27-412c-b32d-687febd14a03) | ![az-dev17](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a80a3902-21e9-4d73-b61a-8aa5542f41f5) |
+
+| Authenticate by using OpenID Connect, MSAL, and .NET SDKs                | Authenticate by using OpenID Connect, MSAL, and .NET SDKs              |
+| ---------------------- | ---------------------- |
+| ![az-dev18](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/db1bf761-1a1b-465a-88d9-4eea94bd4f10) | ![az-dev19](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/06914fe4-1995-4731-9ece-60a90832f8c6) |
 
 <br />
 
