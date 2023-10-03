@@ -349,6 +349,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 <h3 align="left">Technologies:</h3>  <br />
 
 :white_check_mark: Hyper-V Manager <br />
+:white_check_mark: Cisco Packet Tracer 8.2.1 <br />
 :white_check_mark: Azure Migrate <br />
 :white_check_mark: Bastions <br />
 :white_check_mark: PowerShell <br />
@@ -403,6 +404,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 - Windows 10 <sup>Pro</sup> <br />
 - Windows 10 <sup>Enterprise</sup> <br />
 - macOS Ventura <sup>13.5.1</sup> <br />
+- macOS Sonoma(Updated on 3<sup>rd</sup> October)<sup>14.0</sup> <br />
 
 </div> <br />
 
@@ -419,7 +421,6 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 </div> <br />
 
 <div>
-
 
 | Hyper-V Architecture(Source: Microsoft)                            | Azure Backup Agent(Source: Microsoft)                           |
 | ----------------------------------- | ----------------------------------- |
