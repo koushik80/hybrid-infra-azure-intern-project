@@ -28,7 +28,7 @@ Throughout this internship, I leveraged my proficiency in scripting languages an
 
 This hands-on experience was meticulously crafted to equip me with practical knowledge in managing and sustaining a plethora of technologies that constitute the backbone of contemporary **IT Infrastructure**. As an intern in this project, I had the privilege of engaging with a wide spectrum of tools and platforms, actively contributing to the **Setup**, **Configuration**, **Security**, and **Management** of critical systems. My work environment was **Hybrid** in nature, characterized by the utilization of my own technical arsenal, consisting of both **Mac** and **Windows** machines, in conjunction with **Azure resources**.
 
-Throughout the course of my internship, I relied on a combination of resources for learning and growth. **Microsoft Labs** served as a primary platform for hands-on experience, supplemented by multiple study resources such as **Udemy**, **YouTube**, **Cisco-skillsforall** **A Cloud Guru** and **Petri**. I was also fortunate to receive personal guidance from an experienced **Udemy** Instructor, **Kevin Brown**, who specializes in **Windows, Azure, AWS, Cisco, and Security**, and is an accomplished **author** in the field. His mentorship significantly enriched my learning journey.
+Throughout the course of my internship, I relied on a combination of resources for learning and growth. **Microsoft Labs** served as a primary platform for hands-on experience, supplemented by multiple study resources such as **Udemy**, **YouTube**, **Cisco-skillsforall**, **A Cloud Guru** and **Petri**. I was also fortunate to receive personal guidance from an experienced **Udemy** Instructor, **Kevin Brown**, who specializes in **Windows, Azure, AWS, Cisco, and Security**, and is an accomplished **author** in the field. His mentorship significantly enriched my learning journey.
 
 In this overview, I will delve deeper into the specific projects, challenges, and achievements that shaped my internship experience as an **IT System Expert** at **Taitotalo**. This journey has been a testament to my commitment to continuous learning and my enthusiasm for exploring the ever-evolving landscape of **Information Technology**.
 
@@ -410,6 +410,22 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 - macOS Sonoma<sup>14.0</sup> (Updated on 3<sup>rd</sup> October) <br />
 
 </div> <br />
+
+
+<div>
+
+<h3 align="left">My On-premises environment: :computer:  </h3> <br />
+
+<p align="left">Description</p> <br />
+
+
+<div>
+
+![My AD](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5fa94832-3504-4ea5-8ed9-61345e79eb7f)
+
+</div>
+
+<div>
 
 <div>
 
