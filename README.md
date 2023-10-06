@@ -443,15 +443,11 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <p align="left">Refined  OU structure to reflect the organization's hierarchy as below:</p> <br />
 
-<div>
 
-![My AD](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5fa94832-3504-4ea5-8ed9-61345e79eb7f)
-
-</div> <br />
 
 ` Group Policy Objects (GPOs): ` <br />
 
- - Implements GPOs for managing security and configuration settings. Created separate GPOs for different purposes, like one for workstation settings, one for server settings, one for password character length and others.
+  - Implements GPOs for managing security and configuration settings. Created separate GPOs for different purposes, like one for workstation settings, one for server settings, one for password character length and others.
 
  ` Security Groups: ` <br />
 
@@ -459,20 +455,20 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 ` DNS Configuration: ` <br />
 
- - Ensured DNS is correctly configured on the domain controllers. They use each other for DNS resolution and avoid external DNS servers.
+  - Ensured DNS is correctly configured on the domain controllers. They use each other for DNS resolution and avoid external DNS servers.
 
  ` Printer Naming: ` <br />
 
- - Canon LBP6650dn printer name is set to as Office-Printer.
+  - Canon LBP6650dn printer name is set to as Office-Printer.
 
 ` Testing and Redundancy: ` <br />
 
- - Tested AD configuration periodically to ensure it functions correctly.
- - Considered implementing redundancy for critical services like DHCP and domain controllers.
+  - Tested AD configuration periodically to ensure it functions correctly.
+  - Considered implementing redundancy for critical services like DHCP and domain controllers.
 
 ` Security Measures: `
 
- - Implemented strong password policies, enabled Multi Factor Authentication(MFA) where possible, and regularly review and audit user and group memberships for security compliance.
+  - Implemented strong password policies, enabled Multi Factor Authentication(MFA) where possible, and regularly review and audit user and group memberships for security compliance.
 
 
 <div>
