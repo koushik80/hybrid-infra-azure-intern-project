@@ -330,14 +330,6 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <div>
 
-<h3 align="left">Technical Docs:</h3> <br />
-
-- To be continued... <br />
-
-</div>  <br />
-
-<div>
-
 <h3 align="left"><a href="https://github.com/koushik80/hybrid-infra-azure-intern-project/tree/master/config">Configuration: :hammer_and_wrench: </a></h3> <br />
 
 - Click Configuration <br />
@@ -410,6 +402,12 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 - macOS Sonoma<sup>14.0</sup> (Updated on 3<sup>rd</sup> October) <br />
 
 </div> <br />
+
+<div>
+
+<h3 align="left">Technical Information: :information_source:</h3> <br />
+
+</div>  <br />
 
 
 <div>
