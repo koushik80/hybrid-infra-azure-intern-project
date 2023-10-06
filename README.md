@@ -1,4 +1,4 @@
-## Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/> Here is my practical work information below
+## Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/> Here is my Project information
 
 <div>
 
@@ -534,13 +534,15 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
  - Accepted the License terms in the VM connection window.
 
- - Set the password for the built-in Administrator account in the VM connection window's Customize settings page and clicked "Finish."
+ - Set the password for the built-in Administrator account in the VM connection window's Customize settings page and clicked **"Finish."**
 
  - In the **Appliance Configuration Manager**, add credentials with **Friendly Name, User Name, and Password**.
 
  - In the **Appliance Configuration Manager's** Provide **Hyper-V host/cluster details** section, selected **"Add discovery source"** Choose **"Hyper-V Host/Cluster"** in the **Discovery** source dropdown, and specified the **IP address/FQDN** and saved settings.
 
  - Enabled the **"Disable the slider if you don't want to perform these features"** toggle and started the discovery.
+
+ ` Configure, Run and View Assessment `
 
  - Went back to **Azure Migrate | Servers, databases, and web apps** in the **Azure portal**, clicked **"Refresh,"** and selected **"Assess"** under **Azure Migrate: Discovery and Assessment**. Choose "Azure VM" in the dropdown.
 
@@ -556,6 +558,34 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
  - In the **Provider installation** page of the **Azure Site Recovery Provider Setup (Hyper-V server)** wizard, selected **"Register"** to begin the **Microsoft Azure Site Recovery Registration Wizard**. Followed the steps to set up the Vault, and completed the installation wizard.
 
+ - Refreshed the browser window and it's redirected to **Azure Migrate | Servers, databases and web apps** page. On the **Azure Migrate | Servers, databases and web apps** page, in the **Migration and modernization** section, selected the **Discover** link and then selected **Finalize**.
+
+` Configure Replication of Hyper-V VM `
+
+ - Once the registration was finalized, browsed back to the **Azure Migrate | Servers, databases and web apps** page and then, in the **Migration and modernization** section, selected the **Replicate** link.
+ - On the Basics tab of the Replicate page, in the **"Are your machines virtualized?"** drop-down list, selected **Yes**, with **Hyper-V** and then selected **Next**.
+ - On the Virtual Machines tab of the **Replicate** page, specified the necessary settings(selected WKS1 & WKS2) and selected **Next**.
+ - On the Target settings tab of the **Replicate** page, specified the necessary settings(selected mig-vnet) and selected Next.
+ - On the **Compute** tab of the **Replicate** page, ensured that the **Standard_D2s_v3** is selected in the Azure VM Size drop-down list. In the **OS Type** drop-down list, selected **Windows** and then selected **Next**.
+ - On the **Disks** tab of the **Replicate** page, accepted the default settings and selected **Next**.
+ - On the **Tags** tab of the **Replicate** page, accepted the default settings and selected **Next**.
+ - On the **Review + Start** replication tab of the **Replicate** page, selected **Replicate**.
+ - To monitor the status of replication, back on the **Azure Migrate | Servers, databases and web apps** page, selected **Refresh** and then, in the **Migration and modernization** section, selected the **Replicating servers entry**. On the **Migration and modernization | Replicating machines** page, examineed the **Status** column in the list of the replicating machines.
+ - After 15 minutes the status changed as **Protected**.
+
+` Perform Migration of Hyper-V VM`
+
+ - On the Azure portal, on the **Migration and modernization | Replicating machines** page, selected the entry representing the HDC1 virtual machine.
+ - On the **HDC1** VM page, selected **Test migration**.
+ - On the **Test migration** page, in the Virtual network drop-down list, select **test-vnet** and then selected Test migration.
+ - On the Azure portal, in the Search resources, services, and docs text box, on the toolbar, search for and selected Virtual machines and then, on the Virtual machines page, noted the entry representing the newly replicated virtual machine **WKS1** and **WKS2**.
+ - On the Azure portal, browse back to the **Migration and modernization | Replicating machines** page, selected **Refresh**, and then verified that the  **WKS1** and **WKS2** vms virtual machines are listed with the Cleanup test failover pending status.
+ - On the **Migration and modernization | Replicating machines** page, selected the entry representing the WKS1 and WKS2 virtual machines.
+ - On the WKS1 and WKS2 replicating machines page, selected Clean up test migration.
+ - On the Test migrate cleanup page, selected the checkbox Testing is complete. Delete test virtual machine and then selected Cleanup Test.
+ - Once the test failover cleanup job completed, refreshed the browser page displaying the WKS1 and WKS2 replicating machines page and noted that the Migrate icon in the toolbar automatically became available.
+ - On the Migrate page, selected Yes  to Shutdown virtual machines and perform a planned migration with no data loss? drop-down list, and then selected Migrate.
+ - To monitor the status of migration, browsed back to the Azure Migrate | Servers, databases and web apps page. In the Migration and modernization section, selected the Replicating servers entry and then, on the Migration and modernization | Replicating machines page, examined the Status column in the list of the replicating machines. Also verified that the status displayed the Planned failover finished status.
 
 
 <h3 align="left">Replication Process :arrows_counterclockwise:</h3>
