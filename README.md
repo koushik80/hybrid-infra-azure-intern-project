@@ -340,7 +340,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <h3 align="left"><a href="https://github.com/koushik80/hybrid-infra-azure-intern-project/tree/master/config">Configuration: :hammer_and_wrench: </a></h3> <br />
 
-- To be continued... <br />
+- Click Configuration <br />
 
 </div> <br />
 
@@ -416,14 +416,64 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <h3 align="left">My On-premises environment: :computer:  </h3> <br />
 
-<p align="left">Description</p> <br />
+<h3 align="left">My on-premises and virtual environment is structured as below:</p><br />
 
+ ` Naming Conventions: ` <br />
+
+ - Forest and Domain name: YritysX.local
+ - DHCP (Dynamic Host Configuration Protocol): server01.yritysx.local,
+     - Scope name: Wks,
+     - Scope Description: Työasemat
+ - NetBIOS name: YRITYSX
+
+` Server Naming: ` <br />
+
+ - Host machine with Windows 10 Pro.
+ - Two Virtual Machines with Windows Server 2019 Datacentre are named Server01 & Server02 as WKS2.
+ - One Virtual Machine with Windows 10 Enterprise named as WKS1.
+ - Printer: Canon LBP6650dn
+
+`Active Directory Roles: ` <br />
+
+ - One of the Windows Server 2019 machines is set up as a domain controller.
+ - WKS2 is set up as a secondary domain controller & used for other roles where I installed SCSM and SQL Server.
+ - WKS1 is set up for the users and M365 implementaion.
+
+`Organizational Unit (OU) Structure: `
+
+<p align="left">Refined  OU structure to reflect the organization's hierarchy as below:</p> <br />
 
 <div>
 
 ![My AD](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5fa94832-3504-4ea5-8ed9-61345e79eb7f)
 
-</div>
+</div> <br />
+
+` Group Policy Objects (GPOs): ` <br />
+
+ - Implements GPOs for managing security and configuration settings. Created separate GPOs for different purposes, like one for workstation settings, one for server settings, one for password character length and others.
+
+ ` Security Groups: ` <br />
+
+  - Used security groups to manage permissions and access control more efficiently. Created groups for different job roles or departments and assign permissions accordingly.
+
+` DNS Configuration: ` <br />
+
+ - Ensured DNS is correctly configured on the domain controllers. They use each other for DNS resolution and avoid external DNS servers.
+
+ ` Printer Naming: ` <br />
+
+ - Canon LBP6650dn printer name is set to as Office-Printer.
+
+` Testing and Redundancy: ` <br />
+
+ - Tested AD configuration periodically to ensure it functions correctly.
+ - Considered implementing redundancy for critical services like DHCP and domain controllers.
+
+` Security Measures: `
+
+ - Implemented strong password policies, enabled Multi Factor Authentication(MFA) where possible, and regularly review and audit user and group memberships for security compliance.
+
 
 <div>
 
