@@ -40,7 +40,7 @@ In this overview, I will delve deeper into the specific projects, challenges, an
 
 <h3 align="left">Organisation: Taitotalo :convenience_store: </h3>
 <h3 align="left">Supervisors: Kari Vikman & Jarkko Tornberg, Taitotalo :busts_in_silhouette: </h3>
-<h3 align="left">Evaluators: Kari Vikman, Taitotalo & Mikko Sävilahti, Founder at Haltu Oy :busts_in_silhouette: </h3>
+<h3 align="left">Evaluators: Kari Vikman, Taitotalo & Mikko Sävilahti[external], Founder at Haltu Oy :busts_in_silhouette: </h3>
 
 <div>
 <h3 align="left">Taitotalo: :convenience_store: </h3>
@@ -84,11 +84,11 @@ In this overview, I will delve deeper into the specific projects, challenges, an
 
 **<p align="left"> :pushpin: Criteria: _Messages to system users in exceptional situations._</p>**
 
-   - [x] If necessary, i.e., in the most significant disruptions affecting the production environment, maintenance work and matters related to information security, I also inform customers well in advance if necessary and possible. Information is provided via Intra's/Entra’s webpages, e-mail and social media tools.
+   - [x] If necessary, i.e., in the most significant disruptions affecting the production environment, maintenance work and matters related to information security, I also inform customers well in advance if necessary and possible. Information is provided via Intra's/Entra's webpages, e-mail and social media tools.
 
 **<p align="left"> :pushpin: Criteria: _Uses cloud environment management tools._</p>**
 
-   - [x] I have installed and maintained Azure-based virtual servers and services using the services' own management tools, Windows Admin Center, Intune, O365 and Azure management websites and, if necessary, e.g., PowerShell.
+   - [x] I have installed and maintained Azure-based virtual servers and services using the services' own management tools, Windows Admin Center, Intune, Office 365 and Azure management websites and, if necessary, e.g., PowerShell.
 
 <br />
 
@@ -506,6 +506,17 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
  - The provider and appliance establish secure, encrypted outbound **HTTPS** connections on port **443** to communicate with the **Migration tool**.
 
+<h3 align="left">Replication Process :arrows_counterclockwise:</h3>
+
+ - When I enabled replication for a Hyper-V VM, initial replication began.
+ - A Hyper-V VM snapshot was taken.
+ - VHDs on the VM are replicated one-by-one until they are all copied to Azure. Initial replication time depended on the VM size and network bandwidth.
+ - Disk changes that occurred during initial replication are tracked using Hyper-V Replica, and stored in log files (hrl files).
+      - Log files are in the same folder as the disks.
+      - Each disk-associated hrl file that's sent to secondary storage.
+      - The snapshot and log files consumed disk resources while initial replication was in progress.
+ - After the initial replication was finished, the VM snapshot was deleted, and delta replication began.
+ - Incremental disk changes were tracked in hrl files. Replication logs were periodically uploaded to an Azure storage account by the Recovery Services agent.
 
 
 <div>
