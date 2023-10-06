@@ -46,9 +46,7 @@ In this overview, I will delve deeper into the specific projects, challenges, an
 <h3 align="left">Taitotalo: :convenience_store: </h3>
 </div>
 
-<p align="left">Taitotalo, born from the collaboration of AEL and Amiedu on January 1, 2020, is a dynamic educational powerhouse. With a rich history of adapting to the evolving educational landscape, Taitotalo is the leading provider of professional adult education. Offering nearly 90 degree programs, over 60 professional certificates, and more than 600 short training courses spanning various fields, Taitotalo empowers individuals to become skilled professionals. The flexibility of Taitotalo's training and coaching accommodates the demands of modern life, with options available during the day, evening, and online. Discover more at</p>
-
-<p align="left"><a href="https://www.taitotalo.fi"></a></p>
+<p align="left">Taitotalo, born from the collaboration of AEL and Amiedu on January 1, 2020, is a dynamic educational powerhouse. With a rich history of adapting to the evolving educational landscape, Taitotalo is the leading provider of professional adult education. Offering nearly 90 degree programs, over 60 professional certificates, and more than 600 short training courses spanning various fields, Taitotalo empowers individuals to become skilled professionals. The flexibility of Taitotalo's training and coaching accommodates the demands of modern life, with options available during the day, evening, and online.</p> <p align="left"><a href="https://www.taitotalo.fi">Discover more</a></p>
 
 <div>
 <h3 align="left">Requirements:</h3>
@@ -409,7 +407,6 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 </div>  <br />
 
-
 <div>
 
 <h3 align="left">My On-premises environment: :computer:  </h3> <br />
@@ -503,6 +500,10 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
  - I installed the necessary components from a single setup file provided by the **Migration tool**.
 
  - The provider and appliance establish secure, encrypted outbound **HTTPS** connections on port **443** to communicate with the **Migration tool**.
+
+<h3 align="left">Technical Procedure </h3>
+
+
 
 <h3 align="left">Replication Process :arrows_counterclockwise:</h3>
 
