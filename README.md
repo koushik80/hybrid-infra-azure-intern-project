@@ -508,7 +508,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
  - Then, I established an Azure Bastion for secure access to Azure VMs without public endpoints and protection against brute force exploits targeting OS credentials. Additionally, I added a subnet to the VNET used for the Host VM.
 
- - Afterwards, I initiated the Host VM with Bastion connectivity and created two folders, "D:\VHDs" and "D:\VMs," within it. I downloaded the Windows Server 2022 VHD file from <a href="https://www.taitotalo.fi">Windows Server Evaluations</a>and placed it in the "D:\VHDs" folder.
+ - Afterwards, I initiated the Host VM with Bastion connectivity and created two folders, "D:\VHDs" and "D:\VMs," within it. I downloaded the Windows Server 2022 VHD file from <a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022">Windows Server Evaluations</a> and placed it in the "D:\VHDs" folder.
 
  - Using Hyper-V Manager, I created a new VM, specifying "D:\VMs" as the location and connecting it to "D:\VHDs." I renamed the new VM to HDC1.
 
