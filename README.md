@@ -671,6 +671,23 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 | ---------------------- | ---------------------- |
 | ![az-dev18](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/db1bf761-1a1b-465a-88d9-4eea94bd4f10) | ![az-dev19](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/06914fe4-1995-4731-9ece-60a90832f8c6) |
 
+`Access resource secrets more securely across services `
+
+| Access Resource Securely_Architecture_Diagram                | keyVault              |
+| ---------------------- | ---------------------- |
+| ![diagram](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/16e80d93-d530-4c42-8032-391834b16e96) | ![keyVault](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a4b57b33-2028-4b23-b645-02d422557218) |
+
+
+| Access Resource Securely_Architecture_Diagram                | keyVault              |
+| ---------------------- | ---------------------- |
+| ![funcApp](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a9227c07-9776-417b-9288-bbc313647c2b) | ![publish_functionApp](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fe903ed1-f434-4270-801d-bf5502f76053) |
+
+
+
+| connect_funcApp                | keyVault              |
+| ---------------------- | ---------------------- |
+| ![funcApp](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/54bc7ba7-f8f3-4e11-a85e-c1b32fdb8b4c) | ![access_storage](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/b77396c0-d2f4-43b1-b1dd-b21d800b232f) |
+
 <br />
 
 <div>
