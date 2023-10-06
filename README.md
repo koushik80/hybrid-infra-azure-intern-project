@@ -447,7 +447,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <div>
 
-![My AD](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5fa94832-3504-4ea5-8ed9-61345e79eb7f)
+![My AD](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/214228e5-a13f-4e86-8f3b-8d1c886b4125)
 
 </div> <br />
 
