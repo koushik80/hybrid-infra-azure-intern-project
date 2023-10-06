@@ -46,7 +46,7 @@ In this overview, I will delve deeper into the specific projects, challenges, an
 <h3 align="left">Taitotalo: :convenience_store: </h3>
 </div>
 
-<p align="left">Taitotalo, born from the collaboration of AEL and Amiedu on January 1, 2020, is a dynamic educational powerhouse. With a rich history of adapting to the evolving educational landscape, Taitotalo is the leading provider of professional adult education. Offering nearly 90 degree programs, over 60 professional certificates, and more than 600 short training courses spanning various fields, Taitotalo empowers individuals to become skilled professionals. The flexibility of Taitotalo's training and coaching accommodates the demands of modern life, with options available during the day, evening, and online.</p> <p align="left"><a href="https://www.taitotalo.fi">Discover more</a></p>
+<p align="left">Taitotalo, born from the collaboration of AEL and Amiedu on January 1, 2020, is a dynamic educational powerhouse. With a rich history of adapting to the evolving educational landscape, Taitotalo is the leading provider of professional adult education. Offering nearly 90 degree programs, over 60 professional certificates, and more than 600 short training courses spanning various fields, Taitotalo empowers individuals to become skilled professionals. The flexibility of Taitotalo's training and coaching accommodates the demands of modern life, with options available during the day, evening, and online.</p> <a href="https://www.taitotalo.fi">Discover more</a>
 
 <div>
 <h3 align="left">Requirements:</h3>
@@ -501,8 +501,20 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
  - The provider and appliance establish secure, encrypted outbound **HTTPS** connections on port **443** to communicate with the **Migration tool**.
 
-<h3 align="left">Technical Procedure </h3>
+<h3 align="left">Technical Procedures </h3>
 
+
+ - I set up an Azure Host VM in the Azure Portal with a VNET and two NICs.
+
+ - Then, I established an Azure Bastion for secure access to Azure VMs without public endpoints and protection against brute force exploits targeting OS credentials. Additionally, I added a subnet to the VNET used for the Host VM.
+
+ - Afterwards, I initiated the Host VM with Bastion connectivity and created two folders, "D:\VHDs" and "D:\VMs," within it. I downloaded the Windows Server 2022 VHD file from <a href="https://www.taitotalo.fi">Windows Server Evaluations</a>and placed it in the "D:\VHDs" folder.
+
+ - Using Hyper-V Manager, I created a new VM, specifying "D:\VMs" as the location and connecting it to "D:\VHDs." I renamed the new VM to HDC1.
+
+ - In the next phase, I set up an Azure Migrate project in the Azure Portal. For this project, I configured a VNET called "mig-vnet" with an individual IP address and subnet. Additionally, I created another VNET named "test-vnet" with an IP address and subnet.
+
+ - Lastly, I established a standard LRS (Locally Redundant Storage) account named "migstore80" in the Azure Portal.
 
 
 <h3 align="left">Replication Process :arrows_counterclockwise:</h3>
