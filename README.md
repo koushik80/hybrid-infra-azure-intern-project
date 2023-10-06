@@ -477,13 +477,42 @@ Creating a mapping and description of the hybrid IT operating environment is an 
   - Implemented strong password policies, enabled Multi-Factor Authentication(MFA) where possible, and regularly reviewed and audit user and group memberships for security compliance.
 
 </div>
+<p align="left">On-premises descriptions and diagrams ....to be continued </p>
+
+
+
+<h3 align="left">Migration :twisted_rightwards_arrows:</h3>
+
+<p align="left">
+
+I migrated my on-premises **Hyper-V** environment to Azure using the **Azure Migrate service**. This service simplifies migration, modernization, and optimization, including discovery, assessments, and right-sizing for infrastructure, data, and applications. It supports third-party tool integration.
+
+The **Migration** and **Modernization tool** offers agentless replication for **Hyper-V VMs** without needing any installation on the VMs themselves. This tool is specifically optimized for **Hyper-V migration**.
+
+Additionally, **Azure** provides **Site Recovery** for disaster recovery purposes, sharing some technology components with the Migration and Modernization tool but serving different use cases.
+</p>
+
+<h3 align="left">Architecture :wrench: </h3>
+
+ - I installed the **Microsoft Azure Site Recovery provider** on **Hyper-V hosts** and registered it with the **Migration tool**.
+
+ - The provider handles replication for **Hyper-V VMs**, while the **Azure Recovery Service agent** manages data replication to **Azure**.
+
+ - Replicated data was stored in an **Azure subscription storage account**.
+
+ - The Migration tool processed the replicated data and applies it to replica disks for creating **Azure VMs**.
+
+ - I installed the necessary components from a single setup file provided by the **Migration tool**.
+
+ - The provider and appliance establish secure, encrypted outbound **HTTPS** connections on port **443** to communicate with the **Migration tool**.
+
 
 
 <div>
 
 <h3 align="left">Diagrams and Visuals: :milky_way:  </h3> <br />
 
-<p align="left">I have published a few images of my work to be clarified.</p> <br />
+<p align="left">I have published a few images of my work to be evaluated.</p> <br />
 
 </div>
 
@@ -493,9 +522,9 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <div>
 
-| Hyper-V Architecture(Source: Microsoft)                            | Azure Backup Agent(Source: Microsoft)                           |
+| Migration Architecture                            | Azure Backup Agent(Source: Microsoft)                           |
 | ----------------------------------- | ----------------------------------- |
-| ![Hyper-v architecture](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4fd7008d-6ad0-4d4a-a9db-fa82ab3e275b) | ![initial-backup-process_Azure Backup Agent](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/76006cf9-c316-4363-b16a-91eb8649e377) |
+| ![Migration architecture](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/84dd01c7-09b6-4b9c-90a5-ddcbac54f91b) | ![initial-backup-process_Azure Backup Agent](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/76006cf9-c316-4363-b16a-91eb8649e377) |
 
 
 
