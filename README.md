@@ -420,26 +420,28 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
  ` Naming Conventions: ` <br />
 
- - Forest and Domain name: YritysX.local
+- Forest and Domain name: YritysX.local
  - DHCP (Dynamic Host Configuration Protocol): server01.yritysx.local,
      - Scope name: Wks,
      - Scope Description: Työasemat
  - NetBIOS name: YRITYSX
 
+
 ` Server Naming: ` <br />
 
- - Host machine with Windows 10 Pro.
+- Host machine with Windows 10 Pro.
  - Two Virtual Machines with Windows Server 2019 Datacentre are named Server01 & Server02 as WKS2.
- - One Virtual Machine with Windows 10 Enterprise named as WKS1.
+ - One Virtual Machine with Windows 10 Enterprise named WKS1.
  - Printer: Canon LBP6650dn
 
-`Active Directory Roles: ` <br />
+` Active Directory Roles: ` <br />
 
- - One of the Windows Server 2019 machines is set up as a domain controller.
+- One of the Windows Server 2019 machines is set up as a domain controller.
  - WKS2 is set up as a secondary domain controller & used for other roles where I installed SCSM and SQL Server.
- - WKS1 is set up for the users and M365 implementaion.
+ - WKS1 is set up for the users and M365 implementation.
 
-`Organizational Unit (OU) Structure: `
+
+` Organizational Unit (OU) Structure: `
 
 <p align="left">Refined  OU structure to reflect the organization's hierarchy as below:</p> <br />
 
@@ -455,7 +457,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
  ` Security Groups: ` <br />
 
-  - Used security groups to manage permissions and access control more efficiently. Created groups for different job roles or departments and assign permissions accordingly.
+  - Used security groups to manage permissions and access control more efficiently. Created groups for different job roles or departments and assigned permissions accordingly.
 
 ` DNS Configuration: ` <br />
 
@@ -463,7 +465,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
  ` Printer Naming: ` <br />
 
-  - Canon LBP6650dn printer name is set to as Office-Printer.
+  - Canon LBP6650dn printer name is set to Office-Printer.
 
 ` Testing and Redundancy: ` <br />
 
@@ -472,9 +474,9 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 ` Security Measures: `
 
-  - Implemented strong password policies, enabled Multi Factor Authentication(MFA) where possible, and regularly review and audit user and group memberships for security compliance.
+  - Implemented strong password policies, enabled Multi-Factor Authentication(MFA) where possible, and regularly reviewed and audit user and group memberships for security compliance.
 
-
+</div>
 
 
 <div>
@@ -483,7 +485,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <p align="left">I have published a few images of my work to be clarified.</p> <br />
 
-<div>
+</div>
 
 `Migrating Hyper-V VMs to Azure by using Azure Migrate` <br />
 
