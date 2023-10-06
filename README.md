@@ -328,9 +328,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <div>
 
-<h3 align="left"><a href="https://github.com/koushik80/hybrid-infra-azure-intern-project/tree/master/config">Configuration: :hammer_and_wrench: </a></h3> <br />
-
-- Click Configuration <br />
+<h3 align="left"><a href="https://github.com/koushik80/hybrid-infra-azure-intern-project/tree/master/config">Configuration(Click here): :hammer_and_wrench: </a></h3> <br />
 
 </div> <br />
 
@@ -405,7 +403,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <h3 align="left">Technical Information: :information_source:</h3> <br />
 
-</div>  <br />
+</div>
 
 <div>
 
@@ -515,6 +513,49 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
  - In the next phase, I set up an Azure Migrate project in the Azure Portal. For this project, I configured a VNET called "mig-vnet" with an individual IP address and subnet. Additionally, I created another VNET named "test-vnet" with an IP address and subnet.
 
  - Lastly, I established a standard LRS (Locally Redundant Storage) account named "migstore80" in the Azure Portal.
+
+` Deploy and configure the Azure Migrate appliance `
+
+ - In Azure Portal, go to **Azure Migrate | Get Started**, and selected **"Discover, assess, and migrate"** under **Servers, databases, and web apps**.
+
+ - On the **Azure Migrate | Servers, databases, and web apps page**, choose **"Discover"** in the **Azure Migrate: Discovery and Assessment** section.
+
+ - Ensure **"Discover using the appliance"** is selected and verified that my server is virtualized with **Hyper-V**.
+
+ - Entered a name of my appliance (e.g., HDC1) and clicked **"Generate Key"** in the **Discover** page.
+
+ - Selected the ".VHD file" option in the **"Download Azure Migrate appliance"** textbox and saved it to the D:\VMs folder.
+
+ - After the download, extracted the content of the ZIP file into the D:\VMs folder.
+
+ - In **Hyper-V Manager**, selected my VMs (e.g., WKS1 and WKS2), and choose **"Import Virtual Machine"** to start the wizard.
+
+ - Started the newly imported VM in **Hyper-V Manager** and ensured it's running and connected.
+
+ - Accepted the License terms in the VM connection window.
+
+ - Set the password for the built-in Administrator account in the VM connection window's Customize settings page and clicked "Finish."
+
+ - In the **Appliance Configuration Manager**, add credentials with **Friendly Name, User Name, and Password**.
+
+ - In the **Appliance Configuration Manager's** Provide **Hyper-V host/cluster details** section, selected **"Add discovery source"** Choose **"Hyper-V Host/Cluster"** in the **Discovery** source dropdown, and specified the **IP address/FQDN** and saved settings.
+
+ - Enabled the **"Disable the slider if you don't want to perform these features"** toggle and started the discovery.
+
+ - Went back to **Azure Migrate | Servers, databases, and web apps** in the **Azure portal**, clicked **"Refresh,"** and selected **"Assess"** under **Azure Migrate: Discovery and Assessment**. Choose "Azure VM" in the dropdown.
+
+ - Specified necessary settings on the **Assessment settings** page and saved them.
+
+ - In the **Migration and Modernization** section, selected **"Discover"** and configure the necessary settings.
+
+ - On the **Discover** page, under **"Prepare Hyper-V host servers,"** downloaded the **Hyper-V replication provider software installer** by clicking the first **"Download"** link.
+
+ - Once the download completed, opened the file to start the **Azure Site Recovery Provider Setup (Hyper-V server) wizard** and installed it.
+
+ - From the **Discover Machines** page, downloaded the registration key.
+
+ - In the **Provider installation** page of the **Azure Site Recovery Provider Setup (Hyper-V server)** wizard, selected **"Register"** to begin the **Microsoft Azure Site Recovery Registration Wizard**. Followed the steps to set up the Vault, and completed the installation wizard.
+
 
 
 <h3 align="left">Replication Process :arrows_counterclockwise:</h3>
