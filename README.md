@@ -443,7 +443,11 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <p align="left">Refined  OU structure to reflect the organization's hierarchy as below:</p> <br />
 
+<div>
 
+![My AD](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5fa94832-3504-4ea5-8ed9-61345e79eb7f)
+
+</div> <br />
 
 ` Group Policy Objects (GPOs): ` <br />
 
@@ -471,7 +475,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
   - Implemented strong password policies, enabled Multi Factor Authentication(MFA) where possible, and regularly review and audit user and group memberships for security compliance.
 
 
-<div>
+
 
 <div>
 
