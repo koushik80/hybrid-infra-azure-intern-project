@@ -416,11 +416,11 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <h3 align="left">My On-premises environment: :computer:  </h3> <br />
 
-<h3 align="left">My on-premises and virtual environment is structured as below:</p><br />
+<p align="left">My on-premises and virtual environment is structured as below:</p> <br />
 
  ` Naming Conventions: ` <br />
 
-- Forest and Domain name: YritysX.local
+ - Forest and Domain name: YritysX.local
  - DHCP (Dynamic Host Configuration Protocol): server01.yritysx.local,
      - Scope name: Wks,
      - Scope Description: Työasemat
