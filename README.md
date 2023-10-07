@@ -358,13 +358,13 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 :white_check_mark: Virtual Gateway & Virtual WAN <br />
 :white_check_mark: Azure Load Balancer <br />
 :white_check_mark: Azure Site Recovery Provider <br />
-:white_check_mark: Microsoft 365 Admin[Teams Admin + SharePoint Admin + Ticketing System in SharePoint + Exchange Admin + Power BI Desktop + Power Apps + Intune Admin Center] <br />
+:white_check_mark: Microsoft 365 Admin[Teams Admin + SharePoint Admin + Ticketing System in SharePoint + Exchange Admin + Power BI Desktop(learning phase) + Power Apps + Intune Admin Center] <br />
 :white_check_mark: System Center Configuration Manager(SCCM) <br />
 :white_check_mark: SQL Server <sup>2022</sup> <br />
 :white_check_mark: Azure App Service <br />
 :white_check_mark: .NET SDKs <br />
 :white_check_mark: OpenID Connect <br />
-:white_check_mark: MSAL <br />
+:white_check_mark: MSAL(Microsoft Authentication Library) <br />
 :white_check_mark: Apache Kudu zip <br />
 :white_check_mark: Azure DevOps <br />
 :white_check_mark: Azure Functions <br />
@@ -372,7 +372,6 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 :white_check_mark: Azure Monitor <br />
 :white_check_mark: Azure SQL Database + Azure Data Studio <br />
 :white_check_mark: VS Code <br />
-- To be continued... <br />
 
 </div> <br /> <br />
 
@@ -380,22 +379,29 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <h3 align="left">Resource Allocation:</h3> <br />
 
-- Apple MacBook Pro x86-based [Processor: 2,3 GHz 8-Core Intel Core i9, 1TB HDD, Memory: 32 GB 2667 MHz DDR4] <br />
-- HP ELITEBOOK 840 G5 x64-based [Processor: i5-8350OU CPU @ 1.70, 1896 GHz Intel<sup> :registered: </sup> Core <sup>TM</sup> , 500GB HDD, 16GB RAM] <br />
-- Elisa Internet <br />
-- Seagate External HDD <br />
-- USB Drive <br />
-- External Mirror HUB for MacBook Pro (Multifunctional Converter: HDMI | USB 3.0 | USB 3.0 | SD | TF | RJ45 | VGA | 3.5 audio) <br />
-- Huawei Wi-fi Router <br />
-- Samsung Wireless Keyboard <br />
+ - Apple MacBook Pro x86-based [Processor: 2,3 GHz 8-Core Intel Core i9, 1TB HDD, Memory: 32 GB 2667 MHz DDR4] <br />
+ - HP ELITEBOOK 840 G5 x64-based [Processor: i5-8350OU CPU @ 1.70, 1896 GHz Intel<sup> :registered: </sup> Core <sup>TM</sup> , 500GB HDD, 16GB RAM] <br />
+ - Elisa Internet <br />
+ - Seagate External HDD <br />
+ - USB Drive <br />
+ - External Mirror HUB for MacBook Pro (Multifunctional Converter: HDMI | USB 3.0 | USB 3.0 | SD | TF | RJ45 | VGA | 3.5 audio) <br />
+ - Huawei Wi-fi Router <br />
+ - Samsung Wireless Keyboard <br />
 
 ` OS `
-- Windows Server <sup>2019</sup>  <br />
-- Windows Server <sup>2022</sup>  <br />
-- Windows 10 <sup>Pro</sup> <br />
-- Windows 10 <sup>Enterprise</sup> <br />
-- macOS Ventura <sup>13.5.1</sup> <br />
-- macOS Sonoma<sup>14.0</sup> (Updated on 3<sup>rd</sup> October) <br />
+
+ - Windows Server <sup>2019</sup>  <br />
+ - Windows Server <sup>2022</sup>  <br />
+ - Windows 10 <sup>Pro</sup> <br />
+ - Windows 10 <sup>Enterprise</sup> <br />
+ - macOS Ventura <sup>13.5.1</sup> <br />
+ - macOS Sonoma<sup>14.0</sup> (Updated on 3<sup>rd</sup> October) <br />
+
+` dns `
+
+ - koushikdey.online
+ - bliz1980.online
+
 
 </div> <br />
 
@@ -422,17 +428,16 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 ` Server Naming: ` <br />
 
-- Host machine with Windows 10 Pro.
+ - Host machine with Windows 10 Pro.
  - Two Virtual Machines with Windows Server 2019 Datacentre are named Server01 & Server02 as WKS2.
  - One Virtual Machine with Windows 10 Enterprise named WKS1.
  - Printer: Canon LBP6650dn
 
 ` Active Directory Roles: ` <br />
 
-- One of the Windows Server 2019 machines is set up as a domain controller.
- - WKS2 is set up as a secondary domain controller & used for other roles where I installed SCSM and SQL Server.
- - WKS1 is set up for the users and M365 implementation.
-
+   - One of the Windows Server 2019 machines is set up as a domain controller.
+   - WKS2 is set up as a secondary domain controller & used for other roles where I installed SCSM and SQL Server.
+   - WKS1 is set up for the users and M365 implementation.
 
 ` Organizational Unit (OU) Structure: `
 
@@ -1066,6 +1071,10 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 [SCCM Instruction](https://petri.com/how-to-install-system-center-configuration-manager-2022/) <br />
 [Intune Video Lesson](https://www.youtube.com/watch?v=-Sc5EDFw5wI&t=2421s) <br />
 [eduhouse](https://trainings.eduhouse.fi/koulutukset/az-204-developing-solutions-for-microsoft-azure/) <br />
+[GoDaddy](https://fi.godaddy.com/) <br />
+[spiceworks](spiceworks.com) <br />
+[]() <br />
+[]() <br />
 []() <br />
 []() <br />
 []() <br />
