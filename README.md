@@ -328,9 +328,9 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <div>
 
-<h3 align="left"><a href="https://github.com/koushik80/hybrid-infra-azure-intern-project/tree/master/config">Configuration(Click here): :hammer_and_wrench: </a></h3> <br />
+<h3 align="left"><a href="https://github.com/koushik80/hybrid-infra-azure-intern-project/tree/master/config">Configuration(Click here): :hammer_and_wrench: </a></h3>
 
-</div> <br />
+</div>
 
 <div>
 
