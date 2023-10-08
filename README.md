@@ -413,6 +413,12 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <div>
 
+![Hybrid Architectural Diagram](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3baaef8d-6339-47b8-960f-bb14cb65a2aa)
+
+</div>
+
+<div>
+
 <h3 align="left">My On-premises environment: :computer:  </h3> <br />
 
 <p align="left">My on-premises and virtual environment is structured as below:</p> <br />
