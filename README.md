@@ -413,7 +413,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <div>
 
-![Hybrid Architectural Diagram](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3baaef8d-6339-47b8-960f-bb14cb65a2aa)
+![Hybrid Architectural Diagram](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/bcc80d19-dfc2-4977-96fb-607c06b0df8a)
 
 </div>
 
