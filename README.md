@@ -672,9 +672,40 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ![Mig13](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/42e37e0c-c994-4675-abc1-1de34e18f82d) | ![Mig14](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ddeb6d4a-6950-4bc9-bd60-33870ff1c152) |
 
 
-</div>
+</div> <br />
 
-<br />
+<div>
+
+` On-premise management `
+
+</div> <br />
+
+<div>
+
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![opm1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/36e729fa-9379-4a48-bb87-e20ff89ff788) | ![opm2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3704daf4-253d-4fbd-ba7e-e671d7f4b6e8) |
+
+
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![opm3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9eb25749-9e61-4c49-80c7-d104c76866e3) | ![opm4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ab093c8c-72ee-4e1d-b285-6a394ad2774d) |
+
+
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![opm5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5c2444c8-c4cf-447c-99b9-937b40dcbc6e) | ![opm6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4fd5afc4-60ad-4a7f-891c-8283f5929873) |
+
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![opm7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/05e71ac1-b314-42a7-8f83-689cde98e708) | ![opm8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ef7ebe35-ddd0-47a3-acb2-d05def84ff4a) |
+
+
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![opm8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/991c71ff-9af3-4ae5-b903-befb403b8f23) | ![opm9](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c6a455b7-1fe8-4468-abc1-fcb08ddf07e5) |
+
+</div> <br />
 
 <div>
 
