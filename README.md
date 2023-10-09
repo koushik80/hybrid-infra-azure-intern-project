@@ -707,6 +707,21 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ![m365i](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/66ee1c9e-b7d1-4ad2-8f3f-8cf4e91fc032) | ![m365j](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c40e0bc6-67ca-4d01-8d23-274f8685152f) |
 
 
+| MS-100T00               | MS-100T00               |
+| ---------------------- | ---------------------- |
+| ![Entra](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0e9fb7c2-7fb1-47d4-acb1-f4d6a6c8743b) | ![Entra2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/45237dce-d9e4-4b67-9e10-c7987238d1c3) |
+
+| MS-100T00               | MS-100T00               |
+| ---------------------- | ---------------------- |
+| ![intune1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7b73ba00-f0fa-465a-911f-4545f83811ed) | ![intune2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0e598735-eab5-4a3c-8dfd-79d952748a73) |
+
+
+| MS-100T00               | MS-100T00               |
+| ---------------------- | ---------------------- |
+| ![sql1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/59ba597f-0fed-4768-a95a-b691b60cc60b) | ![teams](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0511af85-06c5-44eb-84c2-62f2eb47f5e3) |
+
+
+
 <br />
 <div>
 
