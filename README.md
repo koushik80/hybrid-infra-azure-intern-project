@@ -1125,9 +1125,9 @@ Clients can expect a secure, efficient, and highly available environment that se
 
 <p align="left">
 
-The project sets the stage for future enhancements, including the expansion of Azure services, optimization of workloads, and continuous improvement of security measures. Additionally, the project can serve as a foundation for future cloud-based initiatives, such as **AI** and **Machine Learning** implementations, further enhancing customer experiences.
+My project sets the stage for future enhancements, including the expansion of **Azure services, optimization of workloads, and continuous improvement of security measures**. Additionally, the project can serve as a foundation for future cloud-based initiatives, such as **AI** and **Machine Learning** implementations, further enhancing customer experiences.
 
-In summary, this project has successfully implemented a hybrid cloud environment, aligning with **ITIL** principles, to deliver a reliable, secure, and scalable infrastructure. The integration of on-premises and Azure resources provides a robust foundation for current and future **IT** initiatives, ensuring ongoing value for the organization and its users.
+In summary, in this project I have successfully implemented a hybrid cloud environment, aligning with **ITIL** principles, to deliver a reliable, secure, and scalable infrastructure. The integration of **on-premises** and **Azure resources** provides a robust foundation for current and future **IT** initiatives, ensuring ongoing value for any organization and its users.
 
 
 </p>
