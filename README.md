@@ -340,6 +340,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 :white_check_mark: PuTTY 0.78 <br />
 :white_check_mark: MobaXterm 23.3 <br />
 :white_check_mark: Wireshark 4.0.8 <br />
+:white_check_mark: Azure Backup Agent <br />
 :white_check_mark: Azure Migrate <br />
 :white_check_mark: Bastions <br />
 :white_check_mark: PowerShell <br />
@@ -371,6 +372,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 :white_check_mark: Azure Monitor <br />
 :white_check_mark: Azure SQL Database + Azure Data Studio <br />
 :white_check_mark: VS Code <br />
+:white_check_mark: draw.io <br />
 
 </div> <br />
 
@@ -434,7 +436,7 @@ As the project aims to integrate on-premises and Azure resources, with a focus o
 
 <div>
 
-![Hybrid Architectural Diagram](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/bcc80d19-dfc2-4977-96fb-607c06b0df8a)
+![Hybrid Architectural Diagram](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/32b4c93d-475a-4606-ba1b-a1cbd11d509a)
 
 </div>
 
