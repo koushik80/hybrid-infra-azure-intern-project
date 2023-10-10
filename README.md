@@ -31,7 +31,6 @@ This hands-on experience was meticulously crafted to equip me with practical kno
 Throughout the course of my internship, I relied on a combination of resources for learning and growth. **Microsoft Labs** served as a primary platform for hands-on experience, supplemented by multiple study resources such as **Udemy**, **YouTube**, **Cisco-skillsforall**, **A Cloud Guru** and **Petri**. I was also fortunate to receive personal guidance from an experienced **Udemy** Instructor, **Kevin Brown**, who specializes in **Windows, Azure, AWS, Cisco, and Security**, and is an accomplished **author** in the field. His mentorship significantly enriched my learning journey.
 
 In this overview, I will delve deeper into the specific projects, challenges, and achievements that shaped my internship experience as an **IT System Expert** at **Taitotalo**. This journey has been a testament to my commitment to continuous learning and my enthusiasm for exploring the ever-evolving landscape of **Information Technology**.
-
 </p>
 
 <h3 align="left">Objective: 📓 </h3>
@@ -116,9 +115,6 @@ I have installed Windows Server 2019 server operating systems with basic service
 **<p align="left"> :pushpin: Criteria: _Ensures system functionality and information security._</p>**
 
    - [x] Fault diagnosis and management of the IT side is part of my daily job description. In the maintenance of On-premises/Cloud environments, I have considered information security, e.g., GPOs, hardening and firewall/anti-malware.
-
-<br />
-
 
 <h3 align="left">Mapping and description of the operating environment: :chart: </h3>
 
@@ -354,7 +350,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 :white_check_mark: Application Security Group(ASG) <br />
 :white_check_mark: Firewall Rules <br />
 :white_check_mark: Identity and Access Management[IAM]: Multi-Factor Authentication(MFA) <br />
-:white_check_mark: MAF Authenticator <br />
+:white_check_mark: MAF Authenticator App(In mobile device) <br />
 :white_check_mark: Virtual Gateway & Virtual WAN <br />
 :white_check_mark: Azure Load Balancer <br />
 :white_check_mark: Azure Site Recovery Provider <br />
@@ -403,7 +399,29 @@ Creating a mapping and description of the hybrid IT operating environment is an 
  - bliz1980.online
 
 
-</div> <br />
+</div>
+
+<h3 align="left"> Project Planning: :clipboard: </h3>
+
+<p align="left">
+
+As the project aims to integrate on-premises and Azure resources, with a focus on Microsoft technologies such as Hyper-V, Azure services, Active Directory, and Microsoft 365.
+
+` Work Plan: ` During my project, a comprehensive plan outlined tasks, responsibilities, and migration of virtual machines (VMs) to Azure.
+
+` Information Network Structure: ` In the project I established a network topology that includes NAT, DHCP, gateway configuration, and virtual networks within Azure.
+
+` User Support: ` System-side user support includes guidance, user rights management, and case resolution processes, ensuring a seamless experience for end-users.
+
+` Service Requests Handling: ` Service requests are managed through a ticketing system, which streamlines maintenance, updates, installations, system failure, and other service-related tasks. For handling Tickets I followed virtual labs on www.spicewprks.com and a few YouTube videos.
+
+` Communication in Exceptional Situations: ` Exceptional situations, like maintenance interruptions or security breaches, are communicated through various channels such as email, Teams, and SMS.I practised in M365 how to communicate with the end-users.
+
+` Maintenance Schedule: ` I practiced how to organize scheduled maintenance tasks, including daily, weekly, and periodic updates, backups, and system checks.
+
+` Ensuring Functionality: ` I implemented fault tolerance, monitoring, updates, security policies, firewalls, anti-malware solutions, and backups to ensure system functionality and data integrity.
+
+</p>
 
 <div>
 
@@ -510,7 +528,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
  - The provider and appliance establish secure, encrypted outbound **HTTPS** connections on port **443** to communicate with the **Migration tool**.
 
-<h3 align="left">Technical Procedures </h3>
+<h3 align="left">Technical Procedures: </h3>
 
 
  - I set up an Azure Host VM in the Azure Portal with a VNET and two NICs.
@@ -1071,9 +1089,25 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![monitor5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fb2ce3ab-f93f-4d6a-9a68-126a8f13605d) | ![monitor6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/10bcedfa-ae17-4a4a-9b09-01ca7ae6266e) |
 
+</div> <br />
+
+<h3 align="left">Customer Expectations: :information_desk_person:</h3>
+
+<p align="left">
+
+Clients can expect a secure, efficient, and highly available environment that seamlessly integrates on-premises and cloud resources. Regular maintenance, updates, and monitoring ensure optimal performance and proactive communication keeps users informed during exceptional situations.
+</p>
+
+<h3 align="left">Future Possibilities: </h3>
+
+<p align="left">
+
+The project sets the stage for future enhancements, including the expansion of Azure services, optimization of workloads, and continuous improvement of security measures. Additionally, the project can serve as a foundation for future cloud-based initiatives, such as **AI** and **Machine Learning** implementations, further enhancing customer experiences.
+
+In summary, this project has successfully implemented a hybrid cloud environment, aligning with **ITIL** principles, to deliver a reliable, secure, and scalable infrastructure. The integration of on-premises and Azure resources provides a robust foundation for current and future **IT** initiatives, ensuring ongoing value for the organization and its users.
 
 
-</div>
+</p>
 
 <h4 align="left"> :eight_spoked_asterisk: Note: Feel free to reach out to me for guidance and assistance throughout the internship. I will be pleased to have you on board and your contributions to the world of IT system architecture!</h4>
 
