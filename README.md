@@ -28,7 +28,7 @@ Throughout this internship, I leveraged my proficiency in scripting languages an
 
 This hands-on experience was meticulously crafted to equip me with practical knowledge in managing and sustaining a plethora of technologies that constitute the backbone of contemporary **IT Infrastructure**. As an intern in this project, I had the privilege of engaging with a wide spectrum of tools and platforms, actively contributing to the **Setup**, **Configuration**, **Security**, and **Management** of critical systems. My work environment was **Hybrid** in nature, characterized by the utilization of my own technical arsenal, consisting of both **Mac** and **Windows** machines, in conjunction with **Azure resources**.
 
-Throughout the course of my internship, I relied on a combination of resources for learning and growth. **Microsoft Labs** served as a primary platform for hands-on experience, supplemented by multiple study resources such as **Udemy**, **YouTube**, **Cisco-skillsforall**, **A Cloud Guru** and **Petri**. I was also fortunate to receive personal guidance from an experienced **Udemy** Instructor, **Kevin Brown**, who specializes in **Windows, Azure, AWS, Cisco, and Security**, and is an accomplished **author** in the field. His mentorship significantly enriched my learning journey.
+Throughout the course of my internship, I relied on a combination of resources for learning and growth. **Microsoft Labs** served as a primary platform for hands-on experience, supplemented by multiple study resources such as **Udemy**, **YouTube**, **Cisco-skillsforall**, **A Cloud Guru**,**spiceworks** and **Petri**. I was also fortunate to receive personal guidance from an experienced **Udemy** Instructor, **Kevin Brown**, who specializes in **Windows, Azure, AWS, Cisco, and Security**, and is an accomplished **author** in the field. His mentorship significantly enriched my learning journey.
 
 In this overview, I will delve deeper into the specific projects, challenges, and achievements that shaped my internship experience as an **IT System Expert** at **Taitotalo**. This journey has been a testament to my commitment to continuous learning and my enthusiasm for exploring the ever-evolving landscape of **Information Technology**.
 </p>
@@ -102,7 +102,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 **<p align="left"> :pushpin: Criteria: _Monitor server activity and predict problem situations using monitoring tools._</p>**
 
-   - [x] I maintain AD's/AZURE AD’s structure, groups/users with the help of ADUC, Azure management, Admin center and Intune and, if necessary, using PowerShell.I monitor servers and the most critical server applications with local operating system and server manufacturer tools, System Center and Azure management monitoring tools, and proactively strive to implement maintenance and device/resource management.
+   - [x] I maintain AD's/AZURE AD's structure, groups/users with the help of ADUC, Azure management, Admin center and Intune and, if necessary, using PowerShell.I monitor servers and the most critical server applications with local operating system and server manufacturer tools, System Center and Azure management monitoring tools, and proactively strive to implement maintenance and device/resource management.
 
 **<p align="left"> :pushpin: Criteria: _Automate system-level tasks._</p>**
 
@@ -116,9 +116,18 @@ I have installed Windows Server 2019 server operating systems with basic service
 
    - [x] Fault diagnosis and management of the IT side is part of my daily job description. In the maintenance of On-premises/Cloud environments, I have considered information security, e.g., GPOs, hardening and firewall/anti-malware.
 
+<h3 align="left">ITIL Framework:</h3>
+
+<p align="left">
+
+The project adheres to **ITIL** (Information Technology Infrastructure Library) principles, which provide a structured approach to **IT service management**. **ITIL** ensures that **IT** services align with business needs and are delivered effectively and efficiently. It involves various processes, including incident management, change management, and service request handling, which have been tailored to our development environment.
+</p>
+
 <h3 align="left">Mapping and description of the operating environment: :chart: </h3>
 
-<p align="left">For my internship project, I have chosen to explore multiple domains and engage with various approaches to the IT environment. I aim to address challenges presented by new technologies, covering aspects such as configuration, diagnostics, monitoring, security, risk management, and end-user support.
+<p align="left">
+
+For my internship project, I have chosen to explore multiple domains and engage with various approaches to the **IT** environment. I aim to address challenges presented by new technologies, covering aspects such as configuration, diagnostics, monitoring, security, risk management, and end-user support.
 
 Mapping and describing the IT operating environment within a hybrid IT setup involves documenting the diverse components, systems, and processes that constitute an organization's IT infrastructure. A hybrid IT environment typically combines on-premises infrastructure with cloud-based services. Here is a step-by-step process for mapping and describing the hybrid IT operating environment:
 
@@ -216,18 +225,14 @@ Creating a mapping and description of the hybrid IT operating environment is an 
    :heavy_check_mark: `Azure Databases:` Learn about **_Azure's database offerings and their configuration_**. <br />
    :heavy_check_mark: `Azure Functions:` Understanding Microsoft's **_event-driven serverless solution_**, different triggers like **_HTTP trigger, Timer trigger, Azure Blob Storage trigger, Azure Event Grid trigger_**. <br />
 
-<br />
-
 <h3 align="left">Getting Started :vertical_traffic_light:</h3>
 
 **<p align="left">_To review my work, follow these steps:_</p>**
 
-:fast_forward: Clone this repository to your local environment. <br />
-:fast_forward: Review the documentation for each technology area in the respective folders. <br />
+:fast_forward: Review in the respective folders for each technology area. <br />
 :fast_forward: Engage with hands-on exercises/LABS to translate theory into practice. <br />
-:fast_forward: Participate in team discussions and ask questions in the designated communication channels. <br />
+:fast_forward: Participated in team discussions and ask questions in the designated communication channels. <br />
 
-<br />
 
 <h3 align="left">Learning Objectives: :chart_with_upwards_trend: </h3>
 
@@ -235,21 +240,21 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <h4 align="left">1. IT Service Production Processes (e.g., ITIL):</h4> <br />
 
-- Gain a comprehensive understanding of IT service production processes.
-- Apply ITIL principles effectively in daily tasks and projects.
-- Continuously stay updated on the latest developments and best practices in IT service management.
+ - Gain a comprehensive understanding of IT service production processes.
+ - Apply ITIL principles effectively in daily tasks and projects.
+ - Continuously stay updated on the latest developments and best practices in IT service management.
 
 <h4 align="left">2. Network Topology and Fault Diagnosis:</h4> <br />
 
-- Develop expertise in analyzing and diagnosing network topology and identifying limitations.
-- Master the principles of fault diagnosis and troubleshooting in the context of network systems.
-- Apply these skills to improve Network reliability and performance.
+ - Develop expertise in analyzing and diagnosing network topology and identifying limitations.
+ - Master the principles of fault diagnosis and troubleshooting in the context of network systems.
+ - Apply these skills to improve Network reliability and performance.
 
 <h4 align="left">3. Virtualization and Cloud Services:</h4> <br />
 
-- Become proficient in installing, maintaining, and troubleshooting Hyper-V, VMware, and Azure-based Virtual Servers and Services.
-- Learn to use management tools like Windows Admin Center, Intune, O365, and Azure management websites effectively.
-- Automate tasks using PowerShell where applicable.
+ - Become proficient in installing, maintaining, and troubleshooting Hyper-V, VMware, and Azure-based Virtual Servers and Services.
+ - Learn to use management tools like Windows Admin Center, Intune, O365, and Azure management websites effectively.
+ - Automate tasks using PowerShell where applicable.
 
 <h4 align= "left">4. User Support and Customer Guidance:</h4> <br />
 
@@ -320,8 +325,6 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <p align="left">These learning objectives helped me build a strong foundation and continuously develop the skills and knowledge required to excel in my role within the IT environment. I will set specific goals and regularly assess my progress towards achieving these objectives.</p>
 
-<br />
-
 <div>
 
 <h3 align="left"><a href="https://github.com/koushik80/hybrid-infra-azure-intern-project/tree/master/config">Configuration(Click here): :hammer_and_wrench: </a></h3>
@@ -330,7 +333,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <div>
 
-<h3 align="left">Technologies:</h3>  <br />
+<h3 align="left">Systems and Services: </h3>  <br />
 
 :white_check_mark: Hyper-V Manager <br />
 :white_check_mark: Cisco Packet Tracer 8.2.1 <br />
@@ -369,7 +372,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 :white_check_mark: Azure SQL Database + Azure Data Studio <br />
 :white_check_mark: VS Code <br />
 
-</div> <br /> <br />
+</div> <br />
 
 <div>
 
@@ -401,7 +404,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 </div>
 
-<h3 align="left"> Project Planning: :clipboard: </h3>
+<h3 align="left"> User Centric Planning: :clipboard: </h3>
 
 <p align="left">
 
@@ -437,9 +440,25 @@ As the project aims to integrate on-premises and Azure resources, with a focus o
 
 <div>
 
-<h3 align="left">My On-premises environment: :computer:  </h3> <br />
+<h3 align="left">Development Environment: :computer:  </h3> <br />
 
-<p align="left">My on-premises and virtual environment is structured as below:</p> <br />
+<p align="left"> My Implementation involves creating a hybrid environment, combining on-premises servers and Azure services for a seamless user experience and is structured as below:</p> <br />
+
+` Virtualization Management: ` <br />
+
+ - Hyper-V is employed for virtualization, enabling efficient management of VMs.
+
+` Remote Connectivity: ` <br />
+
+ - Tools like TeamViewer, RD(Remote Desktop), and Teams are used for remote user workstation connectivity.
+
+` Network Configuration: `
+
+ - Network services like NAT, DHCP, and gateway settings are meticulously configured to facilitate secure and efficient communication between devices and services.
+
+` DNS Configuration: ` <br />
+
+ - Ensured DNS is correctly configured on the domain controllers. They use each other for DNS resolution and avoid external DNS servers.
 
  ` Naming Conventions: ` <br />
 
@@ -448,7 +467,6 @@ As the project aims to integrate on-premises and Azure resources, with a focus o
      - Scope name: Wks,
      - Scope Description: Työasemat
  - NetBIOS name: YRITYSX
-
 
 ` Server Naming: ` <br />
 
@@ -459,9 +477,9 @@ As the project aims to integrate on-premises and Azure resources, with a focus o
 
 ` Active Directory Roles: ` <br />
 
-   - One of the Windows Server 2019 machines is set up as a domain controller.
-   - WKS2 is set up as a secondary domain controller & used for other roles where I installed SCSM and SQL Server.
-   - WKS1 is set up for the users and M365 implementation.
+ - One of the Windows Server 2019 machines is set up as a domain controller.
+ - WKS2 is set up as a secondary domain controller & used for other roles where I installed SCSM and SQL Server.
+ - WKS1 is set up for the users and M365 implementation.
 
 ` Organizational Unit (OU) Structure: `
 
@@ -475,33 +493,38 @@ As the project aims to integrate on-premises and Azure resources, with a focus o
 
 ` Group Policy Objects (GPOs): ` <br />
 
-  - Implements GPOs for managing security and configuration settings. Created separate GPOs for different purposes, like one for workstation settings, one for server settings, one for password character length and others.
+ - Implements GPOs for managing security and configuration settings. Created separate GPOs for different purposes, like one for workstation settings, one for server settings, one for password character length and others.
 
  ` Security Groups: ` <br />
 
-  - Used security groups to manage permissions and access control more efficiently. Created groups for different job roles or departments and assigned permissions accordingly.
-
-` DNS Configuration: ` <br />
-
-  - Ensured DNS is correctly configured on the domain controllers. They use each other for DNS resolution and avoid external DNS servers.
+ - Used security groups to manage permissions and access control more efficiently. Created groups for different job roles or departments and assigned permissions accordingly.
 
  ` Printer Naming: ` <br />
 
-  - Canon LBP6650dn printer name is set to Office-Printer.
+ - Canon LBP6650dn printer name is set to Office-Printer.
 
 ` Testing and Redundancy: ` <br />
 
-  - Tested AD configuration periodically to ensure it functions correctly.
-  - Considered implementing redundancy for critical services like DHCP and domain controllers.
+ - Tested AD configuration periodically to ensure it functions correctly.
+ - Considered implementing redundancy for critical services like DHCP and domain controllers.
 
-` Security Measures: `
+` Security Measures: ` <br />
 
-  - Implemented strong password policies, enabled Multi-Factor Authentication(MFA) where possible, and regularly reviewed and audit user and group memberships for security compliance.
+ - Implemented strong password policies, enabled Multi-Factor Authentication(MFA) where possible, MFA authenticator app in mobile, anti-malware, Firewalls, hardening, secure network connections, encryption, Identity Management/Access Control(IAM), and regularly reviewed and audit user and group memberships for security compliance.
+
+ ` Cloud Management Tools: ` <br />
+
+ - Azure and M365 management tools are showcased, enabling efficient cloud environment management.
+
+ ` Monitoring and Automation: ` <br />
+
+ - Several Monitoring tools like Reliability Monitor, Windows Admin Center, Task Manager & Resource Monitor, Performance Monitor & Data Collector Set, Event Viewer, Azure Monitor are used to ensure the health of the environment, automate routine tasks, and alert on critical events.
+
+ ` Backup and Recovery: ` <br />
+
+ - Robust backup solutions are implemented, including Windows Server backup, Azure backup, and M365/OneDrive, with regular recovery testing to ensure data integrity.
 
 </div>
-<p align="left">On-premises descriptions and diagrams ....to be continued </p>
-
-
 
 <h3 align="left">Migration :twisted_rightwards_arrows:</h3>
 
