@@ -522,7 +522,7 @@ As the project aims to integrate on-premises and Azure resources, with a focus o
 
  ` Backup and Recovery: ` <br />
 
- - Robust backup solutions are implemented, including Windows Server backup, Azure backup, and M365/OneDrive, with regular recovery testing to ensure data integrity.
+ - Robust backup solutions are implemented, including Windows Server backup, Azure backup, and M365/OneDrive, Time Machine(external HDD), with regular recovery testing to ensure data integrity.
 
 </div>
 
