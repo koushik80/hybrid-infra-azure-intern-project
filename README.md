@@ -207,7 +207,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <h3 align="left">Implementations: :electric_plug: </h3>
 
-**<p align="left">_In this role, my implementations are included (continuous implementation):_</p>**
+**<p align="left">_In this project, my implementations are included (continuous implementation):_</p>**
 
    :heavy_check_mark: `Hybrid Environment:` Configuring and managing a **_Hybrid IT environment that combines on-premises and cloud resources_**. <br />
    :heavy_check_mark: `Windows Server:` Setting up and managing **_Windows Server instances, including user management, file sharing, and roles_**. <br />
@@ -252,7 +252,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <h4 align="left">3. Virtualization and Cloud Services:</h4> <br />
 
- - Become proficient in installing, maintaining, and troubleshooting Hyper-V, VMware, and Azure-based Virtual Servers and Services.
+ - Become proficient in installing, maintaining, and troubleshooting Hyper-V, ~~VMware~~(npt applied/installed in my environment), and Azure-based Virtual Servers and Services.
  - Learn to use management tools like Windows Admin Center, Intune, O365, and Azure management websites effectively.
  - Automate tasks using PowerShell where applicable.
 
