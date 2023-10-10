@@ -1123,7 +1123,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 Clients can expect a secure, efficient, and highly available environment that seamlessly integrates on-premises and cloud resources. Regular maintenance, updates, and monitoring ensure optimal performance and proactive communication keeps users informed during exceptional situations.
 </p>
 
-<h3 align="left">Future Possibilities: </h3>
+<h3 align="left">Future Possibilities: :seedling: </h3>
 
 <p align="left">
 
