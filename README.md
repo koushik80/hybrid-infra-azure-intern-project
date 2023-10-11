@@ -746,7 +746,44 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 | On-premise management               | On-premise management                |
 | ---------------------- | ---------------------- |
-| ![opm8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/991c71ff-9af3-4ae5-b903-befb403b8f23) | ![opm9](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c6a455b7-1fe8-4468-abc1-fcb08ddf07e5) |
+| ![opm9](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/991c71ff-9af3-4ae5-b903-befb403b8f23) | ![opm10](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c6a455b7-1fe8-4468-abc1-fcb08ddf07e5) |
+
+
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![opm11](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8f8a360a-f128-40e6-b146-48b644cef54d) | ![opm12](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dfd96f4f-7bf7-4a29-8397-86b62514236e) |
+
+
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![opm13](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/46939de9-237f-446f-90e6-18f8519ac92c) | ![opm14](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3ab1368f-4d32-43d2-8461-31ed779b4f7f) |
+
+
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![opm15](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7b74b174-9ded-465b-a7c7-d3f1fb402e22) | ![opm16](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/1dacf696-2c22-463d-a743-fbba4bb5f441) |
+
+
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![opm17](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9ad41176-a677-4c10-b310-d5223102dc6c) | ![opm18](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/537b290e-7b2a-4215-a91f-fc9ca0a2d139) |
+
+
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![opm19](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/1e99b6a8-fe6f-4708-bd39-f35d386f4b70) | ![opm20](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a9e829f1-70ec-4e92-9ff6-77aae3195178) |
+
+
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![opm21](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/b0bdbcf7-0636-40bf-bc95-ac70c953a5f5) | ![opm22](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/e36e8488-3417-4de0-b561-cce3b274f16d) |
+
+
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![opm23](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3f2486e8-42a7-486d-a51b-7f57d1148271) | ![opm24](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/25d43ce1-e640-401d-9d8e-f8db2e748daf) |
+
+
 
 </div> <br />
 
