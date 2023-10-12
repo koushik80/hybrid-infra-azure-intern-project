@@ -348,6 +348,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 :white_check_mark: Active Directory Domain Service(ADDS) <br />
 :white_check_mark: AVD(Azure Virtual Desktop) <br />
 :white_check_mark: Azure Active Directory(AAD)/Microsoft Entra ID <br />
+:white_check_mark: Azure AD Connect V2 <br />
 :white_check_mark: Azure Key Vault(Cloud service for securely storing and accessing secrets)<br />
 :white_check_mark: Windows Defender(Security) <br />
 :white_check_mark: Network Security Group(NSG) <br />
@@ -834,6 +835,25 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ![sql1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/59ba597f-0fed-4768-a95a-b691b60cc60b) | ![teams](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0511af85-06c5-44eb-84c2-62f2eb47f5e3) |
 
 <br />
+
+<div>
+
+`MD-102T00-Microsoft-365-Endpoint Administrator` <br />
+
+</div> <br />
+
+
+| Microsoft 365-Entra              | Microsoft 365_Entra               |
+| ---------------------- | ---------------------- |
+| ![entra1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/31efa402-ac2e-4851-bf3f-c3e413c1387f) | ![entra2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/daeb1831-e198-474a-aa01-5fa5e928d417) |
+
+| Microsoft 365-Entra              | Microsoft 365_Entra               |
+| ---------------------- | ---------------------- |
+| ![entra3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/06f68e8f-8b52-4d49-aab8-1d38cfc1579b) | ![entra4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d7f33c35-7c21-41a4-831d-8b4bbd781707) |
+
+
+<br />
+
 <div>
 
 `VNET GATEWAY & Virtual WAN Connection` <br />
