@@ -674,7 +674,6 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ![Migration architecture](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/84dd01c7-09b6-4b9c-90a5-ddcbac54f91b) | ![initial-backup-process_Azure Backup Agent](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/76006cf9-c316-4363-b16a-91eb8649e377) |
 
 
-
 | Discovery_initiated               | Hyper-V Source               |
 | ---------------------- | ---------------------- |
 | ![ Discovery_initiated](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/57ba3bd1-1a99-4060-acfc-942f82cda880) | ![Hyper-V Source](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/61f113d3-90fe-4f39-83a5-e3398c5c4757) |
@@ -729,11 +728,9 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![opm1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/36e729fa-9379-4a48-bb87-e20ff89ff788) | ![opm2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3704daf4-253d-4fbd-ba7e-e671d7f4b6e8) |
 
-
 | On-premise management               | On-premise management                |
 | ---------------------- | ---------------------- |
 | ![opm3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9eb25749-9e61-4c49-80c7-d104c76866e3) | ![opm4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ab093c8c-72ee-4e1d-b285-6a394ad2774d) |
-
 
 | On-premise management               | On-premise management                |
 | ---------------------- | ---------------------- |
@@ -748,26 +745,21 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![opm9](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/991c71ff-9af3-4ae5-b903-befb403b8f23) | ![opm10](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c6a455b7-1fe8-4468-abc1-fcb08ddf07e5) |
 
-
 | On-premise management               | On-premise management                |
 | ---------------------- | ---------------------- |
 | ![opm11](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8f8a360a-f128-40e6-b146-48b644cef54d) | ![opm12](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dfd96f4f-7bf7-4a29-8397-86b62514236e) |
-
 
 | On-premise management               | On-premise management                |
 | ---------------------- | ---------------------- |
 | ![opm13](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/46939de9-237f-446f-90e6-18f8519ac92c) | ![opm14](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3ab1368f-4d32-43d2-8461-31ed779b4f7f) |
 
-
 | On-premise management               | On-premise management                |
 | ---------------------- | ---------------------- |
 | ![opm15](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7b74b174-9ded-465b-a7c7-d3f1fb402e22) | ![opm16](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/1dacf696-2c22-463d-a743-fbba4bb5f441) |
 
-
 | On-premise management               | On-premise management                |
 | ---------------------- | ---------------------- |
 | ![opm17](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9ad41176-a677-4c10-b310-d5223102dc6c) | ![opm18](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/537b290e-7b2a-4215-a91f-fc9ca0a2d139) |
-
 
 | On-premise management               | On-premise management                |
 | ---------------------- | ---------------------- |
@@ -778,12 +770,24 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![opm21](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/b0bdbcf7-0636-40bf-bc95-ac70c953a5f5) | ![opm22](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/e36e8488-3417-4de0-b561-cce3b274f16d) |
 
-
 | On-premise management               | On-premise management                |
 | ---------------------- | ---------------------- |
 | ![opm23](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3f2486e8-42a7-486d-a51b-7f57d1148271) | ![opm24](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/25d43ce1-e640-401d-9d8e-f8db2e748daf) |
 
 
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![dm1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/13ebade7-f6c0-431b-abbc-0f917a1b7e12) | ![dm2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7315a7eb-e401-4179-a26b-e2316ac87fe4) |
+
+
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![dm3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4e68926a-d226-4877-8695-732a4c8290e8) | ![dm4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f2e9b616-73f5-4efe-bb87-f3e7a99ab2f8) |
+
+
+| On-premise management               | On-premise management                |
+| ---------------------- | ---------------------- |
+| ![dm5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4baae76a-4d03-4561-8750-169dbbcc3ffe) | ![dm6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/773a160f-b866-4bdc-9a9b-e778667ec2cb) |
 
 </div> <br />
 
@@ -793,41 +797,39 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 </div> <br />
 
-| MS-100T00(M365)               | MS-100T00(M365)               |
+| Microsoft 365               | Microsoft 365               |
 | ---------------------- | ---------------------- |
 | ![m365a](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fa08449d-fc46-447b-94f8-97dfd5b48a88) | ![m365b](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/b9bf0c1e-da07-4356-a527-b547c08ca24b) |
 
-| MS-100T00(M365)               | MS-100T00(M365)               |
+| Microsoft 365               | Microsoft 365               |
 | ---------------------- | ---------------------- |
 | ![m365c](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cfb660dc-abef-46e3-a5b2-8d9ca474cf58) | ![m365d](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/142bd8b9-5b17-48f6-a638-8761422ef17e) |
 
-| MS-100T00(M365)               | MS-100T00(M365)               |
+| Microsoft 365               | Microsoft 365               |
 | ---------------------- | ---------------------- |
 | ![m365e](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0c926c70-21cf-4645-a35d-87bd2cee2315) | ![m365f](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/1270b01f-4a4d-44aa-b21d-6246af45b5fb) |
 
 
-
-| MS-100T00(M365)               | MS-100T00(M365)               |
+| Microsoft 365               | Microsoft 365               |
 | ---------------------- | ---------------------- |
 | ![m365g](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c6b376c9-32da-4db7-83c4-8d3101c101ea) | ![m365h](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/15a3acfa-5d24-4f5e-b4f4-9fe1c96b34b6) |
 
 
-
-| MS-100T00(M365)               | MS-100T00(M365)               |
+| Microsoft 365               | Microsoft 365               |
 | ---------------------- | ---------------------- |
 | ![m365i](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/66ee1c9e-b7d1-4ad2-8f3f-8cf4e91fc032) | ![m365j](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c40e0bc6-67ca-4d01-8d23-274f8685152f) |
 
 
-| MS-100T00(M365)               | MS-100T00(M365)               |
+| Microsoft 365               | Microsoft 365               |
 | ---------------------- | ---------------------- |
 | ![Entra](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0e9fb7c2-7fb1-47d4-acb1-f4d6a6c8743b) | ![Entra2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/45237dce-d9e4-4b67-9e10-c7987238d1c3) |
 
-| MS-100T00(M365)               | MS-100T00(M365)               |
+| Microsoft 365               | Microsoft 365               |
 | ---------------------- | ---------------------- |
 | ![intune1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7b73ba00-f0fa-465a-911f-4545f83811ed) | ![intune2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0e598735-eab5-4a3c-8dfd-79d952748a73) |
 
 
-| MS-100T00(M365)               | MS-100T00(M365)               |
+| Microsoft 365               | Microsoft 365               |
 | ---------------------- | ---------------------- |
 | ![sql1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/59ba597f-0fed-4768-a95a-b691b60cc60b) | ![teams](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0511af85-06c5-44eb-84c2-62f2eb47f5e3) |
 
@@ -838,35 +840,29 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 </div> <br />
 
-
-| AZ-700               | AZ-700                |
+| AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                | AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 |
 | ---------------------- | ---------------------- |
 | ![vnetGatewayA](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/37269b5f-9ef0-4809-87fd-cf435519c0e8) | ![vnetGatewayB](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/edd251f6-3412-4582-9bba-441c76afc68f) |
 
-| AZ-700                | AZ-700                |
+| AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                | AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 |
 | ---------------------- | ---------------------- |
 | ![vnetGatewayC](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a722322a-7d0a-4eef-adaa-8ba4f9ee5d3f) | ![vnetGatewayD](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3324d914-c285-42bd-a7e2-4fd5e5eb5a09) |
 
-
-
-| AZ-700                | AZ-700                |
+| AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 | AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 |
 | ---------------------- | ---------------------- |
 | ![vnetGatewayE](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0c9f26dd-fc83-4fff-a9d9-e2814ea8a725) | ![vnetGatewayF](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9a0a7f92-8316-4449-8f91-54b49e271f2a) |
 
 
-
-| AZ-700                | AZ-700                |
+| AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 | AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 |
 | ---------------------- | ---------------------- |
 | ![vWAN](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cc63c30a-d6db-460f-9d9f-274ec1d4847d) | ![vWAN-connected vnet](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/161005ba-04dd-4f31-bf13-53d62e037375) |
 
 
-
-| AZ-700                | AZ-700                |
+| AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 | AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 |
 | ---------------------- | ---------------------- |
 | ![vWAN-vnet-connection](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/87fcc58f-6248-4d48-9975-05dcd5a6389a) | ![vWANHub](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dd79c1ec-7134-432b-9dd0-8f83ffc707cf) |
 
 <br />
-
 
 <div>
 
@@ -908,7 +904,6 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | Access blob URI by using the SDK                | Access blob URI by using the SDK                |
 | ---------------------- | ---------------------- |
 | ![az-dev12](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8a940e19-d452-4044-bba5-b93f3cd15a45) | ![az-dev13](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/61026584-f949-4ad7-833c-2fce46af9b03) |
-
 
 | Construct a polyglot data solution                | Construct a polyglot data solution               |
 | ---------------------- | ---------------------- |
@@ -1002,15 +997,15 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 </div> <br />
 
-| AVD                | AVD                |
+| Azure Virtual Desktop                | Azure Virtual Desktop                |
 | ---------------------- | ---------------------- |
 | ![AVD1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/19bf7767-49ed-4152-9b57-83286b45feda) | ![AVD2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ac34f8af-15e8-4893-ba8b-34ab207a6878) |
 
-| AVD                | AVD                |
+| Azure Virtual Desktop                | Azure Virtual Desktop                |
 | ---------------------- | ---------------------- |
 | ![AVD3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f25e13de-c0d1-4246-86ca-0c709c9c84f9) | ![AVD4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8905ce92-383a-47e9-a1b2-12dbf2eeae1f) |
 
-| AVD                | AVD                |
+| Azure Virtual Desktop                | Azure Virtual Desktop                |
 | ---------------------- | ---------------------- |
 | ![AVD5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/084f8ab5-8e6e-4dc7-b1cd-55ae2ec8b730) | ![AVD6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/34be0fce-b2d9-49f1-8487-0897fcb382b6) |
 
@@ -1169,7 +1164,6 @@ My project sets the stage for future enhancements, including the expansion of **
 
 In summary, in this project I have successfully implemented a hybrid cloud environment, aligning with **ITIL** principles, to deliver a reliable, secure, and scalable infrastructure. The integration of **on-premises** and **Azure resources** provides a robust foundation for current and future **IT** initiatives, ensuring ongoing value for any organization and its users.
 
-
 </p>
 
 <h4 align="left"> :eight_spoked_asterisk: Note: Feel free to reach out to me for guidance and assistance throughout the internship. I will be pleased to have you on board and your contributions to the world of IT system architecture!</h4>
@@ -1191,6 +1185,7 @@ In summary, in this project I have successfully implemented a hybrid cloud envir
 [LAB AZ-500 | AzureSecurityTechnologies](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies) <br />
 [LAB AZ-801 | Configuring Windows Server Hybrid Advance Services](https://github.com/koushik80/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services) <br />
 [LAB SC-200T00A | Microsoft-Security-Operations-Analyst](https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst) <br />
+[Microsoft-365-Endpoint-Administrator | MD-102T00](https://github.com/MicrosoftLearning/MD-102T00-Microsoft-365-Endpoint-Administrator) <br />
 [Case Study AZ-305 | Designing Microsoft Azure Infrastructure Solutions](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions) <br />
 [Microsoft-365-Identity-and-Services | MS-100T00](https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/blob/master/Instructions/Labs/LAB_AK_02_Lab1_Ex1_Initialize_M365_Tenant.md) <br />
 [Manage_Users_and_Groups-Microsoft-365 | MS-100T00](https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/blob/master/Instructions/Labs/LAB_AK_02_Lab1_Ex2_Manage_Users_and_Groups.md) <br />
@@ -1222,7 +1217,7 @@ In summary, in this project I have successfully implemented a hybrid cloud envir
 [eduhouse](https://trainings.eduhouse.fi/koulutukset/az-204-developing-solutions-for-microsoft-azure/) <br />
 [GoDaddy](https://fi.godaddy.com/) <br />
 [spiceworks](spiceworks.com) <br />
-[]() <br />
+[Microsoft-365-Endpoint-Administrator | MD-102T00](https://github.com/MicrosoftLearning/MD-102T00-Microsoft-365-Endpoint-Administrator) <br />
 []() <br />
 []() <br />
 []() <br />
