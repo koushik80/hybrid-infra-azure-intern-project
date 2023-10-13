@@ -530,7 +530,7 @@ As the project aims to integrate on-premises and Azure resources, with a focus o
 
  ` Monitoring and Automation: ` <br />
 
- - Several Monitoring tools like Reliability Monitor, Windows Admin Center, Task Manager & Resource Monitor, Performance Monitor & Data Collector Set, Event Viewer, Azure Monitor are also used to ensure the health of the environment, automate routine tasks, and alert on critical events.
+ - Several Monitoring tools like Reliability Monitor, Windows Admin Center, Task Manager & Resource Monitor, Windows Performance Monitor & Data Collector Set, Event Viewer, ping, ipconfig, Tracert/Traceroute, NSLookup, Azure Monitor are also used to ensure the health of the environment, automate routine tasks, and alert on critical events.
 
  ` Alerting Mechanisms: ` <br />
 

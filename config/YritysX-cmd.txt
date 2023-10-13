@@ -1,0 +1,22 @@
+# Connect to the Active Directory domain
+Import-Module ActiveDirectory
+$domainName = "YritysX.local"
+$credential = Get-Credential
+Connect-MsolService -Credential $credential
+
+
+# List all domain members
+Get-ADComputer -Filter * -Server $domainName
+
+# List all users
+Get-ADUser -Filter * -Server $domainName
+
+# List all Organizational Units (OUs)
+Get-ADOrganizationalUnit -Filter * -Server $domainName
+
+# List all Group Policy Objects (GPOs)
+Get-GPO -All
+
+
+# Disconnect from Active Directory
+Remove-Module ActiveDirectory

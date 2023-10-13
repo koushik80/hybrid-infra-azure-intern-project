@@ -1,0 +1,90 @@
+
+
+# For all user:
+Install-Module -Name Az -AllowClobber -Scope CurrentUser
+
+#For current user:
+Install-Module -Name Az -AllowClobber
+
+#Import:
+Import-Module Az
+
+#Connect:
+Connect-AzAccount -TenantID 'my-azure-tenant-ID'
+
+# change the Azure AD tenant context using the Set-AzContext cmdlet:
+
+# Set the desired Azure AD tenant ID
+$tenantId = "<MY New Azure Tenant ID>"
+
+# Set the context to the new tenant
+Set-AzContext -Tenant $tenantId
+
+# To change the active Azure subscription in PowerShell, you can use the Set-AzContext cmdlet with the -Subscription parameter to specify the subscription:
+
+# List all available subscriptions (optional)
+Get-AzSubscription
+
+# Set the desired Azure subscription
+$subscriptionId = "<My New Subscription ID>"
+Set-AzContext -Subscription $subscriptionId
+
+# Check Current Execution Policy: To check the current execution policy on your system, run the following command:
+
+Get-ExecutionPolicy
+
+
+#To change the execution policy, run one of the following commands:
+
+RemoteSigned (recommended for most scenarios):
+
+Set-ExecutionPolicy RemoteSigned
+
+#Unrestricted (less secure, use with caution):
+
+Set-ExecutionPolicy Unrestricted
+
+-------------------------For M365-------------------------
+
+#Install the Microsoft Graph PowerShell Module (if not already installed):
+Install-Module -Name Microsoft.Graph
+
+#Connect to Microsoft Graph:
+
+#After installing the module, connect to Microsoft Graph using the Connect-MgGraph cmdlet. need to provide your credentials:
+Connect-MgGraph
+
+
+-----------------------------Azure AD--------------------------------
+
+# Install AzureAD module if not installed
+Install-Module -Name AzureAD
+
+# Import the module
+Import-Module AzureAD
+
+# Connect to Azure AD
+Connect-AzureAD
+
+# If have the Az module (recommended for newer Azure environments):
+
+# Connect to Azure AD using the Az module
+Connect-AzureADAccount
+
+#Replace "yourusername@yourdomain.com" with actual Azure AD username
+$azureADUser = "myusername@mydomain.com"
+
+# Replace "MyPassword" with my actual Azure AD password
+$azureADPassword = ConvertTo-SecureString "MyPassword" -AsPlainText -Force
+
+# My WKS1 Connection:
+Add-Computer -DomainName "testbliz.onmicrosoft.com" -Credential (New-Object System.Management.Automation.PSCredential ($azureADUser, $azureADPassword)) -OUPath "OU=Computers,DC=YritysX,DC=local" -Server "YritysX.local"
+
+# Disconnect from Azure
+Disconnect-AzureAD
+Disconnect-AzureRmAccount
+
+
+
+
+
