@@ -880,7 +880,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 | Microsoft 365-Entra & Intune              | Microsoft 365-Entra & Intune               |
 | ---------------------- | ---------------------- |
-| ![entra3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/06f68e8f-8b52-4d49-aab8-1d38cfc1579b) | ![entra4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d7f33c35-7c21-41a4-831d-8b4bbd781707) |
+| ![entra3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/06f68e8f-8b52-4d49-aab8-1d38cfc1579b) | ![entra4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/6d71c273-10a6-43ec-9b2b-86a389dde63e) |
 
 | Microsoft 365-Entra & Intune              | Microsoft 365-Entra & Intune               |
 | ---------------------- | ---------------------- |
