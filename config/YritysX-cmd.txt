@@ -17,6 +17,13 @@ Get-ADOrganizationalUnit -Filter * -Server $domainName
 # List all Group Policy Objects (GPOs)
 Get-GPO -All
 
-
 # Disconnect from Active Directory
 Remove-Module ActiveDirectory
+
+# Verify Domain Membership:
+
+(Get-WmiObject -Class Win32_ComputerSystem).PartOfDomain
+
+# Add computer in the domain:
+
+Add-Computer -DomainName "YritysX.local" -Credential (Get-Credential)

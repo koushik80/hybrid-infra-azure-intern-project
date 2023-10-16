@@ -1,5 +1,3 @@
-
-
 # For all user:
 Install-Module -Name Az -AllowClobber -Scope CurrentUser
 
@@ -50,8 +48,8 @@ Set-ExecutionPolicy Unrestricted
 Install-Module -Name Microsoft.Graph
 
 #Connect to Microsoft Graph:
-
 #After installing the module, connect to Microsoft Graph using the Connect-MgGraph cmdlet. need to provide your credentials:
+
 Connect-MgGraph
 
 
@@ -71,7 +69,7 @@ Connect-AzureAD
 # Connect to Azure AD using the Az module
 Connect-AzureADAccount
 
-#Replace "yourusername@yourdomain.com" with actual Azure AD username
+#Replace "myusername@yourdomain.com" with actual Azure AD username
 $azureADUser = "myusername@mydomain.com"
 
 # Replace "MyPassword" with my actual Azure AD password
@@ -79,6 +77,14 @@ $azureADPassword = ConvertTo-SecureString "MyPassword" -AsPlainText -Force
 
 # My WKS1 Connection:
 Add-Computer -DomainName "testbliz.onmicrosoft.com" -Credential (New-Object System.Management.Automation.PSCredential ($azureADUser, $azureADPassword)) -OUPath "OU=Computers,DC=YritysX,DC=local" -Server "YritysX.local"
+
+# To retrive device ID:
+Get-AzureADDevice | Select-Object -Property DeviceId, DisplayName
+
+# Check status:
+dsregcmd /status
+
+
 
 # Disconnect from Azure
 Disconnect-AzureAD
