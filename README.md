@@ -882,7 +882,6 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![entra5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dfec9b2d-6669-44e0-ad1c-85228f54bf3e) | ![intune5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/1ad20b76-10e8-4ace-8d41-d77352533f4c) |
 
-
 <br />
 
 <div>
@@ -946,11 +945,9 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![Retrieve AZ resrc](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/51348c2f-f9aa-43ac-87ef-49f62fe49bfa) | ![az-dev9](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fc899f93-91d7-44bb-9b33-cf56b454202e) |
 
-
 | Retrieve blob Uniform Resource Identifiers                | Create a new container by using the SDK                |
 | ---------------------- | ---------------------- |
 | ![az-dev10](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/57c398ee-576a-4ee7-a364-acaed4374113) | ![az-dev11](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d1fb342b-d26e-43f2-b81e-b2b32af156b4) |
-
 
 | Access blob URI by using the SDK                | Access blob URI by using the SDK                |
 | ---------------------- | ---------------------- |
@@ -965,7 +962,6 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![az-dev15](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a6b741a0-a747-4840-aed9-c3f6054ac01e) | ![az-dev16](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/00227f44-3c65-4f1d-bbeb-17be08e58cdc) |
 
-
 | Authenticate by using OpenID Connect, MSAL, and .NET SDKs                | Authenticate by using OpenID Connect, MSAL, and .NET SDKs              |
 | ---------------------- | ---------------------- |
 | ![authentication-architecture](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0d41ce04-af27-412c-b32d-687febd14a03) | ![az-dev17](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a80a3902-21e9-4d73-b61a-8aa5542f41f5) |
@@ -974,7 +970,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![az-dev18](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/db1bf761-1a1b-465a-88d9-4eea94bd4f10) | ![az-dev19](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/06914fe4-1995-4731-9ece-60a90832f8c6) |
 
-`Access resource secrets more securely across services `
+` Access resource secrets more securely across services `
 
 | Access Resource Securely_Architecture_Diagram                | keyVault              |
 | ---------------------- | ---------------------- |
@@ -987,6 +983,28 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | connect_funcApp                | access_storage              |
 | ---------------------- | ---------------------- |
 | ![funcApp](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/54bc7ba7-f8f3-4e11-a85e-c1b32fdb8b4c) | ![access_storage](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/b77396c0-d2f4-43b1-b1dd-b21d800b232f) |
+
+
+` Create a multi-tier solution by using Azure services `
+
+| API Management Service                | API Management Service               |
+| ---------------------- | ---------------------- |
+| ![http1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4e2d84a3-e931-4ff9-b3c4-68a83fb87058) | ![http2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8b87fffc-2b1d-480f-b98f-07aba764e3bd) |
+
+| API Management Service                | API Management Service               |
+| ---------------------- | ---------------------- |
+| ![http3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/b00f09a5-df02-4bb9-84a4-396bb10dcdef) | ![http4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/88816b87-08d7-4b3e-b418-1f59d0890487) |
+
+
+| API Management Service                | API Management Service               |
+| ---------------------- | ---------------------- |
+| ![http5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a6e3f40d-84c6-49ca-8a49-1da98c801078) | ![http6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/6292e4a9-26d3-4261-bed0-95c5a93b3be2) |
+
+
+| API Management Service                | API Management Service               |
+| ---------------------- | ---------------------- |
+| ![http7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8cec5a7e-3de4-4658-a39f-5ca12fe5bf65) | ![http8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f4b5ac0b-a853-4543-ba14-3afa6ed9bb59) |
+
 
 <br />
 
@@ -1039,7 +1057,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![react-admin-dash7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/6b337930-ef44-4a0e-92dd-edcdeabcbba3) | ![react-admin-dash8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a0cc3203-51fb-4581-9459-891885f99e1d) |
 
-<div>
+<div> <br />
 
 <h3 align="left">Azure Virtual Desktop[AZ-140]</h3> <br />
 
@@ -1132,7 +1150,6 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | Azure SQL DB + Data Studio                | Azure SQL DB + Data Studio                |
 | ---------------------- | ---------------------- |
 | ![az-sqldb3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/816c682f-d244-48fa-a9a9-7e777839b873) | ![az-sqldb4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/abf2d63f-c819-4ea4-a908-4fb526b21fea) |
-
 
 <br />
 
