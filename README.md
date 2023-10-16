@@ -202,7 +202,6 @@ Mapping and describing the IT operating environment within a hybrid IT setup inv
  - While not part of the mapping and description process, it is crucial to document disaster recovery and incident response plans separately from the general environment documentation.
 
 Creating a mapping and description of the hybrid IT operating environment is an ongoing, collaborative effort among IT teams and stakeholders. Maintaining up-to-date documentation is essential for effective IT management and decision-making.
-
 </p>
 
 <h3 align="left">Implementations: :electric_plug: </h3>
@@ -258,68 +257,68 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 
 <h4 align= "left">4. User Support and Customer Guidance:</h4> <br />
 
-- Enhance my communication and problem-solving skills to provide excellent user support.
-- Develop the ability to guide and assist users with workstations, mobile devices, peripherals, and applications.
-- Stay updated with emerging technologies and trends in user support.
+ - Enhance my communication and problem-solving skills to provide excellent user support.
+ - Develop the ability to guide and assist users with workstations, mobile devices, peripherals, and applications.
+ - Stay updated with emerging technologies and trends in user support.
 
 <h4 align="left">5. Domain Environment and M365/Azure Management:</h4> <br />
 
-- Master the maintenance and management of domain environment basic services.
-- Proficiently manage Microsoft 365(M365) and Azure services.
-- Develop problem-solving skills for support tasks related to these environments.
+ - Master the maintenance and management of domain environment basic services.
+ - Proficiently manage Microsoft 365(M365) and Azure services.
+ - Develop problem-solving skills for support tasks related to these environments.
 
 <h4 align="left">6. Communication during Disruptions:</h4> <br />
 
-- Learn how to effectively communicate with customers during significant disruptions or maintenance work.
-- Utilize various communication channels such as webpages, email, and social media tools.
-- Ensure customers are well-informed and minimize disruptions to their work.
+ - Learn how to effectively communicate with customers during significant disruptions or maintenance work.
+ - Utilize various communication channels such as webpages, email, and social media tools.
+ - Ensure customers are well-informed and minimize disruptions to their work.
 
 <h4 align="left">7. Server Hardware and Software Management:</h4> <br />
 
-- Acquire expertise in installing, monitoring, maintaining, and updating physical and virtual servers.
-- Consider hardware requirements for Server installations.
-- Efficiently manage server Hardware and Peripherals.
+ - Acquire expertise in installing, monitoring, maintaining, and updating physical and virtual servers.
+ - Consider hardware requirements for Server installations.
+ - Efficiently manage server Hardware and Peripherals.
 
 <h4 align="left">8. Windows Server and Workstations:</h4> <br />
 
-- Gain proficiency in installing and managing Windows Server 2019, Windows Server 2022 and Windows 10 Pro workstations.
-- Handle system updates and maintenance efficiently, following standardized schedules.
+ - Gain proficiency in installing and managing Windows Server 2019, Windows Server 2022 and Windows 10 Pro workstations.
+ - Handle system updates and maintenance efficiently, following standardized schedules.
 
 <h4 align="left">9. Active Directory and Azure AD:</h4> <br />
 
-- Maintain AD/Azure AD structures and manage user accounts and groups using appropriate tools, including PowerShell.
-- Implement Security Policies and best practices for AD and Azure AD.
+ - Maintain AD/Azure AD structures and manage user accounts and groups using appropriate tools, including PowerShell.
+ - Implement Security Policies and best practices for AD and Azure AD.
 
 <h4 align="left">10. Server and Application Monitoring:</h4> <br />
 
-- Learn to monitor Servers and critical server applications using various tools.
-- Proactively implement maintenance and device/resource management based on monitoring data.
+ - Learn to monitor Servers and critical server applications using various tools.
+ - Proactively implement maintenance and device/resource management based on monitoring data.
 
 <h4 align="left">11. Security Procedures and Applications:</h4> <br />
 
-- Familiarize myself with workplace security procedures and applications.
-- Acquire the skills to restore systems and data in case of Security Incidents.
+ - Familiarize myself with workplace security procedures and applications.
+ - Acquire the skills to restore systems and data in case of Security Incidents.
 
 <h4 align="left">12. Azure Services and Technologies:</h4> <br />
 
-- Explore Azure's Platform-as-a-service (PaaS) offerings, such as Azure App Service and Container Services.
-- Learn about Azure databases, hybrid environments, and Azure Virtual Desktop.
-- Gain a fundamental understanding of Azure architecture and management.
+ - Explore Azure's Platform-as-a-service (PaaS) offerings, such as Azure App Service and Container Services.
+ - Learn about Azure databases, hybrid environments, and Azure Virtual Desktop.
+ - Gain a fundamental understanding of Azure architecture and management.
 
 <h4 align="left">13. Security Technologies and Networking:</h4> <br />
 
-- Implement Security best practices, including Firewalls, Defender, encryption, and Multi-Factor Authentication(MFA).
-- Understand Networking, including IP addressing, Subnets, Routing, and Troubleshooting.
+ - Implement Security best practices, including Firewalls, Defender, encryption, and Multi-Factor Authentication(MFA).
+ - Understand Networking, including IP addressing, Subnets, Routing, and Troubleshooting.
 
 <h4 align="left">14. Monitoring and Collaboration:</h4> <br />
 
-- Use monitoring tools effectively to track system performance, availability, and security incidents.
-- Set up and manage messaging platforms like Microsoft Teams for effective communication and collaboration.
+ - Use monitoring tools effectively to track system performance, availability, and security incidents.
+ - Set up and manage messaging platforms like Microsoft Teams for effective communication and collaboration.
 
 <h4 align="left">15. Microsoft 365:</h4> <br />
 
-- Understand cloud-based productivity tools and services within Microsoft 365.
-- Master email, document sharing, and collaboration features.
+ - Understand cloud-based productivity tools and services within Microsoft 365.
+ - Master email, document sharing, and collaboration features.
 
 <br />
 
@@ -476,19 +475,19 @@ As the project aims to integrate on-premises and Azure resources, with a focus o
 
  `IP Details(followed IPv4): `
 
- - **Server01:** 192.168.100.13
- - **WKS1:** 192.168.100.101
- - **WKS2:** 192.168.100.107
+ - **Server01:** 192.168.100.30
+ - **WKS1:** 192.168.100.160
+ - **WKS2:** 192.168.100.32
  - **DHCP Scope:** 192.168.100.0
  - **DHCP start IP:** 192.168.100.150
  - **DHCP end IP:** 192.168.100.200
  - **Default gateway:** 192.168.100.1
- - **Preferred DNS server:** 192.168.100.13
+ - **Preferred DNS server:** 192.168.100.30
 
 ` Server Naming: ` <br />
 
  - Host machine with Windows 10 Pro.
- - Two Virtual Machines with Windows Server 2019 Datacentre are named Server01 & Server02 as WKS2.
+ - Two Virtual Machines with Windows Server 2019 & 2022 Datacentre are named Server01 & Server02 as WKS2.
  - One Virtual Machine with Windows 10 Enterprise named WKS1.
  - Printer: Canon LBP6650dn
 
@@ -555,8 +554,7 @@ As the project aims to integrate on-premises and Azure resources, with a focus o
 
 ` Continuous Improvement: ` <br />
 
-- Continuously assessed fault diagnosis procedures and adapted them as my network evolved. Learned from past faults to prevent future occurrences.
-
+ - Continuously assessed fault diagnosis procedures and adapted them as my network evolved. Learned from past faults to prevent future occurrences.
 
 </div>
 
