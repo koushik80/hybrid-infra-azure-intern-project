@@ -361,6 +361,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 :white_check_mark: System Center Configuration Manager(SCCM) <br />
 :white_check_mark: SQL Server <sup>2022</sup> <br />
 :white_check_mark: Azure App Service <br />
+:white_check_mark: API Management Service <br />
 :white_check_mark: .NET SDKs <br />
 :white_check_mark: OpenID Connect <br />
 :white_check_mark: MSAL(Microsoft Authentication Library) <br />
