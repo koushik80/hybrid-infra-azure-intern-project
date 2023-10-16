@@ -691,7 +691,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 </div>
 
-<h3 align="left">Migrating Hyper-V VMs to Azure by using Azure Migrate</h3> <br />
+<h3 align="left">Migrating Hyper-V VMs to Azure by using Azure Migrate[AZ-801]</h3> <br />
 
 </div> <br />
 
@@ -707,37 +707,37 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ![ Discovery_initiated](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/57ba3bd1-1a99-4060-acfc-942f82cda880) | ![Hyper-V Source](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/61f113d3-90fe-4f39-83a5-e3398c5c4757) |
 
 
-| Migration(AZ-801)               | Migration(AZ-801)               |
+| Migration               | Migration               |
 | ---------------------- | ---------------------- |
 | ![ Mig1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5148473e-e604-4d84-b482-ebb1428490a4) | ![Mig2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/48fbc180-6ad8-46ab-9081-c0d6fbed9da6) |
 
 
-| Migration(AZ-801)               | Migration(AZ-801)              |
+| Migration               | Migration              |
 | ---------------------- | ---------------------- |
 | ![Mig3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d340c9f0-0758-4c05-ae9b-adde5a2da59f) | ![Mig4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a145e700-fb50-45af-83cb-881f341bf10e) |
 
 
-| Migration(AZ-801)               | Migration(AZ-801)               |
+| Migration               | Migration               |
 | ---------------------- | ---------------------- |
 | ![Mig5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0803a7a0-ca1a-45ec-b624-03ad7912d335) | ![Mig6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8472d36c-c5f7-4269-b2e1-4eb7b31cc491) |
 
 
-| Migration(AZ-801)               | Migration(AZ-801)               |
+| Migration               | Migration               |
 | ---------------------- | ---------------------- |
 | ![Mig7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f9e254bf-15df-4894-89a6-de2cef74e84d) | ![Mig8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4b9869aa-46b2-4560-99ec-9877a7330fb5) |
 
 
-| Migration(AZ-801)               | Migration(AZ-801)               |
+| Migration               | Migration               |
 | ---------------------- | ---------------------- |
 | ![Mig9](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fc0294ba-3743-4107-8ae3-42162fd41130) | ![Mig10](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a735129b-122e-4884-bc93-5a23b747100c) |
 
 
-| Migration(AZ-801)               | Migration(AZ-801)               |
+| Migration               | Migration               |
 | ---------------------- | ---------------------- |
 | ![Mig11](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0193a9a4-9e5b-4c9a-866b-aabcaf47e509) | ![Mig12](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3082caa2-69e1-4aeb-993c-7ec2f7e3f6b6) |
 
 
-| Migration(AZ-801)               | Migration(AZ-801)               |
+| Migration               | Migration               |
 | ---------------------- | ---------------------- |
 | ![Mig13](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/42e37e0c-c994-4675-abc1-1de34e18f82d) | ![Mig14](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ddeb6d4a-6950-4bc9-bd60-33870ff1c152) |
 
@@ -746,7 +746,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 <div>
 
-` On-premise management `
+<h3 align="left">On-premise management</h3> <br />
 
 </div> <br />
 
@@ -821,7 +821,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 <div>
 
-`MS-100T00-Microsoft-365-Identity-and-Services` <br />
+<h3 align="left">Microsoft-365-Identity-and-Services[MS-100T00]</h3> <br />
 
 </div> <br />
 
@@ -865,7 +865,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 <div>
 
-`MD-102T00-Microsoft-365-Endpoint Administrator` <br />
+<h3 align="left">Microsoft-365-Endpoint Administrator[MD-102T00]</h3> <br />
 
 </div> <br />
 
@@ -887,29 +887,29 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 <div>
 
-`VNET GATEWAY & Virtual WAN Connection` <br />
+<h3 align="left">VNET GATEWAY & Virtual WAN Connection[AZ-700]</h3> <br />
 
 </div> <br />
 
-| AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                | AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 |
+| Designing and Implementing Microsoft Azure Networking Solutions                | Designing and Implementing Microsoft Azure Networking Solutions                 |
 | ---------------------- | ---------------------- |
 | ![vnetGatewayA](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/37269b5f-9ef0-4809-87fd-cf435519c0e8) | ![vnetGatewayB](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/edd251f6-3412-4582-9bba-441c76afc68f) |
 
-| AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                | AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 |
+| Designing and Implementing Microsoft Azure Networking Solutions                | Designing and Implementing Microsoft Azure Networking Solutions                 |
 | ---------------------- | ---------------------- |
 | ![vnetGatewayC](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a722322a-7d0a-4eef-adaa-8ba4f9ee5d3f) | ![vnetGatewayD](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3324d914-c285-42bd-a7e2-4fd5e5eb5a09) |
 
-| AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 | AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 |
+| Designing and Implementing Microsoft Azure Networking Solutions                 | Designing and Implementing Microsoft Azure Networking Solutions                 |
 | ---------------------- | ---------------------- |
 | ![vnetGatewayE](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0c9f26dd-fc83-4fff-a9d9-e2814ea8a725) | ![vnetGatewayF](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9a0a7f92-8316-4449-8f91-54b49e271f2a) |
 
 
-| AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 | AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 |
+| Designing and Implementing Microsoft Azure Networking Solutions                 | Designing and Implementing Microsoft Azure Networking Solutions                 |
 | ---------------------- | ---------------------- |
 | ![vWAN](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cc63c30a-d6db-460f-9d9f-274ec1d4847d) | ![vWAN-connected vnet](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/161005ba-04dd-4f31-bf13-53d62e037375) |
 
 
-| AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 | AZ-700(Designing and Implementing Microsoft Azure Networking Solutions)                 |
+| Designing and Implementing Microsoft Azure Networking Solutions                 | Designing and Implementing Microsoft Azure Networking Solutions                 |
 | ---------------------- | ---------------------- |
 | ![vWAN-vnet-connection](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/87fcc58f-6248-4d48-9975-05dcd5a6389a) | ![vWANHub](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dd79c1ec-7134-432b-9dd0-8f83ffc707cf) |
 
@@ -917,7 +917,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 <div>
 
-`AZ-204-DevelopingSolutionsforMicrosoftAzure` <br />
+<h3 align="left">Developing Solutions for MicrosoftAzure[AZ-204]</h3> <br />
 
 </div> <br />
 
@@ -980,12 +980,9 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![diagram](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/16e80d93-d530-4c42-8032-391834b16e96) | ![keyVault](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a4b57b33-2028-4b23-b645-02d422557218) |
 
-
 | Access Resource Securely_Architecture_Diagram                | publish_functionApp              |
 | ---------------------- | ---------------------- |
 | ![funcApp](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a9227c07-9776-417b-9288-bbc313647c2b) | ![publish_functionApp](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fe903ed1-f434-4270-801d-bf5502f76053) |
-
-
 
 | connect_funcApp                | access_storage              |
 | ---------------------- | ---------------------- |
@@ -995,7 +992,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 <div>
 
-`Azure App Service & DevOps` <br />
+<h3 align="left">Azure App Service & DevOps</h3> <br />
 
 </div> <br />
 
@@ -1044,7 +1041,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 <div>
 
-`Azure Virtual Desktop` <br />
+<h3 align="left">Azure Virtual Desktop[AZ-140]</h3> <br />
 
 </div> <br />
 
@@ -1064,7 +1061,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 <div>
 
-`Azure Functions` <br />
+<h3 align="left">Azure Functions</h3> <br />
 
 </div> <br />
 
@@ -1092,31 +1089,29 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 <div>
 
-`AZ-500 Azure Security Technologies` <br />
+<h3 align="left">Azure Security Technologies[AZ-500]</h3> <br />
 
 </div> <br />
 
-| Azure Security Technologies-Firewall                | Azure Security Technologies-Firewall                |
+| Firewall                | Firewall                |
 | ---------------------- | ---------------------- |
 | ![Firewall1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/af68e32d-7430-4b9f-9ee4-b1c26d2fb4d8) | ![Firewall2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ca38f553-5310-43f2-a00c-65654c3ef403) |
 
-| Azure Security Technologies-Firewall                | Azure Security Technologies-Firewall                |
+| Firewall                | Firewall                |
 | ---------------------- | ---------------------- |
 | ![Firewall3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7d53552e-a571-41fb-a794-bc0061ee956e) | ![Firewall4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/638c2230-0332-4a1d-803d-b93b2a3ea55f) |
 
-| Azure Security Technologies-Firewall                | Azure Security Technologies-Firewall                |
+| Firewall                | Firewall                |
 | ---------------------- | ---------------------- |
 | ![Firewall5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/dff88996-3ad7-4d08-8ca8-a1c0c8494814) | ![Firewall6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/bf21ffbe-5c14-4341-a936-5e65e38907a5) |
 
-| Azure Security Technologies-Firewall                | Azure Security Technologies-Firewall                |
+| Firewall                | Firewall                |
 | ---------------------- | ---------------------- |
 | ![Firewall7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/2526001a-db74-4139-8258-d8f35e45bf06) | ![Firewall8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/91586093-babd-4041-8778-2781f352ccd8) |
 
 | Config and Secure ACR & AKS                | Config and Secure ACR & AKS                |
 | ---------------------- | ---------------------- |
 | ![ACR & AKS1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f6c0e96a-075a-4560-b64f-03b00ca11efd) | ![ACR & AKS2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/450e8270-1e2c-4df6-8af5-c9498fa02bfc) |
-
-
 
 | Config and Secure ACR & AKS                | Config and Secure ACR & AKS                |
 | ---------------------- | ---------------------- |
@@ -1126,16 +1121,13 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 <div>
 
-`Azure SQL Database + Data Studio` <br />
+<h3 align="left">Azure SQL Database + Data Studio</h3> <br />
 
 </div> <br />
-
 
 | Azure SQL DB + Data Studio                | Azure SQL DB + Data Studio                |
 | ---------------------- | ---------------------- |
 | ![az-sqldb1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c2243ef0-6f4a-428a-92b5-6352d8bf0e91) | ![az-sqldb2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/82aa4ff5-9f63-4406-bd3e-872ae64a3ffe) |
-
-
 
 | Azure SQL DB + Data Studio                | Azure SQL DB + Data Studio                |
 | ---------------------- | ---------------------- |
@@ -1146,7 +1138,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 <div>
 
-`AZ-104 Azure Administrator` <br />
+<h3 align="left">Azure Administrator[AZ-104]</h3> <br />
 
 </div> <br />
 
@@ -1158,12 +1150,9 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![az-storage3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/95c3260a-8f05-4e0b-a137-c7906e491dd8) | ![az-storage4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7baf536b-cf7c-4757-9586-4283f709399c) |
 
-
 | Azure Storage                | Azure Storage                |
 | ---------------------- | ---------------------- |
 | ![az-storage5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/2d824674-949e-4ce2-8c83-849ed5d7234c) | ![az-storage6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/bb234cf1-aa0c-4805-a0be-3dd059a46f4f) |
-
-
 
 | Azure Storage                | Azure Storage                |
 | ---------------------- | ---------------------- |
