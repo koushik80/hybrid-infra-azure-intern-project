@@ -97,8 +97,7 @@ In this overview, I will delve deeper into the specific projects, challenges, an
 
 **<p align="left"> :pushpin: Criteria: _Manages the system and prepares and implements system-level changes._</p>**
 
-   - [x] I have installed physical and virtual servers considering the hardware requirements. My duties include servicing, monitoring, maintaining and updating server and workstation hardware and peripherals.
-I have installed Windows Server 2019 server operating systems with basic services and standard Windows 10 workstations.
+   - [x] I have installed physical and virtual servers considering the hardware requirements. My duties include servicing, monitoring, maintaining and updating server and workstation hardware and peripherals. I have installed Windows Server 2019 server operating systems with basic services and standard Windows 10 workstations.
 
 **<p align="left"> :pushpin: Criteria: _Monitor server activity and predict problem situations using monitoring tools._</p>**
 
@@ -406,7 +405,6 @@ Creating a mapping and description of the hybrid IT operating environment is an 
  - koushikdey.online
  - bliz1980.online
 
-
 </div>
 
 <h3 align="left"> User Centric Planning: :clipboard: </h3>
@@ -693,7 +691,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 </div>
 
-`Migrating Hyper-V VMs to Azure by using Azure Migrate` <br />
+<h3 align="left">Migrating Hyper-V VMs to Azure by using Azure Migrate</h3> <br />
 
 </div> <br />
 
