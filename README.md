@@ -120,7 +120,7 @@ I have installed Windows Server 2019 server operating systems with basic service
 
 <p align="left">
 
-The project adheres to **ITIL** (Information Technology Infrastructure Library) principles, which provide a structured approach to **IT service management**. **ITIL** ensures that **IT** services align with business needs and are delivered effectively and efficiently. It involves various processes, including incident management, change management, and service request handling, which have been I tried to tailor to the development environment.
+The project adheres to **ITIL** (Information Technology Infrastructure Library) principles, which provide a structured approach to **IT service management**. **ITIL** ensures that **IT** services align with business needs and are delivered effectively and efficiently. It involves various processes, including incident management, change management, and service request handling, which I tried to tailor as much as possible to the development environment.
 </p>
 
 <h3 align="left">Mapping and description of the operating environment: :chart: </h3>
