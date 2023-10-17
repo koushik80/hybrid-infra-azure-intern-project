@@ -42,12 +42,6 @@ In this overview, I will delve deeper into the specific projects, challenges, an
 <h3 align="left">Evaluators: Kari Vikman, Taitotalo & Mikko Sävilahti[external], Founder at Haltu Oy :busts_in_silhouette: </h3>
 
 <div>
-<h3 align="left">Taitotalo: :convenience_store: </h3>
-</div>
-
-<p align="left">Taitotalo, born from the collaboration of AEL and Amiedu on January 1, 2020, is a dynamic educational powerhouse. With a rich history of adapting to the evolving educational landscape, Taitotalo is the leading provider of professional adult education. Offering nearly 90 degree programs, over 60 professional certificates, and more than 600 short training courses spanning various fields, Taitotalo empowers individuals to become skilled professionals. The flexibility of Taitotalo's training and coaching accommodates the demands of modern life, with options available during the day, evening, and online.</p> <a href="https://www.taitotalo.fi">Discover more</a>
-
-<div>
 <h3 align="left">Requirements:</h3>
 </div>
 
