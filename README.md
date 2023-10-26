@@ -1170,7 +1170,6 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![az-storage7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/5f612fa8-9e68-4b39-a267-0478b60795a4) | ![az-storage8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/54690b81-301f-48d6-bf0b-03d89753caf7) |
 
-
 | Backup & Recovery                | Backup & Recovery                |
 | ---------------------- | ---------------------- |
 | ![backupVM1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cb1f142c-6506-46a4-9a07-700e1a918e69) | ![backupVM2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3de07596-f222-46c5-a565-6968eacd3f59) |
@@ -1198,6 +1197,28 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | Monitor                | Monitor                |
 | ---------------------- | ---------------------- |
 | ![monitor5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fb2ce3ab-f93f-4d6a-9a68-126a8f13605d) | ![monitor6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/10bcedfa-ae17-4a4a-9b09-01ca7ae6266e) |
+
+</div> <br />
+
+<h3 align="left">Cisco Lab</h3> <br />
+
+</div> <br />
+
+<div>
+
+| Cisco Lab               | Cisco Lab               |
+| ---------------------- | ---------------------- |
+| ![a1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3f6fa955-6666-41f5-8afd-3f91563fe142) | ![a2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c6111fcf-58a6-45d5-8020-2bf92071eb44) |
+
+
+| Cisco Lab               | Cisco Lab               |
+| ---------------------- | ---------------------- |
+| ![a3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a448da68-d2ce-4c90-aea0-5552f3fd1e56) | ![a4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/173b173e-af0b-48fa-b5db-eef300cdd4ef) |
+
+
+| Cisco Lab               | Cisco Lab               |
+| ---------------------- | ---------------------- |
+| ![a5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ce4a8863-694f-4774-9031-e34915d1487d) | ![a6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c9a34db8-bc33-4ed5-9157-746c22f3fb11) |
 
 </div> <br />
 
