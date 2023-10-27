@@ -13,7 +13,7 @@
 
 <h3 align="left">My ongoing timeline</h3>
 
-<img src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8d7c9b42-430a-4b04-ab72-a41246476420" width="45" height="45"/>
+<img src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8d7c9b42-430a-4b04-ab72-a41246476420" />
 
 </div> <br />
 
