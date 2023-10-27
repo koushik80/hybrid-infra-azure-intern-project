@@ -2,13 +2,21 @@
 
 <div>
 
-
 <div align="center"><img src="https://media.giphy.com/media/qjY1UPzyE2mER9gNbB/giphy.gif" hight="450" width="750"/></div>
 
 <br />
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="45" height="45"/>
-</div>
+</div> <br />
+
+<div align="center">
+
+<h3 align="left">My ongoing timeline</h3>
+
+<img src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8d7c9b42-430a-4b04-ab72-a41246476420" width="45" height="45"/>
+
+</div> <br />
+
 <h2 align="center"><a href="">Hybrid-Infrastructure with Azure  :computer: + :cloud:</a></h2>
 </div>
 
