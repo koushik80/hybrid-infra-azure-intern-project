@@ -1232,7 +1232,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 <h3 align="left">Assignment 1:</h3>
 
-<p align="left">As a new member of the team at Taitotalo, I've been tasked with an exciting project-proposing a fresh network design. Taitotalo has been experiencing significant growth and success with its products, which means we're expanding. However, our current network setup, with a single IP network for all departments, is causing noticeable delays and inefficiencies. I'm working closely with the experienced sales team to come up with a solution. They've suggested enhancing network efficiency by implementing separate department networks with routing. I'm in the process of preparing a demonstration to show how this approach can greatly improve our network efficiency. Here are the details and visual aids that I have implemented:</p>
+<p align="left">As a new member of the team at Taitotalo, I've been tasked with an exciting project-proposing a fresh network design. Taitotalo has been experiencing significant growth and success with its products, which means we're expanding. However, our current network setup, with a single IP network for all departments, is causing noticeable delays and inefficiencies. I'm working closely with the experienced sales team to come up with a solution. They've suggested enhancing network efficiency by implementing separate department networks with routing. I'm in the process of preparing a demonstration to show how this approach can greatly improve our network efficiency. Here are the details and visual aids that I have implemented: (will be updated soon....)</p>
 <br />
 
 
