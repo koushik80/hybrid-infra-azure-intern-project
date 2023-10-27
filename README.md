@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<h3 align="left">My ongoing timeline</h3>
+<h3 align="left">My ongoing timeline[random]</h3>
 
 <img src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8d7c9b42-430a-4b04-ab72-a41246476420" />
 
@@ -1227,6 +1227,18 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | Cisco Lab               | Cisco Lab               |
 | ---------------------- | ---------------------- |
 | ![a5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ce4a8863-694f-4774-9031-e34915d1487d) | ![a6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c9a34db8-bc33-4ed5-9157-746c22f3fb11) |
+
+<br />
+
+<h3 align="left">Assignment 1:</h3>
+
+<p align="left">As a new member of the team at Taitotalo, I've been tasked with an exciting project-proposing a fresh network design. Taitotalo has been experiencing significant growth and success with its products, which means we're expanding. However, our current network setup, with a single IP network for all departments, is causing noticeable delays and inefficiencies. I'm working closely with the experienced sales team to come up with a solution. They've suggested enhancing network efficiency by implementing separate department networks with routing. I'm in the process of preparing a demonstration to show how this approach can greatly improve our network efficiency. Here are the details and visual aids that I have implemented:</p>
+<br />
+
+
+
+
+
 
 </div> <br />
 
