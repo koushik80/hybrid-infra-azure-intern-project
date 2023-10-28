@@ -13,7 +13,7 @@
 
 <h3 align="left">Cisco Learning Path [random]</h3>
 
-<img src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8d7c9b42-430a-4b04-ab72-a41246476420" />
+<img src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d4d3fd6b-dd18-44eb-afbb-d0d7d4314e9c" />
 
 </div> <br />
 
