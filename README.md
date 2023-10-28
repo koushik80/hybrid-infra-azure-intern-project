@@ -1232,12 +1232,22 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 <h3 align="left">Assignment 1:</h3>
 
-<p align="left">As a new member of the team at Taitotalo, I've been tasked with an exciting project-proposing a fresh network design. Taitotalo has been experiencing significant growth and success with its products, which means we're expanding. However, our current network setup, with a single IP network for all departments, is causing noticeable delays and inefficiencies. I'm working closely with the experienced sales team to come up with a solution. They've suggested enhancing network efficiency by implementing separate department networks with routing. I'm in the process of preparing a demonstration to show how this approach can greatly improve our network efficiency. Here are the details and visual aids that I have implemented: (will be updated soon....)</p>
+<p align="left">As a new member of the team at Taitotalo, I've been tasked with an exciting project-proposing a fresh network design. Taitotalo has been experiencing significant growth and success with its products, which means we're expanding. However, our current network setup, with a single IP network for all departments, is causing noticeable delays and inefficiencies. I'm working closely with the experienced sales team to come up with a solution. They've suggested enhancing network efficiency by implementing separate department networks with routing. I'm in the process of preparing a demonstration to show how this approach can greatly improve our network efficiency. Here are the details and visual aids that I have implemented:</p>
 <br />
 
+| Cisco Lab               | Cisco Lab               |
+| ---------------------- | ---------------------- |
+| ![a7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d72632df-9534-42c1-a83b-7d6b879564e2) | ![a8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/42d27801-0f70-47cd-b1b8-b8864e79d2a5) |
 
 
+| Cisco Lab               | Cisco Lab               |
+| ---------------------- | ---------------------- |
+| ![a9](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/102322ed-d650-4311-abfe-94236bad19dc) | ![a10](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cc07b534-d6bb-4c2a-9ca0-125211a22fff) |
 
+
+| Cisco Lab               | Cisco Lab               |
+| ---------------------- | ---------------------- |
+| ![a11](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/2608a960-da10-4e5c-b315-0422784dbcc8) | ![a12](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/6f9c2eea-94ae-4885-ae89-97d0fe7361c8) |
 
 
 </div> <br />
