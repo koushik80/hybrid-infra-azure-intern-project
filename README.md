@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<h3 align="left">My ongoing timeline[random]</h3>
+<h3 align="left">Cisco Learning Path [random]</h3>
 
 <img src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8d7c9b42-430a-4b04-ab72-a41246476420" />
 
