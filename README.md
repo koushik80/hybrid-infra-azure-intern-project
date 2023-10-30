@@ -11,9 +11,9 @@
 
 <div align="center">
 
-<h3 align="left">Cisco Learning Path [random]</h3>
+<h3 align="left">Cisco Networking & Cybersecurity Learning Path [random]</h3>
 
-<img src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d4d3fd6b-dd18-44eb-afbb-d0d7d4314e9c" />
+<img src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0f9d39ee-59d5-4df6-a697-23cf8e03bed5" />
 
 </div> <br />
 
@@ -24,9 +24,7 @@
 <h4 align="center"><a href="">[underdevelopment...]</a></h4>
 </div>
 
-
 <br />
-
 
 <h1 align="center">IT System Expert Internship</h1>
 
