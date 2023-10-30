@@ -13,7 +13,7 @@
 
 <h3 align="left">Cisco Networking & Cybersecurity Learning Path [random]</h3>
 
-<img src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0f9d39ee-59d5-4df6-a697-23cf8e03bed5" />
+<img src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ce5b3fee-fd8f-49aa-827e-9b7cd118587a" />
 
 </div> <br />
 
@@ -1005,6 +1005,10 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | API Management Service                | API Management Service               |
 | ---------------------- | ---------------------- |
 | ![http7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8cec5a7e-3de4-4658-a39f-5ca12fe5bf65) | ![http8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f4b5ac0b-a853-4543-ba14-3afa6ed9bb59) |
+
+<br />
+
+` Monitor services that are deployed to Azure `
 
 
 <br />
