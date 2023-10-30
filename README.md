@@ -803,16 +803,13 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![opm23](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/3f2486e8-42a7-486d-a51b-7f57d1148271) | ![opm24](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/25d43ce1-e640-401d-9d8e-f8db2e748daf) |
 
-
 | On-premise management               | On-premise management                |
 | ---------------------- | ---------------------- |
 | ![dm1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/13ebade7-f6c0-431b-abbc-0f917a1b7e12) | ![dm2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7315a7eb-e401-4179-a26b-e2316ac87fe4) |
 
-
 | On-premise management               | On-premise management                |
 | ---------------------- | ---------------------- |
 | ![dm3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4e68926a-d226-4877-8695-732a4c8290e8) | ![dm4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f2e9b616-73f5-4efe-bb87-f3e7a99ab2f8) |
-
 
 | On-premise management               | On-premise management                |
 | ---------------------- | ---------------------- |
@@ -838,16 +835,13 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![m365e](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0c926c70-21cf-4645-a35d-87bd2cee2315) | ![m365f](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/1270b01f-4a4d-44aa-b21d-6246af45b5fb) |
 
-
 | Microsoft 365               | Microsoft 365               |
 | ---------------------- | ---------------------- |
 | ![m365g](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c6b376c9-32da-4db7-83c4-8d3101c101ea) | ![m365h](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/15a3acfa-5d24-4f5e-b4f4-9fe1c96b34b6) |
 
-
 | Microsoft 365               | Microsoft 365               |
 | ---------------------- | ---------------------- |
 | ![m365i](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/66ee1c9e-b7d1-4ad2-8f3f-8cf4e91fc032) | ![m365j](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c40e0bc6-67ca-4d01-8d23-274f8685152f) |
-
 
 | Microsoft 365               | Microsoft 365               |
 | ---------------------- | ---------------------- |
@@ -856,7 +850,6 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | Microsoft 365               | Microsoft 365               |
 | ---------------------- | ---------------------- |
 | ![intune1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7b73ba00-f0fa-465a-911f-4545f83811ed) | ![intune2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0e598735-eab5-4a3c-8dfd-79d952748a73) |
-
 
 | Microsoft 365               | Microsoft 365               |
 | ---------------------- | ---------------------- |
@@ -869,7 +862,6 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 <h3 align="left">Microsoft-365-Endpoint Administrator[MD-102T00]</h3> <br />
 
 </div> <br />
-
 
 | Microsoft 365-Entra & Intune             | Microsoft 365-Entra & Intune               |
 | ---------------------- | ---------------------- |
@@ -903,11 +895,9 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![vnetGatewayE](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/0c9f26dd-fc83-4fff-a9d9-e2814ea8a725) | ![vnetGatewayF](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9a0a7f92-8316-4449-8f91-54b49e271f2a) |
 
-
 | Designing and Implementing Microsoft Azure Networking Solutions                 | Designing and Implementing Microsoft Azure Networking Solutions                 |
 | ---------------------- | ---------------------- |
 | ![vWAN](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/cc63c30a-d6db-460f-9d9f-274ec1d4847d) | ![vWAN-connected vnet](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/161005ba-04dd-4f31-bf13-53d62e037375) |
-
 
 | Designing and Implementing Microsoft Azure Networking Solutions                 | Designing and Implementing Microsoft Azure Networking Solutions                 |
 | ---------------------- | ---------------------- |
@@ -958,7 +948,6 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![Data Solution Architecture](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/6b92ec73-39d6-4481-b35e-f45dede99c1f) | ![az-dev14](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/098faed6-8dec-4c57-aa3b-624fe9e4c1d4) |
 
-
 | Construct a polyglot data solution                | Construct a polyglot data solution               |
 | ---------------------- | ---------------------- |
 | ![az-dev15](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a6b741a0-a747-4840-aed9-c3f6054ac01e) | ![az-dev16](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/00227f44-3c65-4f1d-bbeb-17be08e58cdc) |
@@ -996,11 +985,9 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![http3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/b00f09a5-df02-4bb9-84a4-396bb10dcdef) | ![http4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/88816b87-08d7-4b3e-b418-1f59d0890487) |
 
-
 | API Management Service                | API Management Service               |
 | ---------------------- | ---------------------- |
 | ![http5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a6e3f40d-84c6-49ca-8a49-1da98c801078) | ![http6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/6292e4a9-26d3-4261-bed0-95c5a93b3be2) |
-
 
 | API Management Service                | API Management Service               |
 | ---------------------- | ---------------------- |
@@ -1009,6 +996,12 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 <br />
 
 ` Monitor services that are deployed to Azure `
+
+<br />
+
+| Monitor services                | Monitor services               |
+| ---------------------- | ---------------------- |
+| ![m1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/2eddac41-40fa-4cfb-afd7-a2bcb410905d) | ![m2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/1f806924-2f0b-42a8-a17a-623e8279b1d3) |
 
 
 <br />
