@@ -13,7 +13,7 @@
 
 <h3 align="left">Cisco Networking & Cybersecurity Learning Path [random]</h3>
 
-<img src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/79e0b9b8-462b-4611-8656-bc9d8c5110c1" />
+<img src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a041cc87-cbf5-4345-aea4-db847530bdb4" />
 
 </div> <br />
 
