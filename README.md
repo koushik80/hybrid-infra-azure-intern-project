@@ -1,12 +1,12 @@
 ## Hi there! Here is my Project information
 
 <div align="center">
-<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>
+<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="100" height="100"/>
 </div>
 
 <div>
 
-<div align="center"><img src="https://media.giphy.com/media/qjY1UPzyE2mER9gNbB/giphy.gif" hight="650" width="850"/></div>
+<div align="center"><img src="https://media.giphy.com/media/qjY1UPzyE2mER9gNbB/giphy.gif" hight="550" width="850"/></div>
 
 <br />
 <div id="header" align="center">
