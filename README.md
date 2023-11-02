@@ -1,4 +1,4 @@
-## Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/> Here is my Project information
+## Hi there! Here is my Project information <img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>
 
 <div>
 
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<h3 align="left">Badges earned during Internship and ongoing learning path towards Cloud, Networking & Cybersecurity. Azure DevOps was implemented in this project.</h3>
+<h4 align="left">Badges earned during Internship and ongoing learning path towards Cloud, Networking and cybersecurity. Azure DevOps was implemented in this project.</h4>
 
 <img width="1791" alt="ciscopath" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/97d040c0-805c-43cb-9cb7-f2a5645bdbc1">
 <img width="1791" alt="badges" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fe403857-ae28-4588-ba1c-099f9f770286">
