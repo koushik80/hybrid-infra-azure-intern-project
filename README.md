@@ -1,6 +1,6 @@
 ## Hi there! Here is my Project information
 
-<div align="right">
+<div align="center">
 <img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>
 </div>
 
