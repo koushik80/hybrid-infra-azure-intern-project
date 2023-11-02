@@ -11,9 +11,10 @@
 
 <div align="center">
 
-<h3 align="left">Cisco Networking & Cybersecurity Learning Path [random]</h3>
+<h3 align="left">Badges earned during Internship and ongoing learning path towards Cloud, DevOps, Networking & Cybersecurity</h3>
 
-<img src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a041cc87-cbf5-4345-aea4-db847530bdb4" />
+<img width="1791" alt="ciscopath" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/97d040c0-805c-43cb-9cb7-f2a5645bdbc1">
+<img width="1791" alt="badges" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fe403857-ae28-4588-ba1c-099f9f770286">
 
 </div> <br />
 
