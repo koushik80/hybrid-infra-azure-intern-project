@@ -1044,21 +1044,41 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![az-devops7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/55742167-cb20-4052-8f0b-f7e9e5489871) | ![az-devops8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d05144de-7485-4896-aa36-0f2369cc21f7) |
 
-| React Admin Dashboard                | React Admin Dashboard                |
+| React & Azure DevOps                | React & Azure DevOps                |
 | ---------------------- | ---------------------- |
 | ![react-admin-dash1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f92153c2-b39e-4acd-9ce2-1a2981f5fafd) | ![react-admin-dash2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/b85671a8-9c4d-4438-9155-f0968ace9630) |
 
-| React Admin Dashboard                | React Admin Dashboard                |
+| React & Azure DevOps                | React & Azure DevOps                |
 | ---------------------- | ---------------------- |
 | ![react-admin-dash3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/eb451dff-09cb-47f6-b569-820d74e9424c) | ![react-admin-dash4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/c8809e7b-626d-4394-9c76-b7a6fd68f2c9) |
 
-| React Admin Dashboard                | React Admin Dashboard                |
+| React & Azure DevOps                | React & Azure DevOps                |
 | ---------------------- | ---------------------- |
 | ![react-admin-dash5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4141b52a-34f0-4170-8ce7-076921586405) | ![react-admin-dash6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/bdfbcbf4-737e-4f12-91fd-3c1741369340) |
 
-| React Admin Dashboard                | React Admin Dashboard                |
+| React & Azure DevOps                | React & Azure DevOps                |
 | ---------------------- | ---------------------- |
 | ![react-admin-dash7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/6b337930-ef44-4a0e-92dd-edcdeabcbba3) | ![react-admin-dash8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a0cc3203-51fb-4581-9459-891885f99e1d) |
+
+| React & Azure DevOps                | React & Azure DevOps                |
+| ---------------------- | ---------------------- |
+| ![devop1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d87eaff1-b1ed-4b1d-a980-b804eb70d35f) | ![devop2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/aa080bc7-0760-4a4d-82ea-dc6e8b98469e) |
+
+
+| React & Azure DevOps                | React & Azure DevOps                |
+| ---------------------- | ---------------------- |
+| ![devop3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/b4095547-2508-438a-89db-1b5251a891da) | ![devop4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/7328dcc0-5111-4378-ba30-75cdab9c1dbe) |
+
+
+| React & Azure DevOps                | React & Azure DevOps                |
+| ---------------------- | ---------------------- |
+| ![devop5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/540299e7-8183-4768-acb9-aa9f5e1afee7) | ![devop6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/61a90dff-e6fa-4c39-acd1-50c3ee0ec7e8) |
+
+
+| React & Azure DevOps                | React & Azure DevOps                |
+| ---------------------- | ---------------------- |
+| ![devop7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d2cea039-4679-4a39-b224-e682b9d28c3d) | ![devop8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ad7222eb-4cec-467b-a110-74a8c869bbf8) |
+
 
 <div> <br />
 
@@ -1276,7 +1296,7 @@ In summary, in this project I have successfully implemented a hybrid cloud envir
 
 </p>
 
-<h4 align="left"> :eight_spoked_asterisk: Note: Feel free to reach out to me for guidance and assistance throughout the internship. I will be pleased to have you on board and your contributions to the world of IT system architecture!</h4>
+<h4 align="left"> :eight_spoked_asterisk: Note: Feel free to reach out to me for guidance and assistance throughout the internship. I will be pleased to have you on board and your contributions to the world of IT system architecture! Thank you.</h4>
 
 ---
 
@@ -1328,7 +1348,7 @@ In summary, in this project I have successfully implemented a hybrid cloud envir
 [GoDaddy](https://fi.godaddy.com/) <br />
 [spiceworks](spiceworks.com) <br />
 [Microsoft-365-Endpoint-Administrator | MD-102T00](https://github.com/MicrosoftLearning/MD-102T00-Microsoft-365-Endpoint-Administrator) <br />
-[]() <br />
+[Azure DevOps](https://www.youtube.com/watch?v=DoWhZO7nbCY) <br />
 []() <br />
 []() <br />
 []() <br />
