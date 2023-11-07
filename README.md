@@ -379,7 +379,7 @@ Creating a mapping and description of the hybrid IT operating environment is an 
 :white_check_mark: VS Code <br />
 :white_check_mark: draw.io <br />
 
-</div> <br />
+</div>
 
 <div>
 
@@ -1078,6 +1078,11 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | React & Azure DevOps                | React & Azure DevOps                |
 | ---------------------- | ---------------------- |
 | ![devop7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d2cea039-4679-4a39-b224-e682b9d28c3d) | ![devop8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ad7222eb-4cec-467b-a110-74a8c869bbf8) |
+
+
+| React & Azure DevOps                | React & Azure DevOps                |
+| ---------------------- | ---------------------- |
+| ![devop9](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/032f09f1-74ab-4680-a052-d5a2d14abfd3) | ![devop10](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8e86e13f-19c1-4701-a660-984e8a0e166f) |
 
 
 <div> <br />
