@@ -13,15 +13,6 @@
  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="45" height="45"/>
 </div> <br />
 
-<div align="center">
-
-<h4 align="left">Badges earned during Internship and ongoing learning path towards Cloud, Networking and cybersecurity. Azure DevOps was implemented in this project.</h4>
-
-<img width="1791" alt="ciscopath" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/97d040c0-805c-43cb-9cb7-f2a5645bdbc1">
-<img width="1791" alt="badges" src="https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fe403857-ae28-4588-ba1c-099f9f770286">
-
-</div> <br />
-
 <h2 align="center"><a href="">Hybrid-Infrastructure with Azure  :computer: + :cloud:</a></h2>
 </div>
 
