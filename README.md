@@ -928,7 +928,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 
 ` Retrieve Azure Storage resources and metadata by using the Azure Storage SDK for .NET `
 
-| Architecture: Retrieving resources               | Retrieving resources                |
+| Retrieving resources               | Retrieving resources                |
 | ---------------------- | ---------------------- |
 | ![Retrieve AZ resrc](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/51348c2f-f9aa-43ac-87ef-49f62fe49bfa) | ![az-dev9](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fc899f93-91d7-44bb-9b33-cf56b454202e) |
 
@@ -1221,6 +1221,21 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | Monitor                | Monitor                |
 | ---------------------- | ---------------------- |
 | ![monitor5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fb2ce3ab-f93f-4d6a-9a68-126a8f13605d) | ![monitor6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/10bcedfa-ae17-4a4a-9b09-01ca7ae6266e) |
+
+
+| Azure VNET                | Azure VNET                |
+| ---------------------- | ---------------------- |
+| ![N1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a8b2aa52-cb1b-463c-80f0-a4bd87644c6d) | ![N2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/83d94a2f-15bb-4900-8164-c7e807e0905f) |
+
+
+| Azure VNET                | Azure VNET                |
+| ---------------------- | ---------------------- |
+| ![N3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/f3075ba5-7cbe-41e7-8098-671a72a6ade3) | ![N4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/fdfdce18-0519-42fd-92f4-3ce482c4fe1c) |
+
+
+| Azure VNET                | Azure VNET                |
+| ---------------------- | ---------------------- |
+| ![N5](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/9c69097d-9531-4f4c-b172-1318dcb849b2) | ![N6](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/6b7b87a3-68fa-4307-ad02-025e540e6557) |
 
 </div> <br />
 
