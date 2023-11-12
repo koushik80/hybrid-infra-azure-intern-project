@@ -1,5 +1,9 @@
 ## Hi there! Here is my Project information
 
+<div align="right">
+<h2 align="right"><a href="https://learn.microsoft.com/en-gb/users/koushikdey-4401/achievements?source=docs">Me & Microsoft</a></h2>
+</div>
+
 <div align="center">
 <img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="100" height="100"/>
 </div>
@@ -9,6 +13,7 @@
 <div align="center"><img src="https://media.giphy.com/media/qjY1UPzyE2mER9gNbB/giphy.gif" hight="550" width="850"/></div>
 
 <br />
+
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="45" height="45"/>
 </div> <br />
@@ -16,15 +21,10 @@
 <h2 align="center"><a href="">Hybrid-Infrastructure with Azure  :computer: + :cloud:</a></h2>
 </div>
 
-<div>
-<h4 align="center"><a href="">[underdevelopment...]</a></h4>
-</div>
-
 <br />
-
 <h1 align="center">IT System Expert Internship</h1>
 
-<p align="left">Welcome to the overview of my IT System Expert(Cross-Functional Role) Internship overview! At Taitotalo, I was presented with a unique opportunity to explore various IT roles, including System Expert, Network Expert, Application Expert, Information and Communication Technology Solutions Consultant, Information and Communication Technology Operator, and Cyber Security Expert. However, I didn't limit myself to just one area of expertise; while I had the option to specialize in a single role, I chose to embrace a dynamic approach by working across multiple domains.
+<p align="left">Welcome to the overview of my IT System Expert(Cross-Functional Role) Internship overview! At Taitotalo, I was presented with a unique opportunity to explore various IT roles, including System Expert, Network Expert, Application Expert, Information and Communication Technology Solutions Consultant, Information and Communication Technology Operator, and Cybersecurity Expert. However, I didn't limit myself to just one area of expertise; while I had the option to specialize in a single role, I chose to embrace a dynamic approach by working across multiple domains.
 
 Throughout this internship, I leveraged my proficiency in scripting languages and ventured into diverse areas such as **Networking**(a requirement for Network Experts) **Azure and on-premise Security Technologies**, various **Microsoft 365 applications** (a requirement for Application Experts), **DevOps practices**, and **Web Application Deployment**, **SQL Server config** in addition to fulfilling the requirements of the **System Expert** role.
 
