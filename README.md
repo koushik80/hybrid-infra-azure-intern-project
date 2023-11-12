@@ -1,7 +1,7 @@
 ## Hi there! Here is my Project information
 
 <div align="right">
-<h3 align="right"><a href="https://learn.microsoft.com/en-gb/users/koushikdey-4401/achievements?source=docs">Me & Microsoft</a></h3>
+<h4 align="right"><a href="https://learn.microsoft.com/en-gb/users/koushikdey-4401/achievements?source=docs">Me & Microsoft</a></h4>
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="45" height="45"/>
 </div> <br />
 
-<h2 align="center"><a href="">Hybrid-Infrastructure with Azure  :computer: + :cloud:</a></h2>
+<h3 align="center"><a href="">Hybrid-Infrastructure with Azure</a></h3>
 </div>
 
 <br />
