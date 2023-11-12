@@ -17,13 +17,12 @@
 
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/778doP94sNJjYitr5C/giphy.gif" width="45" height="45"/>
-</div> <br />
-
-<h3 align="center"><a href="">Hybrid-Infrastructure with Azure</a></h3>
+</div>
 </div>
 
 <br />
 <h1 align="center">IT System Expert Internship</h1>
+<h3 align="center"><a href="">Hybrid-Infrastructure with Azure</a></h3>
 
 <p align="left">Welcome to the overview of my IT System Expert(Cross-Functional Role) Internship overview! At Taitotalo, I was presented with a unique opportunity to explore various IT roles, including System Expert, Network Expert, Application Expert, Information and Communication Technology Solutions Consultant, Information and Communication Technology Operator, and Cybersecurity Expert. However, I didn't limit myself to just one area of expertise; while I had the option to specialize in a single role, I chose to embrace a dynamic approach by working across multiple domains.
 
