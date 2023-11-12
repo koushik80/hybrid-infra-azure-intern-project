@@ -1,8 +1,9 @@
 ## Hi there! Here is my Project information
 
-<div align="center">
-<img src="https://i.gifer.com/7rKM.gif" width="100" height="100"/>
+<div align="right">
+<img src="https://i.gifer.com/7rKM.gif" width="40" height="40"/>
 </div>
+<h4 align="right"><a href="https://learn.microsoft.com/en-gb/users/koushikdey-4401/achievements?source=docs">Me & Microsoft</a></h4>
 
 <div align="center">
 <img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="100" height="100"/>
