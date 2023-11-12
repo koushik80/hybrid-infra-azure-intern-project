@@ -1,8 +1,7 @@
 ## Hi there! Here is my Project information
 
-<div align="right">
-
-<img src="https://i.gifer.com/7rKM.gif" width="40" height="40"/>
+<div align="center">
+<img src="https://i.gifer.com/7rKM.gif" width="100" height="100"/>
 </div>
 
 <div align="center">
