@@ -1,7 +1,7 @@
 ## Hi there! Here is my Project information
 
 <div align="right">
-<h2 align="right"><a href="https://learn.microsoft.com/en-gb/users/koushikdey-4401/achievements?source=docs">Me & Microsoft</a></h2>
+<h3 align="right"><a href="https://learn.microsoft.com/en-gb/users/koushikdey-4401/achievements?source=docs">Me & Microsoft</a></h3>
 </div>
 
 <div align="center">
