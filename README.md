@@ -22,7 +22,7 @@
 
 <br />
 <h1 align="center">IT System Expert Internship</h1>
-<h3 align="center"><a href="">Hybrid-Infrastructure with Azure</a></h3>
+<h3 align="center"><a href="">Hybrid Infrastructure with Azure</a></h3>
 
 <p align="left">Welcome to the overview of my IT System Expert(Cross-Functional Role) Internship overview! At Taitotalo, I was presented with a unique opportunity to explore various IT roles, including System Expert, Network Expert, Application Expert, Information and Communication Technology Solutions Consultant, Information and Communication Technology Operator, and Cybersecurity Expert. However, I didn't limit myself to just one area of expertise; while I had the option to specialize in a single role, I chose to embrace a dynamic approach by working across multiple domains.
 
@@ -652,7 +652,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
  - To monitor the status of replication, back on the **Azure Migrate | Servers, databases and web apps** page, selected **Refresh** and then, in the **Migration and modernization** section, selected the **Replicating servers entry**. On the **Migration and modernization | Replicating machines** page, examineed the **Status** column in the list of the replicating machines.
  - After 15 minutes the status changed as **Protected**.
 
-` Perform Migration of Hyper-V VM`
+` Perform Migration of Hyper-V VM `
 
  - On the Azure portal, on the **Migration and modernization | Replicating machines** page, selected the entry representing the HDC1 virtual machine.
  - On the **HDC1** VM page, selected **Test migration**.
@@ -1051,6 +1051,7 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![react-admin-dash7](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/6b337930-ef44-4a0e-92dd-edcdeabcbba3) | ![react-admin-dash8](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/a0cc3203-51fb-4581-9459-891885f99e1d) |
 
+
 | React & Azure DevOps                | React & Azure DevOps                |
 | ---------------------- | ---------------------- |
 | ![devop1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d87eaff1-b1ed-4b1d-a980-b804eb70d35f) | ![devop2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/aa080bc7-0760-4a4d-82ea-dc6e8b98469e) |
@@ -1075,6 +1076,14 @@ Additionally, **Azure** provides **Site Recovery** for disaster recovery purpose
 | ---------------------- | ---------------------- |
 | ![devop9](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/032f09f1-74ab-4680-a052-d5a2d14abfd3) | ![devop10](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/8e86e13f-19c1-4701-a660-984e8a0e166f) |
 
+
+| Azure Kubernetes                | Azure Kubernetes                |
+| ---------------------- | ---------------------- |
+| ![kube1](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/4ee69436-1c2f-4d8f-b20c-316279ef9e3b) | ![kube2](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/d2b6b77e-25aa-4035-8e19-76d9ba9b5fda) |
+
+| Azure Kubernetes                | Azure Kubernetes                |
+| ---------------------- | ---------------------- |
+| ![kube3](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/b9669d04-5114-4626-8183-36dbe3368a2e) | ![kube4](https://github.com/koushik80/hybrid-infra-azure-intern-project/assets/89943976/ab8bc03e-3262-4860-b73e-d4179edf7178) |
 
 <div> <br />
 
