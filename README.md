@@ -97,7 +97,7 @@ In this overview, I will delve deeper into the specific projects, challenges, an
 
 **<p align="left"> :pushpin: Criteria: _Monitor server activity and predict problem situations using monitoring tools._</p>**
 
-   - [x] I maintain AD's/AZURE AD's structure, groups/users with the help of ADUC, Azure management, Admin center and Intune and, if necessary, using PowerShell.I monitor servers and the most critical server applications with local operating system and server manufacturer tools, System Center and Azure management monitoring tools, and proactively strive to implement maintenance and device/resource management.
+   - [x] I maintain AD's/Microsoft Entra ID's structure, groups/users with the help of ADUC, Azure management, Admin center and Intune and, if necessary, using PowerShell.I monitor servers and the most critical server applications with local operating system and server manufacturer tools, System Center and Azure management monitoring tools, and proactively strive to implement maintenance and device/resource management.
 
 **<p align="left"> :pushpin: Criteria: _Automate system-level tasks._</p>**
 
